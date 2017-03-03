@@ -26,3 +26,4 @@
 23. [torchcraft-py](https://github.com/deepcraft/torchcraft-py)
 24. [pytorch tutorials](https://github.com/pytorch/tutorials)
 25. [generative models](https://github.com/wiseodd/generative-models)
+26. [torch-sampling](https://github.com/ncullen93/torchsample)
