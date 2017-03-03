@@ -27,3 +27,4 @@
 24. [pytorch tutorials](https://github.com/pytorch/tutorials)
 25. [generative models](https://github.com/wiseodd/generative-models)
 26. [torch-sampling](https://github.com/ncullen93/torchsample)
+27. [T-SNE in pytorch](https://github.com/cemoody/topicsne)
