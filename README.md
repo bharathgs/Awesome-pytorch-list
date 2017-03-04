@@ -1,9 +1,9 @@
 # pytorch-list
 
-0. [pytorch](https://github.com/pytorch/pytorch) : Tensors and Dynamic neural networks in Python with strong GPU acceleration http://pytorch.org
-1. [Cnn-text classification](https://github.com/Shawn1993/cnn-text-classification-pytorch)
-2. [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification)
-3. [deepspeach2](https://github.com/SeanNaren/deepspeech.pytorch)
+0. [pytorch](https://github.com/pytorch/pytorch) : Tensors and Dynamic neural networks in Python with strong GPU acceleration http://pytorch.org  
+1. [Cnn-text classification](https://github.com/Shawn1993/cnn-text-classification-pytorch) : This is the implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in PyTorch.  
+2. [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification) : A simple implementation of CNN based text classification in Pytorch  
+3. [deepspeach2](https://github.com/SeanNaren/deepspeech.pytorch) : Implementation of DeepSpeech2 using Baidu Warp-CTC. Creates a network based on the DeepSpeech2 architecture, trained with the CTC activation function.  
 4. [convnet](https://github.com/eladhoffer/convNet.pytorch)
 5. [seq2seq](https://github.com/MaximumEntropy/Seq2Seq-PyTorch)
 6. [Asynchronous Advantage Actor-Critic in PyTorch](https://github.com/rarilurelo/pytorch_a3c)
