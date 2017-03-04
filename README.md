@@ -30,3 +30,10 @@
 27. [T-SNE in pytorch](https://github.com/cemoody/topicsne)
 28. [optnet](https://github.com/locuslab/optnet)
 29. [qp solver](https://github.com/locuslab/qpth)
+30. [Continuous Deep Q-Learning with Model-based Acceleration ](https://github.com/ikostrikov/pytorch-naf)
+31. [Learning to learn by gradient descent by gradient descent](https://github.com/ikostrikov/pytorch-meta-optimizer)
+32. [Fast Neural Style for Image Style Transform by Pytorch](https://github.com/bengxy/FastNeuralStyle)
+33. [WideResNets](https://github.com/xternalz/WideResNet-pytorch)
+34. [pytorch_highway_networks](https://github.com/c0nn3r/pytorch_highway_networks)
+35. [pytorch-NeuCom](https://github.com/ypxie/pytorch-NeuCom)
+
