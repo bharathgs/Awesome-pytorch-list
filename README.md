@@ -1,6 +1,6 @@
 # pytorch-list
 
-0. [pytorch](https://github.com/pytorch/pytorch)
+0. [pytorch](https://github.com/pytorch/pytorch) : Tensors and Dynamic neural networks in Python with strong GPU acceleration http://pytorch.org
 1. [Cnn-text classification](https://github.com/Shawn1993/cnn-text-classification-pytorch)
 2. [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification)
 3. [deepspeach2](https://github.com/SeanNaren/deepspeech.pytorch)
