@@ -36,4 +36,7 @@
 33. [WideResNets](https://github.com/xternalz/WideResNet-pytorch) : WideResNets for CIFAR10/100 implemented in PyTorch. This implementation requires less GPU memory than what is required by the official Torch implementation: https://github.com/szagoruyko/wide-residual-networks.  
 34. [pytorch_highway_networks](https://github.com/c0nn3r/pytorch_highway_networks) : Highway networks implemented in PyTorch.  
 35. [pytorch-NeuCom](https://github.com/ypxie/pytorch-NeuCom) : Pytorch implementation of DeepMind's differentiable neural computer paper.  
-
+36. [captionGen](https://github.com/eladhoffer/captionGen) : Generate captions for an image using PyTorch.  
+37. [AnimeGAN](https://github.com/jayleicn/animeGAN) : A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing.      
+38. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.  
+39. [pytorch-dqn](https://github.com/transedward/pytorch-dqn) : Deep Q-Learning Network in pytorch.  
