@@ -40,3 +40,4 @@
 37. [AnimeGAN](https://github.com/jayleicn/animeGAN) : A simple PyTorch Implementation of Generative Adversarial Networks, focusing on anime face drawing.      
 38. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.  
 39. [pytorch-dqn](https://github.com/transedward/pytorch-dqn) : Deep Q-Learning Network in pytorch.  
+40. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing  
