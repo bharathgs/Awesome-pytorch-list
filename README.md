@@ -41,3 +41,4 @@
 38. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.  
 39. [pytorch-dqn](https://github.com/transedward/pytorch-dqn) : Deep Q-Learning Network in pytorch.  
 40. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing  
+41. [neuraltalk2-pytorch](https://github.com/ruotianluo/neuraltalk2.pytorch) : image captioning model in pytorch(finetunable cnn in branch with_finetune)
