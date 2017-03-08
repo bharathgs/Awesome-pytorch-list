@@ -42,3 +42,4 @@
 39. [pytorch-dqn](https://github.com/transedward/pytorch-dqn) : Deep Q-Learning Network in pytorch.  
 40. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing  
 41. [neuraltalk2-pytorch](https://github.com/ruotianluo/neuraltalk2.pytorch) : image captioning model in pytorch(finetunable cnn in branch with_finetune)
+42. [vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) : A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.  
