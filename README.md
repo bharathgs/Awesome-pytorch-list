@@ -43,3 +43,5 @@
 40. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing  
 41. [neuraltalk2-pytorch](https://github.com/ruotianluo/neuraltalk2.pytorch) : image captioning model in pytorch(finetunable cnn in branch with_finetune)
 42. [vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) : A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.  
+43. [pytorch-exercises](https://github.com/keon/pytorch-exercises) : pytorch-exercises collection.  
+44. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source.  
