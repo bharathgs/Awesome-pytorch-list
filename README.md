@@ -45,3 +45,4 @@
 42. [vnet.pytorch](https://github.com/mattmacy/vnet.pytorch) : A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.  
 43. [pytorch-exercises](https://github.com/keon/pytorch-exercises) : pytorch-exercises collection.  
 44. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source.  
+45. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) : tutorial for researchers to learn deep learning with pytorch.  
