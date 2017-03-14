@@ -48,3 +48,4 @@
 45. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) : tutorial for researchers to learn deep learning with pytorch.
 46. [pytorch-fcn](https://github.com/wkentaro/pytorch-fcn) : PyTorch implementation of Fully Convolutional Networks.  
 47. [PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks) : PyTorch implementation of the Value Iteration Networks (NIPS '16) paper  
+48. [pytorch_Highway](https://github.com/analvikingur/pytorch_Highway) : Highway network implemented in pytorch.
