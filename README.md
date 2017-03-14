@@ -50,3 +50,4 @@
 47. [PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks) : PyTorch implementation of the Value Iteration Networks (NIPS '16) paper  
 48. [pytorch_Highway](https://github.com/analvikingur/pytorch_Highway) : Highway network implemented in pytorch.
 49. [pytorch_NEG_loss](https://github.com/analvikingur/pytorch_NEG_loss) : NEG loss implemented in pytorch.  
+50. [pytorch_RVAE](https://github.com/analvikingur/pytorch_RVAE) : Recurrent Variational Autoencoder that generates sequential data implemented in pytorch.   
