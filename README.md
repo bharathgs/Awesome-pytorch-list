@@ -51,3 +51,4 @@
 48. [pytorch_Highway](https://github.com/analvikingur/pytorch_Highway) : Highway network implemented in pytorch.
 49. [pytorch_NEG_loss](https://github.com/analvikingur/pytorch_NEG_loss) : NEG loss implemented in pytorch.  
 50. [pytorch_RVAE](https://github.com/analvikingur/pytorch_RVAE) : Recurrent Variational Autoencoder that generates sequential data implemented in pytorch.   
+51. [pytorch_TDNN](https://github.com/analvikingur/pytorch_TDNN) : Time Delayed NN implemented in pytorch.  
