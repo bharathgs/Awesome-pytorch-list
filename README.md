@@ -49,3 +49,4 @@
 46. [pytorch-fcn](https://github.com/wkentaro/pytorch-fcn) : PyTorch implementation of Fully Convolutional Networks.  
 47. [PyTorch-value-iteration-networks](https://github.com/onlytailei/PyTorch-value-iteration-networks) : PyTorch implementation of the Value Iteration Networks (NIPS '16) paper  
 48. [pytorch_Highway](https://github.com/analvikingur/pytorch_Highway) : Highway network implemented in pytorch.
+49. [pytorch_NEG_loss](https://github.com/analvikingur/pytorch_NEG_loss) : NEG loss implemented in pytorch.  
