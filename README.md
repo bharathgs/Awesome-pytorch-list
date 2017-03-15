@@ -53,3 +53,4 @@
 50. [pytorch_RVAE](https://github.com/analvikingur/pytorch_RVAE) : Recurrent Variational Autoencoder that generates sequential data implemented in pytorch.   
 51. [pytorch_TDNN](https://github.com/analvikingur/pytorch_TDNN) : Time Delayed NN implemented in pytorch.  
 52. [eve.pytorch](https://github.com/moskomule/eve.pytorch) : An implementation of Eve Optimizer, proposed in Imploving Stochastic Gradient Descent with Feedback, Koushik and Hayashi, 2016.  
+53. [e2e-model-learning](https://github.com/locuslab/e2e-model-learning) : Task-based end-to-end model learning  
