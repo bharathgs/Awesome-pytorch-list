@@ -56,3 +56,4 @@
 53. [e2e-model-learning](https://github.com/locuslab/e2e-model-learning) : Task-based end-to-end model learning.  
 54. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing.  
 55. [pix2pix-pytorch](https://github.com/mrzhu-cool/pix2pix-pytorch) : PyTorch implementation of "Image-to-Image Translation Using Conditional Adversarial Networks".   
+56. [Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch) : A PyTorch Implementation of Single Shot MultiBox Detector.  
