@@ -59,3 +59,4 @@
 56. [Single Shot MultiBox Detector](https://github.com/amdegroot/ssd.pytorch) : A PyTorch Implementation of Single Shot MultiBox Detector.  
 57. **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)** : The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.  
 58. [DiscoGAN](https://github.com/carpedm20/DiscoGAN-pytorch): PyTorch implementation of "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks"  
+59. [official DiscoGAN implementation](https://github.com/SKTBrain/DiscoGAN) : 
