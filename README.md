@@ -60,3 +60,4 @@
 57. **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)** : The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.  
 58. [DiscoGAN](https://github.com/carpedm20/DiscoGAN-pytorch): PyTorch implementation of "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks"  
 59. [official DiscoGAN implementation](https://github.com/SKTBrain/DiscoGAN) : Official implementation of "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks".  
+60. [pytorch-es](https://github.com/atgambardella/pytorch-es) : This is a PyTorch implementation of [Evolution Strategies](https://arxiv.org/abs/1703.03864) .  
