@@ -61,3 +61,4 @@
 58. [DiscoGAN](https://github.com/carpedm20/DiscoGAN-pytorch): PyTorch implementation of "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks"  
 59. [official DiscoGAN implementation](https://github.com/SKTBrain/DiscoGAN) : Official implementation of "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks".  
 60. [pytorch-es](https://github.com/atgambardella/pytorch-es) : This is a PyTorch implementation of [Evolution Strategies](https://arxiv.org/abs/1703.03864) .  
+61. [piwise](https://github.com/bodokaiser/piwise) : Pixel-wise segmentation on VOC2012 dataset using pytorch.  
