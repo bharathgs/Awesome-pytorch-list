@@ -63,3 +63,6 @@
 60. [pytorch-es](https://github.com/atgambardella/pytorch-es) : This is a PyTorch implementation of [Evolution Strategies](https://arxiv.org/abs/1703.03864) .  
 61. [piwise](https://github.com/bodokaiser/piwise) : Pixel-wise segmentation on VOC2012 dataset using pytorch.  
 62. [google_evolution](https://github.com/neuralix/google_evolution) : This implements one of result networks from Large-scale evolution of image classifiers by Esteban Real, et. al.  
+63. [SqueezeNet-Neural-Style-Pytorch](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch) : Lightweight implementation of neural style in Pytorch with SqueezeNet.  
+64. [crnn.pytorch](https://github.com/meijieru/crnn.pytorch) : Convolutional recurrent network in pytorch.  
+
