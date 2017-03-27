@@ -66,3 +66,4 @@
 63. [SqueezeNet-Neural-Style-Pytorch](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch) : Lightweight implementation of neural style in Pytorch with SqueezeNet.  
 64. [crnn.pytorch](https://github.com/meijieru/crnn.pytorch) : Convolutional recurrent network in pytorch.  
 65. [RecurrentHighwayNetworks](https://github.com/julian121266/RecurrentHighwayNetworks) : Recurrent Highway Networks - Implementations for Tensorflow, Torch7, Theano and Brainstorm.  
+66. [VIN_PyTorch_Visdom](https://github.com/zuoxingdong/VIN_PyTorch_Visdom) : PyTorch implementation of Value Iteration Networks (VIN): Clean, Simple and Modular. Visualization in Visdom.  
