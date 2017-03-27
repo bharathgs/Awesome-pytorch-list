@@ -65,4 +65,4 @@
 62. [google_evolution](https://github.com/neuralix/google_evolution) : This implements one of result networks from Large-scale evolution of image classifiers by Esteban Real, et. al.  
 63. [SqueezeNet-Neural-Style-Pytorch](https://github.com/lizeng614/SqueezeNet-Neural-Style-Pytorch) : Lightweight implementation of neural style in Pytorch with SqueezeNet.  
 64. [crnn.pytorch](https://github.com/meijieru/crnn.pytorch) : Convolutional recurrent network in pytorch.  
-
+65. [RecurrentHighwayNetworks](https://github.com/julian121266/RecurrentHighwayNetworks) : Recurrent Highway Networks - Implementations for Tensorflow, Torch7, Theano and Brainstorm.  
