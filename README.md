@@ -69,3 +69,4 @@
 66. [VIN_PyTorch_Visdom](https://github.com/zuoxingdong/VIN_PyTorch_Visdom) : PyTorch implementation of Value Iteration Networks (VIN): Clean, Simple and Modular. Visualization in Visdom.  
 67. [fast-neural-style](https://github.com/darkstar112358/fast-neural-style) : pytorch implementation of fast-neural-style, The model uses the method described in [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) along with Instance Normalization.
 68. [aorun](https://github.com/ramon-oliveira/aorun) : Aorun intend to be a Keras with PyTorch as backend.  
+69. [logger](https://github.com/oval-group/logger) : A simple logger for experiments.  
