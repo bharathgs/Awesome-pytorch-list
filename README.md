@@ -70,3 +70,4 @@
 67. [fast-neural-style](https://github.com/darkstar112358/fast-neural-style) : pytorch implementation of fast-neural-style, The model uses the method described in [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155) along with Instance Normalization.
 68. [aorun](https://github.com/ramon-oliveira/aorun) : Aorun intend to be a Keras with PyTorch as backend.  
 69. [logger](https://github.com/oval-group/logger) : A simple logger for experiments.  
+70. [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset) : PyTorch docset! use with Dash, Zeal, Velocity, or LovelyDocs.  
