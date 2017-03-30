@@ -72,3 +72,5 @@
 69. [logger](https://github.com/oval-group/logger) : A simple logger for experiments.  
 70. [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset) : PyTorch docset! use with Dash, Zeal, Velocity, or LovelyDocs.  
 71. [pyscatwave](https://github.com/edouardoyallon/pyscatwave) : Fast Scattering Transform with CuPy/PyTorch https://arxiv.org/abs/1703.08961
+72. [scalingscattering](https://github.com/edouardoyallon/scalingscattering) : Scaling The Scattering Transform : Deep Hybrid Networks.  
+73. []() : 
