@@ -71,7 +71,7 @@
 68. [aorun](https://github.com/ramon-oliveira/aorun) : Aorun intend to be a Keras with PyTorch as backend.  
 69. [logger](https://github.com/oval-group/logger) : A simple logger for experiments.  
 70. [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset) : PyTorch docset! use with Dash, Zeal, Velocity, or LovelyDocs.  
-71. [pyscatwave](https://github.com/edouardoyallon/pyscatwave) : Fast Scattering Transform with CuPy/PyTorch https://arxiv.org/abs/1703.08961
+71. [pyscatwave](https://github.com/edouardoyallon/pyscatwave) : Fast Scattering Transform with CuPy/PyTorch,read the paper [here] (https://arxiv.org/abs/1703.08961)
 72. [scalingscattering](https://github.com/edouardoyallon/scalingscattering) : Scaling The Scattering Transform : Deep Hybrid Networks.  
 73. [deep-auto-punctuation](https://github.com/episodeyang/deep-auto-punctuation) : a pytorch implementation of auto-punctuation learned character by character.  
-74. [Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation) : This is a pytorch version of Realtime_Multi-Person_Pose_Estimation, origin code is here https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation 
+74. [Realtime_Multi-Person_Pose_Estimation](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation) : This is a pytorch version of Realtime_Multi-Person_Pose_Estimation, origin code is [here](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
