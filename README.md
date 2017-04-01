@@ -4,7 +4,7 @@ Awesome-Pytorch-list
 ![pytorch-logo-dark](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png) 
 
 
-##Pytorch & related libraries
+ ## Pytorch & related libraries
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration. 
 2. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras) : Some extra features for pytorch.    
@@ -18,7 +18,7 @@ Awesome-Pytorch-list
 10. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.    
 11. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source. 
 
-##Tutorials & examples
+## Tutorials & examples
 
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)** : Tutorials explaining different RNN models
 2. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
@@ -36,7 +36,7 @@ Awesome-Pytorch-list
 14. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch  
 
 
-##Paper implementations
+## Paper implementations
 
 1. [google_evolution](https://github.com/neuralix/google_evolution) : This implements one of result networks from Large-scale evolution of image classifiers by Esteban Real, et. al. 
 2. [pyscatwave](https://github.com/edouardoyallon/pyscatwave) : Fast Scattering Transform with CuPy/PyTorch,read the paper [here](https://arxiv.org/abs/1703.08961)
@@ -90,13 +90,13 @@ Awesome-Pytorch-list
 50. [RVAE](https://github.com/analvikingur/pytorch_RVAE): Recurrent Variational Autoencoder that generates sequential data implemented in pytorch.  
   
 
-##Blogs & Articles
+## Blogs & Articles
 
 1. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 2. [adversarial-autoencoders-with-pytorch](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
 
 
-##Pytorch elsewhere
+## Pytorch elsewhere
 
 1. **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)** : The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
 2. [generative models](https://github.com/wiseodd/generative-models) : Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch. http://wiseodd.github.io  
