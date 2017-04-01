@@ -86,8 +86,7 @@ Awesome-Pytorch-list
 46. [neural style transfer](https://github.com/alexis-jacq/Pytorch-Tutorials) : An introduction to PyTorch through the Neural-Style algorithm (https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge.   
 47. [VIN_PyTorch_Visdom](https://github.com/zuoxingdong/VIN_PyTorch_Visdom) : PyTorch implementation of Value Iteration Networks (VIN): Clean, Simple and Modular. Visualization in Visdom.  
 48. [YOLO2](https://github.com/longcw/yolo2-pytorch): YOLOv2 in PyTorch.   
-49. [attention-transfer](https://github.com/szagoruyko/attention-transfer): Attention transfer in pytorch, read the paper [here](https://arxiv.org/abs/1612.03928). 
-50. [RVAE](https://github.com/analvikingur/pytorch_RVAE): Recurrent Variational Autoencoder that generates sequential data implemented in pytorch.  
+49. [attention-transfer](https://github.com/szagoruyko/attention-transfer): Attention transfer in pytorch, read the paper [here](https://arxiv.org/abs/1612.03928).  
   
 
 ## Blogs & Articles
