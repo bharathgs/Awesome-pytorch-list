@@ -36,7 +36,8 @@ Awesome-Pytorch-list
 11. [convnet](https://github.com/eladhoffer/convNet.pytorch) : This is a complete training example for Deep Convolutional Networks on various datasets (ImageNet, Cifar10, Cifar100, MNIST).
 12. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.   
 13. [pytorch containers](https://github.com/amdegroot/pytorch-containers) : This repository aims to help former Torchies more seamlessly transition to the "Containerless" world of PyTorch by providing a list of PyTorch implementations of Torch Table Layers.  
-14. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch  
+14. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch 
+15. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch).  
 
 
 ## Paper implementations
