@@ -104,6 +104,7 @@ Awesome-Pytorch-list
 2. [generative models](https://github.com/wiseodd/generative-models) : Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch. http://wiseodd.github.io  
 3. [pytorch vs tensorflow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/) : an informative thread on reddit. 
 4. [Pytorch discussion forum](https://discuss.pytorch.org/)  
+5. [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/) : A project similar to [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
