@@ -19,6 +19,7 @@ Awesome-Pytorch-list
 9. [pytorch vision](https://github.com/pytorch/vision) : Datasets, Transforms and Models specific to Computer Vision.    
 10. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.    
 11. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source. 
+12. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.  
 
 ## Tutorials & examples
 
@@ -36,7 +37,8 @@ Awesome-Pytorch-list
 12. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.   
 13. [pytorch containers](https://github.com/amdegroot/pytorch-containers) : This repository aims to help former Torchies more seamlessly transition to the "Containerless" world of PyTorch by providing a list of PyTorch implementations of Torch Table Layers.  
 14. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch 
-15. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch).  
+15. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch). 
+16. [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
 
 
 ## Paper implementations
@@ -90,8 +92,10 @@ Awesome-Pytorch-list
 47. [VIN_PyTorch_Visdom](https://github.com/zuoxingdong/VIN_PyTorch_Visdom) : PyTorch implementation of Value Iteration Networks (VIN): Clean, Simple and Modular. Visualization in Visdom.  
 48. [YOLO2](https://github.com/longcw/yolo2-pytorch): YOLOv2 in PyTorch.   
 49. [attention-transfer](https://github.com/szagoruyko/attention-transfer): Attention transfer in pytorch, read the paper [here](https://arxiv.org/abs/1612.03928).  
-50. [SVHNClassifier](https://github.com/potterhsu/SVHNClassifier-PyTorch): A PyTorch implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082.pdf).
-  
+50. [SVHNClassifier](https://github.com/potterhsu/SVHNClassifier-PyTorch): A PyTorch implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082.pdf).  
+51. [pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv): PyTorch implementation of Deformable Convolution.  
+52. [BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch): PyTorch implementation of [BEGAN](https://arxiv.org/abs/1703.10717): Boundary Equilibrium Generative Adversarial Networks.  
+
 
 ## Blogs & Articles
 
