@@ -110,6 +110,8 @@ Awesome-Pytorch-list
 3. [pytorch vs tensorflow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/) : an informative thread on reddit. 
 4. [Pytorch discussion forum](https://discuss.pytorch.org/)  
 5. [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/) : A project similar to [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
+6. [drawlikebobross](https://github.com/kendricktan/drawlikebobross): Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
+
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
