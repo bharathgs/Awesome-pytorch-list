@@ -20,6 +20,7 @@ Awesome-Pytorch-list
 10. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.    
 11. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source. 
 12. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.  
+13. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
 
 ## Tutorials & examples
 
@@ -95,6 +96,7 @@ Awesome-Pytorch-list
 50. [SVHNClassifier](https://github.com/potterhsu/SVHNClassifier-PyTorch): A PyTorch implementation of [Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1312.6082.pdf).  
 51. [pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv): PyTorch implementation of Deformable Convolution.  
 52. [BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch): PyTorch implementation of [BEGAN](https://arxiv.org/abs/1703.10717): Boundary Equilibrium Generative Adversarial Networks.  
+53. [treelstm.pytorch](https://github.com/dasguptar/treelstm.pytorch) : Tree LSTM implementation in PyTorch.
 
 
 ## Blogs & Articles
@@ -111,6 +113,7 @@ Awesome-Pytorch-list
 4. [Pytorch discussion forum](https://discuss.pytorch.org/)  
 5. [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/) : A project similar to [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
 6. [drawlikebobross](https://github.com/kendricktan/drawlikebobross): Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
+7. [pytorch-tvmisc](https://github.com/t-vi/pytorch-tvmisc): Totally Versatile Miscellanea for Pytorch
 
 
 
