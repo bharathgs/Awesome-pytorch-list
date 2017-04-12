@@ -40,7 +40,7 @@ Awesome-Pytorch-list
 14. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch 
 15. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch). 
 16. [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
-
+17.  [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): a char-RNN based on pytorch.  
 
 ## Paper implementations
 
@@ -97,7 +97,10 @@ Awesome-Pytorch-list
 51. [pytorch-deform-conv](https://github.com/oeway/pytorch-deform-conv): PyTorch implementation of Deformable Convolution.  
 52. [BEGAN-pytorch](https://github.com/carpedm20/BEGAN-pytorch): PyTorch implementation of [BEGAN](https://arxiv.org/abs/1703.10717): Boundary Equilibrium Generative Adversarial Networks.  
 53. [treelstm.pytorch](https://github.com/dasguptar/treelstm.pytorch) : Tree LSTM implementation in PyTorch.
-54. [AGE](https://github.com/DmitryUlyanov/AGE): Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky which can be found [here](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf)
+54. [AGE](https://github.com/DmitryUlyanov/AGE): Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky which can be found [here](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) 
+55. [ResNeXt.pytorch](https://github.com/prlz77/ResNeXt.pytorch): Reproduces ResNet-V3 (Aggregated Residual Transformations for Deep Neural Networks) with pytorch.
+56. [pytorch-rl](https://github.com/jingweiz/pytorch-rl): Deep Reinforcement Learning with pytorch & visdom  
+
 ## Blogs & Articles
 
 1. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
