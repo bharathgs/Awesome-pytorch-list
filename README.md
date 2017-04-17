@@ -41,6 +41,7 @@ Awesome-Pytorch-list
 15. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch). 
 16. [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
 17.  [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): a char-RNN based on pytorch.  
+18. [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch implementation of REINFORCE, This repo supports both continuous and discrete environments in OpenAI gym.
 
 ## Paper implementations
 
@@ -100,6 +101,7 @@ Awesome-Pytorch-list
 54. [AGE](https://github.com/DmitryUlyanov/AGE): Code for paper "Adversarial Generator-Encoder Networks" by Dmitry Ulyanov, Andrea Vedaldi and Victor Lempitsky which can be found [here](http://sites.skoltech.ru/app/data/uploads/sites/25/2017/04/AGE.pdf) 
 55. [ResNeXt.pytorch](https://github.com/prlz77/ResNeXt.pytorch): Reproduces ResNet-V3 (Aggregated Residual Transformations for Deep Neural Networks) with pytorch.
 56. [pytorch-rl](https://github.com/jingweiz/pytorch-rl): Deep Reinforcement Learning with pytorch & visdom  
+57. [Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap): LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.  
 
 ## Blogs & Articles
 
