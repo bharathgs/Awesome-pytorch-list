@@ -104,6 +104,7 @@ Awesome-Pytorch-list
 57. [Deep-Leafsnap](https://github.com/sujithv28/Deep-Leafsnap): LeafSnap replicated using deep neural networks to test accuracy compared to traditional computer vision methods.  
 58. [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): PyTorch implementation for both unpaired and paired image-to-image translation.
 59. [A3C-PyTorch](https://github.com/onlytailei/A3C-PyTorch):PyTorch implementation of Advantage async actor-critic Algorithms (A3C) in PyTorch
+60. [pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks) : Pytorch implementation of Value Iteration Networks (NIPS 2016 best paper)  
 
 ## Blogs & Articles
 
