@@ -105,6 +105,7 @@ Awesome-Pytorch-list
 58. [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix): PyTorch implementation for both unpaired and paired image-to-image translation.
 59. [A3C-PyTorch](https://github.com/onlytailei/A3C-PyTorch):PyTorch implementation of Advantage async actor-critic Algorithms (A3C) in PyTorch
 60. [pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks) : Pytorch implementation of Value Iteration Networks (NIPS 2016 best paper)  
+61. [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer) PyTorch Implementation of Multi-style Generative Network for Real-time Transfer
 
 ## Blogs & Articles
 
