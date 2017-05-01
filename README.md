@@ -125,6 +125,7 @@ Awesome-Pytorch-list
 6. [drawlikebobross](https://github.com/kendricktan/drawlikebobross): Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
 7. [pytorch-tvmisc](https://github.com/t-vi/pytorch-tvmisc): Totally Versatile Miscellanea for Pytorch
 8. [pytorch-a3c-mujoco](https://github.com/andrewliao11/pytorch-a3c-mujoco): Implement A3C for Mujoco gym envs.
+9. [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&list=WL&index=9).
 
 
 
