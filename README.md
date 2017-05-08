@@ -107,6 +107,7 @@ Awesome-Pytorch-list
 60. [pytorch-value-iteration-networks](https://github.com/kentsommer/pytorch-value-iteration-networks) : Pytorch implementation of Value Iteration Networks (NIPS 2016 best paper)  
 61. [PyTorch-Style-Transfer](https://github.com/zhanghang1989/PyTorch-Style-Transfer): PyTorch Implementation of Multi-style Generative Network for Real-time Transfer
 62. [pytorch-deeplab-resnet](https://github.com/isht7/pytorch-deeplab-resnet): pytorch-deeplab-resnet-model.
+63. **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
 
 ## Blogs & Articles
 
