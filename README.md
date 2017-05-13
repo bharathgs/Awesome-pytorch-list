@@ -115,7 +115,7 @@ Awesome-Pytorch-list
 67. [mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer): PyTorch Implementation of CycleGAN and SGAN for Domain Transfer (Minimal).
 68. [pytorch-yolo2](https://github.com/marvis/pytorch-yolo2): pytorch-yolo2
 69. [dni](https://github.com/andrewliao11/dni.pytorch): Implement Decoupled Neural Interfaces using Synthetic Gradients in Pytorch
-
+70. [wgan-gp](https://github.com/caogang/wgan-gp): A pytorch implementation of Paper "Improved Training of Wasserstein GANs".
 
 ## Blogs & Articles
 
