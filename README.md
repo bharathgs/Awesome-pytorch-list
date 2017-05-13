@@ -113,6 +113,7 @@ Awesome-Pytorch-list
 65. [pytorch-dnc](https://github.com/jingweiz/pytorch-dnc): Neural Turing Machine (NTM) & Differentiable Neural Computer (DNC) with pytorch & visdom. 
 66. [pytorch_image_classifier](https://github.com/jinfagang/pytorch_image_classifier): Minimal But Practical Image Classifier Pipline Using Pytorch, Finetune on ResNet18, Got 99% Accuracy on Own Small Datasets.  
 67. [mnist-svhn-transfer](https://github.com/yunjey/mnist-svhn-transfer): PyTorch Implementation of CycleGAN and SGAN for Domain Transfer (Minimal).
+68. [pytorch-yolo2](https://github.com/marvis/pytorch-yolo2):pytorch-yolo2
 
 
 ## Blogs & Articles
