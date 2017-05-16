@@ -116,6 +116,8 @@ Awesome-Pytorch-list
 68. [pytorch-yolo2](https://github.com/marvis/pytorch-yolo2): pytorch-yolo2
 69. [dni](https://github.com/andrewliao11/dni.pytorch): Implement Decoupled Neural Interfaces using Synthetic Gradients in Pytorch
 70. [wgan-gp](https://github.com/caogang/wgan-gp): A pytorch implementation of Paper "Improved Training of Wasserstein GANs".
+71. [pytorch-seq2seq-intent-parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing): Intent parsing and slot filling in PyTorch with seq2seq + attention
+
 
 ## Blogs & Articles
 
