@@ -119,7 +119,7 @@ Awesome-Pytorch-list
 70. [wgan-gp](https://github.com/caogang/wgan-gp): A pytorch implementation of Paper "Improved Training of Wasserstein GANs".
 71. [pytorch-seq2seq-intent-parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing): Intent parsing and slot filling in PyTorch with seq2seq + attention
 72. [pyTorch_NCE](https://github.com/demelin/pyTorch_NCE): An implementation of the Noise Contrastive Estimation algorithm for pyTorch. Working, yet not very efficient.
-
+73. [molencoder](https://github.com/cxhernandez/molencoder): Molecular AutoEncoder in PyTorch
 
 
 ## Blogs & Articles
