@@ -120,6 +120,7 @@ Awesome-Pytorch-list
 71. [pytorch-seq2seq-intent-parsing](https://github.com/spro/pytorch-seq2seq-intent-parsing): Intent parsing and slot filling in PyTorch with seq2seq + attention
 72. [pyTorch_NCE](https://github.com/demelin/pyTorch_NCE): An implementation of the Noise Contrastive Estimation algorithm for pyTorch. Working, yet not very efficient.
 73. [molencoder](https://github.com/cxhernandez/molencoder): Molecular AutoEncoder in PyTorch
+74. [GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm): Code for "On the Effects of Batch and Weight Normalization in Generative Adversarial Networks"
 
 
 ## Blogs & Articles
@@ -141,5 +142,6 @@ Awesome-Pytorch-list
 8. [pytorch-a3c-mujoco](https://github.com/andrewliao11/pytorch-a3c-mujoco): Implement A3C for Mujoco gym envs.
 9. [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&list=WL&index=9).
 10. [pytorch_chatbot](https://github.com/jinfagang/pytorch_chatbot): A Marvelous ChatBot implemented using PyTorch.
+11. [malmo-challenge](https://github.com/Kaixhin/malmo-challenge): Malmo Collaborative AI Challenge - Team Pig Catcher
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
