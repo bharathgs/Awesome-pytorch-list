@@ -21,6 +21,8 @@ Awesome-Pytorch-list
 11. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source. 
 12. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.  
 13. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
+14. [pytorch_fft](https://github.com/locuslab/pytorch_fft) : PyTorch wrapper for FFTs
+
 
 ## Tutorials & examples
 
@@ -121,6 +123,8 @@ Awesome-Pytorch-list
 72. [pyTorch_NCE](https://github.com/demelin/pyTorch_NCE): An implementation of the Noise Contrastive Estimation algorithm for pyTorch. Working, yet not very efficient.
 73. [molencoder](https://github.com/cxhernandez/molencoder): Molecular AutoEncoder in PyTorch
 74. [GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm): Code for "On the Effects of Batch and Weight Normalization in Generative Adversarial Networks"
+75. [lgamma](https://github.com/rachtsingh/lgamma): Implementations of polygamma, lgamma, and beta functions for PyTorch
+76. [bigBatch](https://github.com/eladhoffer/bigBatch) : Code used to generate the results appearing in "Train longer, generalize better: closing the generalization gap in large batch training of neural networks" 
 
 
 ## Blogs & Articles
