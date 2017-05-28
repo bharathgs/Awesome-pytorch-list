@@ -125,7 +125,7 @@ Awesome-Pytorch-list
 74. [GAN-weight-norm](https://github.com/stormraiser/GAN-weight-norm): Code for "On the Effects of Batch and Weight Normalization in Generative Adversarial Networks"
 75. [lgamma](https://github.com/rachtsingh/lgamma): Implementations of polygamma, lgamma, and beta functions for PyTorch
 76. [bigBatch](https://github.com/eladhoffer/bigBatch) : Code used to generate the results appearing in "Train longer, generalize better: closing the generalization gap in large batch training of neural networks" 
-
+77. [rl_a3c_pytorch](https://github.com/dgriff777/rl_a3c_pytorch): Reinforcement learning with implementation of A3C LSTM for Atari 2600.  
 
 ## Blogs & Articles
 
