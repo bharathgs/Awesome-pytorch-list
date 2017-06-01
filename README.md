@@ -128,6 +128,7 @@ Awesome-Pytorch-list
 77. [rl_a3c_pytorch](https://github.com/dgriff777/rl_a3c_pytorch): Reinforcement learning with implementation of A3C LSTM for Atari 2600. 
 78. [pytorch-retraining](https://github.com/ahirner/pytorch-retraining): Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 79. [nmp_qc](https://github.com/priba/nmp_qc): Neural Message Passing for Computer Vision
+80. [grad-cam](https://github.com/jacobgil/pytorch-grad-cam): Pytorch implementation of Grad-CAM
 
 ## Blogs & Articles
 
