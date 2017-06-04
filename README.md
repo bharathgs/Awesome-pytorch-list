@@ -129,6 +129,7 @@ Awesome-Pytorch-list
 78. [pytorch-retraining](https://github.com/ahirner/pytorch-retraining): Transfer Learning Shootout for PyTorch's model zoo (torchvision)
 79. [nmp_qc](https://github.com/priba/nmp_qc): Neural Message Passing for Computer Vision
 80. [grad-cam](https://github.com/jacobgil/pytorch-grad-cam): Pytorch implementation of Grad-CAM
+81. [pytorch-trpo](https://github.com/mjacar/pytorch-trpo): PyTorch Implementation of Trust Region Policy Optimization (TRPO)
 
 ## Blogs & Articles
 
