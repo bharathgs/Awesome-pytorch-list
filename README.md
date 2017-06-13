@@ -133,6 +133,7 @@ Awesome-Pytorch-list
 82. [pytorch-explain-black-box](https://github.com/jacobgil/pytorch-explain-black-box): PyTorch implementation of Interpretable Explanations of Black Boxes by Meaningful Perturbation
 83. [vae_vpflows](https://github.com/jmtomczak/vae_vpflows): Code in PyTorch for the convex combination linear IAF and the Householder Flow, J.M. Tomczak & M. Welling https://jmtomczak.github.io/deebmed.html 
 84. [relational-networks](https://github.com/kimhc6028/relational-networks): Pytorch implementation of "A simple neural network module for relational reasoning" (Relational Networks) https://arxiv.org/pdf/1706.01427.pdf
+85. [vqa.pytorch](https://github.com/Cadene/vqa.pytorch): Visual Question Answering in Pytorch
  
 
 ## Blogs & Articles
