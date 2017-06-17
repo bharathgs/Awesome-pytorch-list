@@ -137,7 +137,8 @@ Awesome-Pytorch-list
 86. [end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator): Deal or No Deal? End-to-End Learning for Negotiation Dialogues
 87. [odin-pytorch](https://github.com/ShiyuLiang/odin-pytorch): Principled Detection of Out-of-Distribution Examples in Neural Networks. 
 88. [FreezeOut](https://github.com/ajbrock/FreezeOut): Accelerate Neural Net Training by Progressively Freezing Layers. 
-89. [](): 
+89. [ARAE](https://github.com/jakezhaojb/ARAE): Code for the paper "Adversarially Regularized Autoencoders for Generating Discrete Structures" by Zhao, Kim, Zhang, Rush and LeCun.
+90. [](): 
  
 
 ## Blogs & Articles
