@@ -136,7 +136,8 @@ Awesome-Pytorch-list
 85. [vqa.pytorch](https://github.com/Cadene/vqa.pytorch): Visual Question Answering in Pytorch
 86. [end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator): Deal or No Deal? End-to-End Learning for Negotiation Dialogues
 87. [odin-pytorch](https://github.com/ShiyuLiang/odin-pytorch): Principled Detection of Out-of-Distribution Examples in Neural Networks. 
-88. []():
+88. [FreezeOut](https://github.com/ajbrock/FreezeOut): Accelerate Neural Net Training by Progressively Freezing Layers. 
+89. [](): 
  
 
 ## Blogs & Articles
