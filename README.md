@@ -140,7 +140,7 @@ Awesome-Pytorch-list
 89. [ARAE](https://github.com/jakezhaojb/ARAE): Code for the paper "Adversarially Regularized Autoencoders for Generating Discrete Structures" by Zhao, Kim, Zhang, Rush and LeCun.
 90. [forward-thinking-pytorch](https://github.com/kimhc6028/forward-thinking-pytorch): Pytorch implementation of "Forward Thinking: Building and Training Neural Networks One Layer at a Time" https://arxiv.org/pdf/1706.02480.pdf  
 91. [context_encoder_pytorch](https://github.com/BoyuanJiang/context_encoder_pytorch): PyTorch Implement of Context Encoders
- 
+92. [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch): A PyTorch implementation of the Transformer model in "Attention is All You Need".
 
 ## Blogs & Articles
 
