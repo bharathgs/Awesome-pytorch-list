@@ -22,6 +22,7 @@ Awesome-Pytorch-list
 12. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.  
 13. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
 14. [pytorch_fft](https://github.com/locuslab/pytorch_fft) : PyTorch wrapper for FFTs
+15. [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch):  PyTorch module to use OpenFace's nn4.small2.v1.t7 model
 
 
 ## Tutorials & examples
