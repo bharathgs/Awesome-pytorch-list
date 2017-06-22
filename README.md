@@ -23,6 +23,7 @@ Awesome-Pytorch-list
 13. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
 14. [pytorch_fft](https://github.com/locuslab/pytorch_fft) : PyTorch wrapper for FFTs
 15. [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch):  PyTorch module to use OpenFace's nn4.small2.v1.t7 model
+16. [caffe_to_torch_to_pytorch](https://github.com/fanq15/caffe_to_torch_to_pytorch)
 
 
 ## Tutorials & examples
