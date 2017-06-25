@@ -149,7 +149,7 @@ Awesome-Pytorch-list
 95.[pytorch-nec](https://github.com/mjacar/pytorch-nec): PyTorch Implementation of Neural Episodic Control (NEC)
 96. [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch): Sequence-to-Sequence learning using PyTorch
 97. [Pytorch-Sketch-RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN): a pytorch implementation of arxiv.org/abs/1704.03477
-98. [](): 
+98. [pytorch-pruning](https://github.com/jacobgil/pytorch-pruning): PyTorch Implementation of [1611.06440] Pruning Convolutional Neural Networks for Resource Efficient Inference
 
 
 ## Blogs & Articles
