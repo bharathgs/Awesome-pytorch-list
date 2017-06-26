@@ -49,6 +49,7 @@ Awesome-Pytorch-list
 18. [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch implementation of REINFORCE, This repo supports both continuous and discrete environments in OpenAI gym.
 19.  **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
 20. [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
+21. [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
 
 ## Paper implementations
 
