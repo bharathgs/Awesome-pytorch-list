@@ -151,6 +151,8 @@ Awesome-Pytorch-list
 96. [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch): Sequence-to-Sequence learning using PyTorch
 97. [Pytorch-Sketch-RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN): a pytorch implementation of arxiv.org/abs/1704.03477
 98. [pytorch-pruning](https://github.com/jacobgil/pytorch-pruning): PyTorch Implementation of [1611.06440] Pruning Convolutional Neural Networks for Resource Efficient Inference
+99. [DrQA](https://github.com/hitvoice/DrQA) : A pytorch implementation of Reading Wikipedia to Answer Open-Domain Questions.
+100. []() : 
 
 
 ## Blogs & Articles
