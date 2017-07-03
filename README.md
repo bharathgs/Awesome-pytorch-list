@@ -155,6 +155,7 @@ Awesome-Pytorch-list
 99. [DrQA](https://github.com/hitvoice/DrQA) : A pytorch implementation of Reading Wikipedia to Answer Open-Domain Questions.
 100. [YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch) : auto-tuning momentum SGD optimizer
 101. [samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch) : PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model. 
+102. [AEGeAN](https://github.com/tymokvo/AEGeAN): Deeper DCGAN with AE stabilization
 
 
 ## Blogs & Articles
