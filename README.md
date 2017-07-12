@@ -27,6 +27,7 @@ Awesome-Pytorch-list
 17. [ptstat](https://github.com/stepelu/ptstat): Probabilistic Programming and Statistical Inference in PyTorch
 18. [pytorch-extension](https://github.com/sniklaus/pytorch-extension): This is a CUDA extension for PyTorch which computes the Hadamard product of two tensors.
 19. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): This module saves PyTorch tensors in tensorboard format for inspection. Currently supports scalar, image, audio, histogram features in tensorboard.
+20. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.
 
 ## Tutorials & examples
 
