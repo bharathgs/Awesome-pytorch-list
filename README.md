@@ -157,6 +157,7 @@ Awesome-Pytorch-list
 100. [YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch) : auto-tuning momentum SGD optimizer
 101. [samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch) : PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model. 
 102. [AEGeAN](https://github.com/tymokvo/AEGeAN): Deeper DCGAN with AE stabilization
+103. [VRNN](https://github.com/emited/VariationalRecurrentNeuralNetwork) Pytorch implementation of the Variational RNN (VRNN), from A Recurrent Latent Variable Model for Sequential Data.
 
 
 ## Blogs & Articles
