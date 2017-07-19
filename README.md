@@ -29,6 +29,8 @@ Awesome-Pytorch-list
 19. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): This module saves PyTorch tensors in tensorboard format for inspection. Currently supports scalar, image, audio, histogram features in tensorboard.
 20. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.
 21. [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): Submanifold sparse convolutional networks.
+22. [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch is a Gaussian Process library, implemented using PyTorch. It is designed for creating flexible and modular Gaussian Process models with ease, so that you don't have to be an expert to use GPs. 
+23. [](): 
 
 
 ## Tutorials & examples
