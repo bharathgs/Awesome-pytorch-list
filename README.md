@@ -58,6 +58,8 @@ Awesome-Pytorch-list
 19.  **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
 20. [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
 21. [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
+22. [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): Random tutorials created in NumPy and PyTorch.
+
 
 ## Paper implementations
 
