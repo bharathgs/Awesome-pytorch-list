@@ -166,6 +166,8 @@ Awesome-Pytorch-list
 100. [YellowFin_Pytorch](https://github.com/JianGoForIt/YellowFin_Pytorch) : auto-tuning momentum SGD optimizer
 101. [samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch) : PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model. 
 102. [AEGeAN](https://github.com/tymokvo/AEGeAN): Deeper DCGAN with AE stabilization
+103. [/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet): pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network arXiv:1609.04802v2 
+104. [vsepp](https://github.com/fartashf/vsepp): Code for the paper "VSE++: Improved Visual Semantic Embeddings"
 
 
 ## Blogs & Articles
