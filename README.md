@@ -170,6 +170,8 @@ Awesome-Pytorch-list
 102. [AEGeAN](https://github.com/tymokvo/AEGeAN): Deeper DCGAN with AE stabilization
 103. [/pytorch-SRResNet](https://github.com/twtygqyy/pytorch-SRResNet): pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network arXiv:1609.04802v2 
 104. [vsepp](https://github.com/fartashf/vsepp): Code for the paper "VSE++: Improved Visual Semantic Embeddings"
+105. [Pytorch-DPPO](https://github.com/alexis-jacq/Pytorch-DPPO): Pytorch implementation of Distributed Proximal Policy Optimization: arxiv.org/abs/1707.02286
+106. [](): 
 
 
 ## Blogs & Articles
