@@ -33,6 +33,7 @@ Awesome-Pytorch-list
 23. [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): Quickly comparing your image classification models with the state-of-the-art models (such as DenseNet, ResNet, ...)
 24. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): tensorboard for pytorch
 25. [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): A multi-layer convolution LSTM module
+26. [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
 
 
 
