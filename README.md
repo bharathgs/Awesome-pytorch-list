@@ -35,6 +35,7 @@ Awesome-Pytorch-list
 25. [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): A multi-layer convolution LSTM module
 26. [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
 27. [pytorch-cns](https://github.com/awentzonline/pytorch-cns): Compressed Network Search with PyTorch
+28. [pyinn](https://github.com/szagoruyko/pyinn): CuPy fused PyTorch neural networks ops
 
 
 
