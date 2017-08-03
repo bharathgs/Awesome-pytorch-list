@@ -36,6 +36,7 @@ Awesome-Pytorch-list
 26. [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
 27. [pytorch-cns](https://github.com/awentzonline/pytorch-cns): Compressed Network Search with PyTorch
 28. [pyinn](https://github.com/szagoruyko/pyinn): CuPy fused PyTorch neural networks ops
+29. [inferno](https://github.com/nasimrahaman/inferno): A utility library around PyTorch
 
 
 
