@@ -200,5 +200,7 @@ Awesome-Pytorch-list
 9. [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&list=WL&index=9).
 10. [pytorch_chatbot](https://github.com/jinfagang/pytorch_chatbot): A Marvelous ChatBot implemented using PyTorch.
 11. [malmo-challenge](https://github.com/Kaixhin/malmo-challenge): Malmo Collaborative AI Challenge - Team Pig Catcher
+11. [sketchnet](https://github.com/jtoy/sketchnet): A model that takes an image and generates Processing source code to regenerate that image
+
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
