@@ -180,7 +180,7 @@ Awesome-Pytorch-list
 108. [tsn-pytorch](https://github.com/yjxiong/tsn-pytorch): Temporal Segment Networks (TSN) in PyTorch.
 109. [SMASH](https://github.com/ajbrock/SMASH): An experimental technique for efficiently exploring neural architectures.
 110. [pytorch-retinanet](https://github.com/kuangliu/pytorch-retinanet): RetinaNet in PyTorch
-111. 
+111. [biogans](https://github.com/aosokin/biogans):  Implementation supporting the ICCV 2017 paper "GANs for Biological Image Synthesis". 
 
 
 
