@@ -179,7 +179,8 @@ Awesome-Pytorch-list
 107. [efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch): A memory-efficient implementation of DenseNets
 108. [tsn-pytorch](https://github.com/yjxiong/tsn-pytorch): Temporal Segment Networks (TSN) in PyTorch.
 109. [SMASH](https://github.com/ajbrock/SMASH): An experimental technique for efficiently exploring neural architectures.
-110. 
+110. [pytorch-retinanet](https://github.com/kuangliu/pytorch-retinanet): RetinaNet in PyTorch
+111. 
 
 
 
