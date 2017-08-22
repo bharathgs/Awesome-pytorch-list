@@ -65,6 +65,7 @@ Awesome-Pytorch-list
 20. [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
 21. [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
 22. [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): Random tutorials created in NumPy and PyTorch.
+23. [pytorch_tutoria-quick](https://github.com/soravux/pytorch_tutorial): Quick PyTorch introduction and tutorial. Targets computer vision, graphics and machine learning researchers eager to try a new framework.  
 
 
 ## Paper implementations
