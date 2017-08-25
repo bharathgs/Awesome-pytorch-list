@@ -182,6 +182,9 @@ Awesome-Pytorch-list
 109. [SMASH](https://github.com/ajbrock/SMASH): An experimental technique for efficiently exploring neural architectures.
 110. [pytorch-retinanet](https://github.com/kuangliu/pytorch-retinanet): RetinaNet in PyTorch
 111. [biogans](https://github.com/aosokin/biogans):  Implementation supporting the ICCV 2017 paper "GANs for Biological Image Synthesis". 
+112. [Semantic Image Synthesis via Adversarial Learning]( https://github.com/woozzu/dong_iccv_2017): A PyTorch implementation of the paper "Semantic Image Synthesis via Adversarial Learning" in ICCV 2017. 
+113. [fmpytorch](https://github.com/jmhessel/fmpytorch): A PyTorch implementation of a Factorization Machine module in cython.
+
 
 
 
