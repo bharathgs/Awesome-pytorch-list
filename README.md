@@ -40,6 +40,7 @@ Awesome-Pytorch-list
 30. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch modules
 31. [inferno-sklearn](https://github.com/dnouri/inferno): A scikit-learn compatible neural network library that wraps pytorch.
 32. [pytorch-caffe-darknet-convert](https://github.com/marvis/pytorch-caffe-darknet-convert): convert between pytorch, caffe prototxt/weights and darknet cfg/weights
+33. [pytorch2caffe](https://github.com/longcw/pytorch2caffe): Convert PyTorch model to Caffemodel
 
 
 ## Tutorials & examples
