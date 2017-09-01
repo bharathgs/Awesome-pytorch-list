@@ -38,6 +38,7 @@ Awesome-Pytorch-list
 28. [pyinn](https://github.com/szagoruyko/pyinn): CuPy fused PyTorch neural networks ops
 29. [inferno](https://github.com/nasimrahaman/inferno): A utility library around PyTorch
 30. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch modules
+31. [inferno-sklearn](https://github.com/dnouri/inferno): A scikit-learn compatible neural network library that wraps pytorch.
 
 
 
