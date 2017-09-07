@@ -43,6 +43,7 @@ Awesome-Pytorch-list
 33. [pytorch2caffe](https://github.com/longcw/pytorch2caffe): Convert PyTorch model to Caffemodel
 34. [anuvada](https://github.com/Sandeep42/anuvada): Interpretable Models for NLP using PyTorch.
 35. [audio](https://github.com/pytorch/audio): simple audio I/O for pytorch. 
+36. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch Modules. 
 
 
 ## Tutorials & examples
