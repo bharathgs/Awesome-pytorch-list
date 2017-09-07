@@ -45,7 +45,8 @@ Awesome-Pytorch-list
 35. [audio](https://github.com/pytorch/audio): simple audio I/O for pytorch. 
 36. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch Modules. 
 37. [loop](https://github.com/facebookresearch/loop): A method to generate speech across multiple speakers
-38. 
+38. [pytorch-tools](https://github.com/nearai/pytorch-tools): Tools for PyTorch
+
 
 
 ## Tutorials & examples
