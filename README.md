@@ -44,6 +44,8 @@ Awesome-Pytorch-list
 34. [anuvada](https://github.com/Sandeep42/anuvada): Interpretable Models for NLP using PyTorch.
 35. [audio](https://github.com/pytorch/audio): simple audio I/O for pytorch. 
 36. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch Modules. 
+37. [loop](https://github.com/facebookresearch/loop): A method to generate speech across multiple speakers
+38. 
 
 
 ## Tutorials & examples
@@ -214,7 +216,8 @@ Awesome-Pytorch-list
 9. [PyTorch in 5 Minutes](https://www.youtube.com/watch?v=nbJ-2G2GXL0&list=WL&index=9).
 10. [pytorch_chatbot](https://github.com/jinfagang/pytorch_chatbot): A Marvelous ChatBot implemented using PyTorch.
 11. [malmo-challenge](https://github.com/Kaixhin/malmo-challenge): Malmo Collaborative AI Challenge - Team Pig Catcher
-11. [sketchnet](https://github.com/jtoy/sketchnet): A model that takes an image and generates Processing source code to regenerate that image
+12. [sketchnet](https://github.com/jtoy/sketchnet): A model that takes an image and generates Processing source code to regenerate that image
+13. [Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp): A nonprofit community run, 5-day Deep Learning Bootcamp http://deep-ml.com. 
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
