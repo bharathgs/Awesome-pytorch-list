@@ -195,6 +195,8 @@ Awesome-Pytorch-list
 114. [ORN](https://github.com/ZhouYanzhao/ORN): A PyTorch implementation of the paper "Oriented Response Networks" in CVPR 2017. 
 115. [pytorch-maml](https://github.com/katerakelly/pytorch-maml): PyTorch implementation of MAML: arxiv.org/abs/1703.03400
 116. [pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections):  Collection of generative models in Pytorch version.
+117. [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017): Pytorch Implementation of winner from VQA Chllange Workshop in CVPR'17. 
+
 
 
 
