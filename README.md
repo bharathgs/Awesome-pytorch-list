@@ -198,6 +198,7 @@ Awesome-Pytorch-list
 117. [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017): Pytorch Implementation of winner from VQA Chllange Workshop in CVPR'17. 
 118. [tacotron_pytorch](https://github.com/r9y9/tacotron_pytorch) :  PyTorch implementation of Tacotron speech synthesis model. 
 119. [pspnet-pytorch](https://github.com/Lextal/pspnet-pytorch): PyTorch implementation of PSPNet segmentation network
+120. [LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF): Empower Sequence Labeling with Task-Aware Language Model http://arxiv.org/abs/1709.04109
 
 
 
