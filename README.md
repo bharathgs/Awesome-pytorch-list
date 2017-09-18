@@ -199,6 +199,7 @@ Awesome-Pytorch-list
 118. [tacotron_pytorch](https://github.com/r9y9/tacotron_pytorch) :  PyTorch implementation of Tacotron speech synthesis model. 
 119. [pspnet-pytorch](https://github.com/Lextal/pspnet-pytorch): PyTorch implementation of PSPNet segmentation network
 120. [LM-LSTM-CRF](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF): Empower Sequence Labeling with Task-Aware Language Model http://arxiv.org/abs/1709.04109
+121. [face-alignment](https://github.com/1adrianb/face-alignment): Pytorch implementation of the paper "How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)", ICCV 2017
 
 
 
