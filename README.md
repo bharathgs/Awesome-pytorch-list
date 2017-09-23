@@ -203,6 +203,7 @@ Awesome-Pytorch-list
 121. [face-alignment](https://github.com/1adrianb/face-alignment): Pytorch implementation of the paper "How far are we from solving the 2D & 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks)", ICCV 2017
 122. [DepthNet](https://github.com/ClementPinard/DepthNet): PyTorch DepthNet Training on Still Box dataset. 
 123. [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch): PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
+124. [e2c-pytorch](https://github.com/ethanluoyc/e2c-pytorch): Embed to Control implementation in PyTorch
 
 
 
