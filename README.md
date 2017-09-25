@@ -47,6 +47,7 @@ Awesome-Pytorch-list
 37. [loop](https://github.com/facebookresearch/loop): A method to generate speech across multiple speakers
 38. [pytorch-tools](https://github.com/nearai/pytorch-tools): Tools for PyTorch
 39. [fairseq-py](https://github.com/facebookresearch/fairseq-py): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+40. [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
 
 
 
