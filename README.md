@@ -206,6 +206,7 @@ Awesome-Pytorch-list
 123. [EDSR-PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch): PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
 124. [e2c-pytorch](https://github.com/ethanluoyc/e2c-pytorch): Embed to Control implementation in PyTorch.
 125. [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch): 3D ResNets for Action Recognition.
+126. [bandit-nmt](https://github.com/khanhptnk/bandit-nmt): This is code repo for our EMNLP 2017 paper "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback", which implements the A2C algorithm on top of a neural encoder-decoder model and benchmarks the combination under simulated noisy rewards.
 
 
 
