@@ -50,6 +50,7 @@ Awesome-Pytorch-list
 40. [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
 41. [speech](https://github.com/awni/speech): PyTorch ASR Implementation.
 42. [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): Open-Source Neural Machine Translation in PyTorch http://opennmt.net 
+43. [sru](https://github.com/taolei87/sru): Training RNNs as Fast as CNNs (arxiv.org/abs/1709.02755)
 
 
 
