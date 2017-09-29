@@ -215,7 +215,7 @@ Awesome-Pytorch-list
 127. [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).
 128. [zalando-pytorch](https://github.com/baldassarreFe/zalando-pytorch): Various experiments on the 
 [Fashion-MNIST](zalandoresearch/fashion-mnist) dataset from Zalando.
-
+129. [sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch): A PyTorch Implementation of SphereFace.
 
 
 ## Blogs & Articles
