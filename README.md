@@ -49,6 +49,7 @@ Awesome-Pytorch-list
 39. [fairseq-py](https://github.com/facebookresearch/fairseq-py): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 40. [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
 41. [speech](https://github.com/awni/speech): PyTorch ASR Implementation.
+42. [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): Open-Source Neural Machine Translation in PyTorch http://opennmt.net 
 
 
 
