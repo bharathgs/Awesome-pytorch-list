@@ -218,6 +218,7 @@ Awesome-Pytorch-list
 [Fashion-MNIST](zalandoresearch/fashion-mnist) dataset from Zalando.
 129. [sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch): A PyTorch Implementation of SphereFace.
 130. [Categorical DQN](https://github.com/floringogianu/categorical-dqn): A PyTorch Implementation of Categorical DQN from [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887).
+131. [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm): pytorch ntm implementation. 
 
 
 ## Blogs & Articles
