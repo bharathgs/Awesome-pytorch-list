@@ -53,6 +53,7 @@ Awesome-Pytorch-list
 43. [sru](https://github.com/taolei87/sru): Training RNNs as Fast as CNNs (arxiv.org/abs/1709.02755)
 44. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
 45. [torch2coreml](https://github.com/prisma-ai/torch2coreml): Torch7 -> CoreML
+46. [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding): PyTorch Deep Texture Encoding Network http://hangzh.com/PyTorch-Encoding
 
 
 
