@@ -56,6 +56,7 @@ Awesome-Pytorch-list
 46. [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding): PyTorch Deep Texture Encoding Network http://hangzh.com/PyTorch-Encoding
 47. [neuralcoref](https://github.com/huggingface/neuralcoref): State-of-the-art coreference resolution based on neural nets and spaCy huggingface.co/coref
 48. [pytorch-ctc](https://github.com/ryanleary/pytorch-ctc): PyTorch-CTC is an implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch. C++ code borrowed liberally from TensorFlow with some improvements to increase flexibility. 
+49. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
 
 
 
