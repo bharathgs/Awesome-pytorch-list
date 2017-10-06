@@ -227,7 +227,8 @@ Awesome-Pytorch-list
 133. [graph_convnets_pytorch](https://github.com/xbresson/graph_convnets_pytorch): PyTorch implementation of graph ConvNets, NIPS’16
 134. [pytorch-faster-rcnn](https://github.com/ruotianluo/pytorch-faster-rcnn): A pytorch implementation of faster RCNN detection framework based on Xinlei Chen's tf-faster-rcnn.
 135. [torchMoji](https://github.com/huggingface/torchMoji): A pyTorch implementation of the DeepMoji model: state-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc. 
-136. [](): 
+136. [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm): Neural Turing Machines (NTM) - PyTorch Implementation
+
 
 
 ## Blogs & Articles
