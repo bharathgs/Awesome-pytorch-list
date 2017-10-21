@@ -5,8 +5,9 @@ Awesome-Pytorch-list
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-700+-blue.svg"/>
-	<img src="https://img.shields.io/badge/forks-100+-blue.svg"/>
+	<img src="https://img.shields.io/badge/stars-700+-brightgreen.svg"/>
+	<img src="https://img.shields.io/badge/forks-100+-brightgreen.svg"/>
+	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
 
