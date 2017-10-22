@@ -35,7 +35,7 @@ Awesome-Pytorch-list
 21. [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): Submanifold sparse convolutional networks.
 22. [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch is a Gaussian Process library, implemented using PyTorch. It is designed for creating flexible and modular Gaussian Process models with ease, so that you don't have to be an expert to use GPs. 
 23. [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): Quickly comparing your image classification models with the state-of-the-art models (such as DenseNet, ResNet, ...)
-24. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): tensorboard for pytorch
+24. [pytorch-inference](https://github.com/bzcheeseman/pytorch-inference): OpenCL Inference Engine for pytorch find [here](https://bzcheeseman.github.io/pytorch-inference/)
 25. [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): A multi-layer convolution LSTM module
 26. [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
 27. [pytorch-cns](https://github.com/awentzonline/pytorch-cns): Compressed Network Search with PyTorch
@@ -61,7 +61,6 @@ Awesome-Pytorch-list
 47. [neuralcoref](https://github.com/huggingface/neuralcoref): State-of-the-art coreference resolution based on neural nets and spaCy huggingface.co/coref
 48. [pytorch-ctc](https://github.com/ryanleary/pytorch-ctc): PyTorch-CTC is an implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch. C++ code borrowed liberally from TensorFlow with some improvements to increase flexibility. 
 49. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
-50. [pytorch-inference](https://github.com/bzcheeseman/pytorch-inference): OpenCL Inference Engine for pytorch find [here](https://bzcheeseman.github.io/pytorch-inference/)
 
 
 
