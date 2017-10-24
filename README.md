@@ -235,7 +235,8 @@ Awesome-Pytorch-list
 137. [pytorch-qrnn](https://github.com/salesforce/pytorch-qrnn): PyTorch implementation of the Quasi-Recurrent Neural Network - up to 16 times faster than NVIDIA's cuDNN LSTM
 138. [pytorch-sgns](https://github.com/theeluwin/pytorch-sgns): Skipgram Negative Sampling in PyTorch.
 139. [SfmLearner-Pytorch ](https://github.com/ClementPinard/SfmLearner-Pytorch): Pytorch version of SfmLearner from Tinghui Zhou et al.
-
+140. [NSCUPA-pytorch](https://github.com/cedias/NSCUPA-pytorch) : A Pytorch implementation of Neural Sentiment Classification w/ User & Product Attention paper.
+141. [HAN-pytorch](https://github.com/cedias/HAN-pytorch) : A Pytorch implementation  of Hierarchical Attention Network for Document Classification paper.
 
 
 
