@@ -236,6 +236,7 @@ Awesome-Pytorch-list
 138. [pytorch-sgns](https://github.com/theeluwin/pytorch-sgns): Skipgram Negative Sampling in PyTorch.
 139. [SfmLearner-Pytorch ](https://github.com/ClementPinard/SfmLearner-Pytorch): Pytorch version of SfmLearner from Tinghui Zhou et al.
 140. [deformable-convolution-pytorch](https://github.com/1zb/deformable-convolution-pytorch): PyTorch implementation of Deformable Convolution. 
+141. [skip-gram-pytorch](https://github.com/fanglanting/skip-gram-pytorch): A complete pytorch implementation of skipgram model (with subsampling and negative sampling). The embedding result is tested with Spearman's rank correlation.
 
 
 
