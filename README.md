@@ -241,7 +241,7 @@ Awesome-Pytorch-list
 142. [stackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2): Pytorch implementation for reproducing StackGAN_v2 results in the paper StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks by Han Zhang*, Tao Xu*, Hongsheng Li, Shaoting Zhang, Xiaogang Wang, Xiaolei Huang, Dimitris Metaxas.
 143. [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch): Unofficial pytorch implementation for Self-critical Sequence Training for Image Captioning. 
 144. [pygcn](https://github.com/tkipf/pygcn): Graph Convolutional Networks in PyTorch.
-
+145. [dnc](https://github.com/ixaxaar/pytorch-dnc): Differentiable Neural Computers, for Pytorch
 
 
 ## Blogs & Articles
