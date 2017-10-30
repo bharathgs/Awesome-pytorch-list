@@ -242,6 +242,7 @@ Awesome-Pytorch-list
 143. [self-critical.pytorch](https://github.com/ruotianluo/self-critical.pytorch): Unofficial pytorch implementation for Self-critical Sequence Training for Image Captioning. 
 144. [pygcn](https://github.com/tkipf/pygcn): Graph Convolutional Networks in PyTorch.
 145. [dnc](https://github.com/ixaxaar/pytorch-dnc): Differentiable Neural Computers, for Pytorch
+146. [prog_gans_pytorch_inference](https://github.com/ptrblck/prog_gans_pytorch_inference): PyTorch inference for "Progressive Growing of GANs" with CelebA snapshot.
 
 
 ## Blogs & Articles
