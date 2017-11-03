@@ -94,6 +94,7 @@ Awesome-Pytorch-list
 23. [pytorch_tutoria-quick](https://github.com/soravux/pytorch_tutorial): Quick PyTorch introduction and tutorial. Targets computer vision, graphics and machine learning researchers eager to try a new framework.  
 24. [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial): A short tutorial on performing fine tuning or transfer learning in PyTorch.
 25. [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises): pytorch-exercises 
+26. [traffic-sign-detection](https://github.com/soumith/traffic-sign-detection-homework): nyu-cv-fall-2017 example
 
 
 ## Paper implementations
