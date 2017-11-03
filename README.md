@@ -247,6 +247,7 @@ Awesome-Pytorch-list
 145. [dnc](https://github.com/ixaxaar/pytorch-dnc): Differentiable Neural Computers, for Pytorch
 146. [prog_gans_pytorch_inference](https://github.com/ptrblck/prog_gans_pytorch_inference): PyTorch inference for "Progressive Growing of GANs" with CelebA snapshot.
 147. [pytorch-capsule](https://github.com/timomernick/pytorch-capsule): Pytorch implementation of Hinton's Dynamic Routing Between Capsules.
+148. [PyramidNet-PyTorch](https://github.com/dyhan0920/PyramidNet-PyTorch): A PyTorch implementation for PyramidNets (Deep Pyramidal Residual Networks, arxiv.org/abs/1610.02915)
 
 
 ## Blogs & Articles
