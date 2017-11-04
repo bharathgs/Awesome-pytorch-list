@@ -64,6 +64,7 @@ Awesome-Pytorch-list
 50. [candlegp](https://github.com/t-vi/candlegp): Gaussian Processes in Pytorch. 
 51. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging. 
 52. [dni-pytorch](https://github.com/koz4k/dni-pytorch): Decoupled Neural Interfaces using Synthetic Gradients for PyTorch.
+53. [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
 
 
 
