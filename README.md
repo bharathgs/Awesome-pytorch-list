@@ -252,6 +252,7 @@ Awesome-Pytorch-list
 149. [radio-transformer-networks](https://github.com/gram-ai/radio-transformer-networks): A PyTorch implementation of Radio Transformer Networks from the paper "An Introduction to Deep Learning for the Physical Layer". arxiv.org/abs/1702.00832
 150. [honk](https://github.com/castorini/honk): PyTorch reimplementation of Google's TensorFlow CNNs for keyword spotting.
 151. [DeepCORAL](https://github.com/SSARCandy/DeepCORAL): A PyTorch implementation of 'Deep CORAL: Correlation Alignment for Deep Domain Adaptation.', ECCV 2016
+152. [Contractive Autoencoder](https://github.com/avijit9/Contractive_Autoencoder_in_Pytorch) : This implements the contractive autoencoder using PyTorch proposed by Rifai et el.
 
 
 
@@ -278,6 +279,7 @@ Awesome-Pytorch-list
 12. [sketchnet](https://github.com/jtoy/sketchnet): A model that takes an image and generates Processing source code to regenerate that image
 13. [Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp): A nonprofit community run, 5-day Deep Learning Bootcamp http://deep-ml.com. 
 14. [Amazon_Forest_Computer_Vision](https://github.com/mratsim/Amazon_Forest_Computer_Vision): Satellite Image tagging code using PyTorch / Keras with lots of PyTorch tricks. kaggle competition.
+
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
