@@ -254,7 +254,7 @@ Awesome-Pytorch-list
 151. [DeepCORAL](https://github.com/SSARCandy/DeepCORAL): A PyTorch implementation of 'Deep CORAL: Correlation Alignment for Deep Domain Adaptation.', ECCV 2016
 152. [pytorch-pose](https://github.com/bearpaw/pytorch-pose): A PyTorch toolkit for 2D Human Pose Estimation.
 153. [lang-emerge-parlai](https://github.com/karandesai-96/lang-emerge-parlai): Implementation of EMNLP 2017 Paper "Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog" using PyTorch and ParlAI
-
+154. [Rainbow](https://github.com/Kaixhin/Rainbow): Rainbow: Combining Improvements in Deep Reinforcement Learning 
 
 
 ## Blogs & Articles
