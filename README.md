@@ -97,6 +97,7 @@ Awesome-Pytorch-list
 26. [traffic-sign-detection](https://github.com/soumith/traffic-sign-detection-homework): nyu-cv-fall-2017 example
 27. [mss_pytorch](https://github.com/Js-Mim/mss_pytorch): Singing Voice Separation via Recurrent Inference and Skip-Filtering Connections - PyTorch Implementation. Demo: js-mim.github.io/mss_pytorch
 28. [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ: NLP with Deep Learning)
+29. [Mila introductory tutorials](https://github.com/mila-udem/welcome_tutorials): Various tutorials given for welcoming new students at MILA.
 
 ## Paper implementations
 
