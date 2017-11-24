@@ -261,6 +261,7 @@ Awesome-Pytorch-list
 157. [FewShotLearning](https://github.com/gitabcworld/FewShotLearning): Pytorch implementation of the paper "Optimization as a Model for Few-Shot Learning"
 158. [meProp](https://github.com/jklj077/meProp): Codes for "meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting".
 159. [SFD_pytorch](https://github.com/clcarwin/SFD_pytorch): A PyTorch Implementation of Single Shot Scale-invariant Face Detector.
+160. [GradientEpisodicMemory](https://github.com/facebookresearch/GradientEpisodicMemory): Continuum Learning with GEM: Gradient Episodic Memory. https://arxiv.org/abs/1706.08840
 
 
 
