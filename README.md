@@ -265,7 +265,7 @@ Awesome-Pytorch-list
 161. [DeblurGAN](https://github.com/KupynOrest/DeblurGAN): Pytorch implementation of the paper DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks.
 162. [StarGAN](https://github.com/yunjey/StarGAN): StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation.
 163. [CapsNet-pytorch](https://github.com/adambielski/CapsNet-pytorch): PyTorch implementation of NIPS 2017 paper Dynamic Routing Between Capsules.
-164. [](): 
+164. [CondenseNet](https://github.com/ShichenLiu/CondenseNet): CondenseNet: An Efficient DenseNet using Learned Group Convolutions.
 
 ## Blogs & Articles
 
