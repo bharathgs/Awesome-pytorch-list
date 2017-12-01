@@ -269,6 +269,7 @@ Awesome-Pytorch-list
 164. [CondenseNet](https://github.com/ShichenLiu/CondenseNet): CondenseNet: An Efficient DenseNet using Learned Group Convolutions.
 165. [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior): Image restoration with neural networks but without learning.
 166. [deep-head-pose](https://github.com/natanielruiz/deep-head-pose): Deep Learning Head Pose Estimation using PyTorch.
+167. [Random-Erasing](https://github.com/zhunzhong07/Random-Erasing): This code has the source code for the paper "Random Erasing Data Augmentation".
 
 ## Blogs & Articles
 
