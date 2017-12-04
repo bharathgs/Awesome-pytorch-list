@@ -101,6 +101,7 @@ Awesome-Pytorch-list
 29. [Mila introductory tutorials](https://github.com/mila-udem/welcome_tutorials): Various tutorials given for welcoming new students at MILA.
 30. [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): for learning reinforcement learning using PyTorch.
 31. [minimal-seq2seq](https://github.com/keon/seq2seq): Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch
+32. [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
 
 ## Paper implementations
 
