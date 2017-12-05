@@ -274,6 +274,7 @@ Awesome-Pytorch-list
 166. [deep-head-pose](https://github.com/natanielruiz/deep-head-pose): Deep Learning Head Pose Estimation using PyTorch.
 167. [Random-Erasing](https://github.com/zhunzhong07/Random-Erasing): This code has the source code for the paper "Random Erasing Data Augmentation".
 168. [FaderNetworks](https://github.com/facebookresearch/FaderNetworks): Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017
+169. [FlowNet 2.0](https://github.com/NVIDIA/flownet2-pytorch): FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 
 ## Blogs & Articles
 
