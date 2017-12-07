@@ -278,6 +278,7 @@ Awesome-Pytorch-list
 169. [FlowNet 2.0](https://github.com/NVIDIA/flownet2-pytorch): FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 170. [pix2pixHD](https://github.com/NVIDIA/pix2pixHD): Synthesizing and manipulating 2048x1024 images with conditional GANs tcwang0509.github.io/pix2pixHD 
 171. [pytorch-smoothgrad](https://github.com/pkdn/pytorch-smoothgrad): SmoothGrad implementation in PyTorch
+172. [RetinaNet](https://github.com/c0nn3r/RetinaNet): An implementation of RetinaNet in PyTorch.
 
 
 ## Blogs & Articles
