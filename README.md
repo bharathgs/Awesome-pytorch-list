@@ -9,8 +9,7 @@ Awesome-Pytorch-list
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
-
- ## Pytorch & related libraries
+## Pytorch & related libraries
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration. 
 2. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras) : Some extra features for pytorch.    
