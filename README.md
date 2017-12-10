@@ -68,6 +68,7 @@ Awesome-Pytorch-list
 54. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging.
 55. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
 56. [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery): Unsupervised Language Modeling at scale for robust sentiment classification.
+57. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
 
 ## Tutorials & examples
 
