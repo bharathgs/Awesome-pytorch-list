@@ -282,6 +282,7 @@ Awesome-Pytorch-list
 171. [pytorch-smoothgrad](https://github.com/pkdn/pytorch-smoothgrad): SmoothGrad implementation in PyTorch
 172. [RetinaNet](https://github.com/c0nn3r/RetinaNet): An implementation of RetinaNet in PyTorch.
 173. [faster-rcnn.pytorch](https://github.com/jwyang/faster-rcnn.pytorch): This project is a faster faster R-CNN implementation, aimed to accelerating the training of faster R-CNN object detection models. 
+174. [mixup_pytorch](https://github.com/leehomyc/mixup_pytorch): A PyTorch implementation of the paper Mixup: Beyond Empirical Risk Minimization in PyTorch.
 
 ## Blogs & Articles
 
