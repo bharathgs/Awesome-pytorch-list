@@ -69,6 +69,7 @@ Awesome-Pytorch-list
 56. [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery): Unsupervised Language Modeling at scale for robust sentiment classification.
 57. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
 58. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
+59. [MUSE](https://github.com/facebookresearch/MUSE): A library for Multilingual Unsupervised or Supervised word Embeddings
 
 
 ## Tutorials & examples
