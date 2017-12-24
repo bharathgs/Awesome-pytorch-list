@@ -11,65 +11,74 @@ Awesome-Pytorch-list
 
 ## Pytorch & related libraries
 
-1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration. 
-2. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras) : Some extra features for pytorch.    
-3. [functional zoo](https://github.com/szagoruyko/functional-zoo) : PyTorch, unlike lua torch, has autograd in it's core, so using modular structure of torch.nn modules is not necessary, one can easily allocate needed Variables and write a function that utilizes them, which is sometimes more convenient. This repo contains model definitions in this functional way, with pretrained weights for some models. 
-4. [torch-sampling](https://github.com/ncullen93/torchsample) : This package provides a set of transforms and data structures for sampling from in-memory or out-of-memory data. 
-5. [torchcraft-py](https://github.com/deepcraft/torchcraft-py) : Python wrapper for TorchCraft, a bridge between Torch and StarCraft for AI research.
-6. [aorun](https://github.com/ramon-oliveira/aorun) : Aorun intend to be a Keras with PyTorch as backend. 
-7. [logger](https://github.com/oval-group/logger) : A simple logger for experiments.    
-8. [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset) : PyTorch docset! use with Dash, Zeal, Velocity, or LovelyDocs.     
-9. [pytorch vision](https://github.com/pytorch/vision) : Datasets, Transforms and Models specific to Computer Vision.    
-10. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.    
-11. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source. 
-12. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.  
-13. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
-14. [pytorch_fft](https://github.com/locuslab/pytorch_fft) : PyTorch wrapper for FFTs
-15. [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch):  PyTorch module to use OpenFace's nn4.small2.v1.t7 model
-16. [caffe_to_torch_to_pytorch](https://github.com/fanq15/caffe_to_torch_to_pytorch)
-17. [ptstat](https://github.com/stepelu/ptstat): Probabilistic Programming and Statistical Inference in PyTorch
-18. [pytorch-extension](https://github.com/sniklaus/pytorch-extension): This is a CUDA extension for PyTorch which computes the Hadamard product of two tensors.
-19. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): This module saves PyTorch tensors in tensorboard format for inspection. Currently supports scalar, image, audio, histogram features in tensorboard.
-20. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.
-21. [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): Submanifold sparse convolutional networks.
-22. [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch is a Gaussian Process library, implemented using PyTorch. It is designed for creating flexible and modular Gaussian Process models with ease, so that you don't have to be an expert to use GPs. 
-23. [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): Quickly comparing your image classification models with the state-of-the-art models (such as DenseNet, ResNet, ...)
-24. [pytorch-inference](https://github.com/bzcheeseman/pytorch-inference): OpenCL Inference Engine for pytorch find [here](https://bzcheeseman.github.io/pytorch-inference/)
-25. [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): A multi-layer convolution LSTM module
-26. [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
-27. [pytorch-cns](https://github.com/awentzonline/pytorch-cns): Compressed Network Search with PyTorch
-28. [pyinn](https://github.com/szagoruyko/pyinn): CuPy fused PyTorch neural networks ops
-29. [inferno](https://github.com/nasimrahaman/inferno): A utility library around PyTorch
-30. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch modules
-31. [inferno-sklearn](https://github.com/dnouri/inferno): A scikit-learn compatible neural network library that wraps pytorch.
-32. [pytorch-caffe-darknet-convert](https://github.com/marvis/pytorch-caffe-darknet-convert): convert between pytorch, caffe prototxt/weights and darknet cfg/weights
-33. [pytorch2caffe](https://github.com/longcw/pytorch2caffe): Convert PyTorch model to Caffemodel
-34. [anuvada](https://github.com/Sandeep42/anuvada): Interpretable Models for NLP using PyTorch.
-35. [audio](https://github.com/pytorch/audio): simple audio I/O for pytorch. 
-36. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch Modules. 
-37. [loop](https://github.com/facebookresearch/loop): A method to generate speech across multiple speakers
-38. [pytorch-tools](https://github.com/nearai/pytorch-tools): Tools for PyTorch
-39. [fairseq-py](https://github.com/facebookresearch/fairseq-py): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-40. [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
-41. [speech](https://github.com/awni/speech): PyTorch ASR Implementation.
-42. [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): Open-Source Neural Machine Translation in PyTorch http://opennmt.net 
-43. [sru](https://github.com/taolei87/sru): Training RNNs as Fast as CNNs (arxiv.org/abs/1709.02755)
-44. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
-45. [torch2coreml](https://github.com/prisma-ai/torch2coreml): Torch7 -> CoreML
-46. [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding): PyTorch Deep Texture Encoding Network http://hangzh.com/PyTorch-Encoding
-47. [neuralcoref](https://github.com/huggingface/neuralcoref): State-of-the-art coreference resolution based on neural nets and spaCy huggingface.co/coref
-48. [pytorch-ctc](https://github.com/ryanleary/pytorch-ctc): PyTorch-CTC is an implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch. C++ code borrowed liberally from TensorFlow with some improvements to increase flexibility. 
-49. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
-50. [candlegp](https://github.com/t-vi/candlegp): Gaussian Processes in Pytorch. 
-51. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging. 
-52. [dni-pytorch](https://github.com/koz4k/dni-pytorch): Decoupled Neural Interfaces using Synthetic Gradients for PyTorch.
-53. [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
-54. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging.
-55. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
-56. [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery): Unsupervised Language Modeling at scale for robust sentiment classification.
-57. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
-58. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
-59. [MUSE](https://github.com/facebookresearch/MUSE): A library for Multilingual Unsupervised or Supervised word Embeddings
+1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+
+### NLP & Speech Processing
+
+1. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.  
+2. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.  
+3. [anuvada](https://github.com/Sandeep42/anuvada): Interpretable Models for NLP using PyTorch.
+4. [audio](https://github.com/pytorch/audio): simple audio I/O for pytorch.
+5. [loop](https://github.com/facebookresearch/loop): A method to generate speech across multiple speakers
+6. [fairseq-py](https://github.com/facebookresearch/fairseq-py): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+7. [speech](https://github.com/awni/speech): PyTorch ASR Implementation.
+8. [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py): Open-Source Neural Machine Translation in PyTorch http://opennmt.net 
+9. [neuralcoref](https://github.com/huggingface/neuralcoref): State-of-the-art coreference resolution based on neural nets and spaCy huggingface.co/coref
+10. [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery): Unsupervised Language Modeling at scale for robust sentiment classification.
+11. [MUSE](https://github.com/facebookresearch/MUSE): A library for Multilingual Unsupervised or Supervised word Embeddings
+
+### CV
+
+1. [pytorch vision](https://github.com/pytorch/vision) : Datasets, Transforms and Models specific to Computer Vision.
+2. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.
+3. [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch):  PyTorch module to use OpenFace's nn4.small2.v1.t7 model
+4. [img_classification_pk_pytorch](https://github.com/felixgwu/img_classification_pk_pytorch): Quickly comparing your image classification models with the state-of-the-art models (such as DenseNet, ResNet, ...)
+5. [SparseConvNet](https://github.com/facebookresearch/SparseConvNet): Submanifold sparse convolutional networks.
+6. [Convolution_LSTM_pytorch](https://github.com/automan000/Convolution_LSTM_pytorch): A multi-layer convolution LSTM module
+7. [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
+8. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
+
+### Probabilistic/Generative Libraries
+
+1. [ptstat](https://github.com/stepelu/ptstat): Probabilistic Programming and Statistical Inference in PyTorch
+2. [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
+3. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
+4. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
+
+### Other libraries 
+
+1. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras) : Some extra features for pytorch.    
+2. [functional zoo](https://github.com/szagoruyko/functional-zoo) : PyTorch, unlike lua torch, has autograd in it's core, so using modular structure of torch.nn modules is not necessary, one can easily allocate needed Variables and write a function that utilizes them, which is sometimes more convenient. This repo contains model definitions in this functional way, with pretrained weights for some models. 
+3. [torch-sampling](https://github.com/ncullen93/torchsample) : This package provides a set of transforms and data structures for sampling from in-memory or out-of-memory data. 
+4. [torchcraft-py](https://github.com/deepcraft/torchcraft-py) : Python wrapper for TorchCraft, a bridge between Torch and StarCraft for AI research.
+5. [aorun](https://github.com/ramon-oliveira/aorun) : Aorun intend to be a Keras with PyTorch as backend. 
+6. [logger](https://github.com/oval-group/logger) : A simple logger for experiments.
+7. [PyTorch-docset](https://github.com/iamaziz/PyTorch-docset) : PyTorch docset! use with Dash, Zeal, Velocity, or LovelyDocs.  
+8. [convert_torch_to_pytorch](https://github.com/clcarwin/convert_torch_to_pytorch) : Convert torch t7 model to pytorch model and source.
+9. [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch): The goal of this repo is to help to reproduce research papers results.  
+10. [pytorch_fft](https://github.com/locuslab/pytorch_fft) : PyTorch wrapper for FFTs
+11. [caffe_to_torch_to_pytorch](https://github.com/fanq15/caffe_to_torch_to_pytorch)
+12. [pytorch-extension](https://github.com/sniklaus/pytorch-extension): This is a CUDA extension for PyTorch which computes the Hadamard product of two tensors.
+13. [tensorboard-pytorch](https://github.com/lanpa/tensorboard-pytorch): This module saves PyTorch tensors in tensorboard format for inspection. Currently supports scalar, image, audio, histogram features in tensorboard.
+14. [gpytorch](https://github.com/jrg365/gpytorch): GPyTorch is a Gaussian Process library, implemented using PyTorch. It is designed for creating flexible and modular Gaussian Process models with ease, so that you don't have to be an expert to use GPs.
+15. [spotlight](https://github.com/maciejkula/spotlight): Deep recommender models using PyTorch.
+16. [pytorch-cns](https://github.com/awentzonline/pytorch-cns): Compressed Network Search with PyTorch
+17. [pyinn](https://github.com/szagoruyko/pyinn): CuPy fused PyTorch neural networks ops
+18. [inferno](https://github.com/nasimrahaman/inferno): A utility library around PyTorch
+19. [pytorch-fitmodule](https://github.com/henryre/pytorch-fitmodule): Super simple fit method for PyTorch modules
+20. [inferno-sklearn](https://github.com/dnouri/inferno): A scikit-learn compatible neural network library that wraps pytorch.
+21. [pytorch-caffe-darknet-convert](https://github.com/marvis/pytorch-caffe-darknet-convert): convert between pytorch, caffe prototxt/weights and darknet cfg/weights
+22. [pytorch2caffe](https://github.com/longcw/pytorch2caffe): Convert PyTorch model to Caffemodel
+23. [pytorch-tools](https://github.com/nearai/pytorch-tools): Tools for PyTorch
+24. [sru](https://github.com/taolei87/sru): Training RNNs as Fast as CNNs (arxiv.org/abs/1709.02755)
+25. [torch2coreml](https://github.com/prisma-ai/torch2coreml): Torch7 -> CoreML
+26. [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding): PyTorch Deep Texture Encoding Network http://hangzh.com/PyTorch-Encoding
+27. [pytorch-ctc](https://github.com/ryanleary/pytorch-ctc): PyTorch-CTC is an implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch. C++ code borrowed liberally from TensorFlow with some improvements to increase flexibility.
+28. [candlegp](https://github.com/t-vi/candlegp): Gaussian Processes in Pytorch. 
+29. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging. 
+30. [dni-pytorch](https://github.com/koz4k/dni-pytorch): Decoupled Neural Interfaces using Synthetic Gradients for PyTorch.
+31. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
+32. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
 
 
 ## Tutorials & examples
