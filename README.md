@@ -13,7 +13,7 @@ Awesome-Pytorch-list
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 
-### NLP & Speech Processing
+### NLP & Speech Processing:
 
 1. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.  
 2. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.  
@@ -26,8 +26,9 @@ Awesome-Pytorch-list
 9. [neuralcoref](https://github.com/huggingface/neuralcoref): State-of-the-art coreference resolution based on neural nets and spaCy huggingface.co/coref
 10. [sentiment-discovery](https://github.com/NVIDIA/sentiment-discovery): Unsupervised Language Modeling at scale for robust sentiment classification.
 11. [MUSE](https://github.com/facebookresearch/MUSE): A library for Multilingual Unsupervised or Supervised word Embeddings
+12. [nmtpytorch](https://github.com/lium-lst/nmtpytorch): Neural Machine Translation Framework in PyTorch.
 
-### CV
+### CV:
 
 1. [pytorch vision](https://github.com/pytorch/vision) : Datasets, Transforms and Models specific to Computer Vision.
 2. [pt-styletransfer](https://github.com/tymokvo/pt-styletransfer): Neural style transfer as a class in PyTorch.
@@ -38,14 +39,14 @@ Awesome-Pytorch-list
 7. [face-alignment](https://github.com/1adrianb/face-alignment): :fire: 2D and 3D Face alignment library build using pytorch adrianbulat.com
 8. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
 
-### Probabilistic/Generative Libraries
+### Probabilistic/Generative Libraries:
 
 1. [ptstat](https://github.com/stepelu/ptstat): Probabilistic Programming and Statistical Inference in PyTorch
 2. [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
 3. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
 4. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
 
-### Other libraries 
+### Other libraries:
 
 1. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras) : Some extra features for pytorch.    
 2. [functional zoo](https://github.com/szagoruyko/functional-zoo) : PyTorch, unlike lua torch, has autograd in it's core, so using modular structure of torch.nn modules is not necessary, one can easily allocate needed Variables and write a function that utilizes them, which is sometimes more convenient. This repo contains model definitions in this functional way, with pretrained weights for some models. 
@@ -115,7 +116,6 @@ Awesome-Pytorch-list
 30. [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): for learning reinforcement learning using PyTorch.
 31. [minimal-seq2seq](https://github.com/keon/seq2seq): Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch
 32. [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
-33. [nmtpytorch](https://github.com/lium-lst/nmtpytorch): Neural Machine Translation Framework in PyTorch
 
 
 ## Paper implementations
