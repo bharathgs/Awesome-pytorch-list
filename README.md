@@ -302,6 +302,7 @@ Awesome-Pytorch-list
 178. [bytenet](https://github.com/kefirski/bytenet): Pytorch implementation of bytenet from "Neural Machine Translation in Linear Time" paper
 179. [bottom-up-attention-vqa](https://github.com/hengyuan-hu/bottom-up-attention-vqa): vqa, bottom-up-attention, pytorch
 180. [yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch): The YOLOv2 is one of the most popular one-stage object detector. This project adopts PyTorch as the developing framework to increase productivity, and utilize ONNX to convert models into Caffe 2 to benifit engineering deployment.
+181. [reseg-pytorch](https://github.com/Wizaron/reseg-pytorch): PyTorch Implementation of ReSeg (arxiv.org/pdf/1511.07053.pdf)
 
 ## Blogs & Articles
 
