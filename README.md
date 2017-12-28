@@ -305,6 +305,7 @@ Awesome-Pytorch-list
 181. [reseg-pytorch](https://github.com/Wizaron/reseg-pytorch): PyTorch Implementation of ReSeg (arxiv.org/pdf/1511.07053.pdf)
 182. [binary-stochastic-neurons](https://github.com/Wizaron/binary-stochastic-neurons): Binary Stochastic Neurons in PyTorch.
 183. [pytorch-pose-estimation](https://github.com/DavexPro/pytorch-pose-estimation): PyTorch Implementation of Realtime Multi-Person Pose Estimation project.
+184. [interaction_network_pytorch](https://github.com/higgsfield/interaction_network_pytorch): Pytorch Implementation of Interaction Networks for Learning about Objects, Relations and Physics.
 
 ## Blogs & Articles
 
