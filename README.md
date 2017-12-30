@@ -117,6 +117,7 @@ Awesome-Pytorch-list
 30. [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): for learning reinforcement learning using PyTorch.
 31. [minimal-seq2seq](https://github.com/keon/seq2seq): Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch
 32. [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
+33. [pytorch_bits](https://github.com/jpeg729/pytorch_bits): time-series prediction related examples.
 
 
 ## Paper implementations
