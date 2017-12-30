@@ -81,6 +81,7 @@ Awesome-Pytorch-list
 31. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
 32. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
 33. [Arnold](https://github.com/glample/Arnold): Arnold - DOOM Agent
+34. [pytorch-mcn](https://github.com/albanie/pytorch-mcn): Convert models from MatConvNet to PyTorch
 
 
 ## Tutorials & examples
