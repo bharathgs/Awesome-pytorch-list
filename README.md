@@ -82,6 +82,7 @@ Awesome-Pytorch-list
 32. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
 33. [Arnold](https://github.com/glample/Arnold): Arnold - DOOM Agent
 34. [pytorch-mcn](https://github.com/albanie/pytorch-mcn): Convert models from MatConvNet to PyTorch
+35. [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch): A simplified implemention of Faster R-CNN with competitive performance.
 
 
 ## Tutorials & examples
