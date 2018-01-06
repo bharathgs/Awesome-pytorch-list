@@ -29,6 +29,7 @@ Awesome-Pytorch-list
 12. [nmtpytorch](https://github.com/lium-lst/nmtpytorch): Neural Machine Translation Framework in PyTorch.
 13. [pytorch-wavenet](https://github.com/vincentherrmann/pytorch-wavenet): An implementation of WaveNet with fast generation
 14. [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch): Tacotron: Towards End-to-End Speech Synthesis
+15. [PyTorchSeqLabel](https://github.com/jiesutd/PyTorchSeqLabel): PyTorchSeqLabel: Sequence labeling LSTM-CRF framework with characeter LSTM/CNN features
 
 ### CV:
 
@@ -316,6 +317,9 @@ Awesome-Pytorch-list
 185. [NoisyNaturalGradient](https://github.com/wlwkgus/NoisyNaturalGradient): Pytorch Implementation of paper "Noisy Natural Gradient as Variational Inference". 
 186. [ewc.pytorch](https://github.com/moskomule/ewc.pytorch): An implementation of Elastic Weight Consolidation (EWC), proposed in James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks 2016(10.1073/pnas.1611835114).
 187. [pytorch-zssr](https://github.com/jacobgil/pytorch-zssr): PyTorch implementation of 1712.06087 "Zero-Shot" Super-Resolution using Deep Internal Learning
+188. [PyTorchSeqLabel](https://github.com/jiesutd/PyTorchSeqLabel): PyTorch implementation of "Neural Architectures for Named Entity Recognition", NAACL 2016. 
+189. [PyTorchSeqLabel](https://github.com/jiesutd/PyTorchSeqLabel): PyTorch implementation of "End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF", ACL 2016. 
+
 
 ## Blogs & Articles
 
