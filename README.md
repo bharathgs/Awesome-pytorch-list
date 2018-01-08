@@ -317,6 +317,7 @@ Awesome-Pytorch-list
 186. [ewc.pytorch](https://github.com/moskomule/ewc.pytorch): An implementation of Elastic Weight Consolidation (EWC), proposed in James Kirkpatrick et al. Overcoming catastrophic forgetting in neural networks 2016(10.1073/pnas.1611835114).
 187. [pytorch-zssr](https://github.com/jacobgil/pytorch-zssr): PyTorch implementation of 1712.06087 "Zero-Shot" Super-Resolution using Deep Internal Learning
 188. [deep_image_prior](https://github.com/atiyo/deep_image_prior): An implementation of image reconstruction methods from Deep Image Prior (Ulyanov et al., 2017) in PyTorch.
+189. [pytorch-transformer](https://github.com/leviswind/pytorch-transformer): pytorch implementation of Attention is all you need.
 
 ## Blogs & Articles
 
