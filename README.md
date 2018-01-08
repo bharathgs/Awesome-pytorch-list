@@ -124,6 +124,7 @@ Awesome-Pytorch-list
 32. [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
 33. [pytorch_bits](https://github.com/jpeg729/pytorch_bits): time-series prediction related examples.
 34. [skip-thoughts](https://github.com/sanyam5/skip-thoughts): An implementation of Skip-Thought Vectors in PyTorch.
+35. [video-caption-pytorch](https://github.com/xiadingZ/video-caption-pytorch): pytorch code for video captioning. 
 
 
 ## Paper implementations
