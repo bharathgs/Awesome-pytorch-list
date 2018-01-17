@@ -323,6 +323,7 @@ Awesome-Pytorch-list
 189. [pytorch-transformer](https://github.com/leviswind/pytorch-transformer): pytorch implementation of Attention is all you need.
 190. [DeepRL-Grounding](https://github.com/devendrachaplot/DeepRL-Grounding): This is a PyTorch implementation of the AAAI-18 paper Gated-Attention Architectures for Task-Oriented Language Grounding
 191. [deep-forecast-pytorch](https://github.com/Wizaron/deep-forecast-pytorch): Wind Speed Prediction using LSTMs in PyTorch (arxiv.org/pdf/1707.08110.pdf)
+192. [cat-net](https://github.com/utiasSTARS/cat-net):  Canonical Appearance Transformations
 
 ## Blogs & Articles
 
