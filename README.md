@@ -87,6 +87,7 @@ Awesome-Pytorch-list
 34. [pytorch-mcn](https://github.com/albanie/pytorch-mcn): Convert models from MatConvNet to PyTorch
 35. [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch): A simplified implemention of Faster R-CNN with competitive performance.
 36. [generative_zoo](https://github.com/DL-IT/generative_zoo): generative_zoo is a repository that provides working implementations of some generative models in PyTorch.
+37. [pytorchviz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs. 
 
 
 ## Tutorials & examples
