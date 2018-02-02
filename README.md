@@ -89,6 +89,7 @@ Awesome-Pytorch-list
 36. [generative_zoo](https://github.com/DL-IT/generative_zoo): generative_zoo is a repository that provides working implementations of some generative models in PyTorch.
 37. [pytorchviz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs. 
 38. [cogitare](https://github.com/cogitare-ai/cogitare): Cogitare - A Modern, Fast, and Modular Deep Learning and Machine Learning framework in Python. 
+39. [pydlt](https://github.com/dmarnerides/pydlt): PyTorch based Deep Learning Toolbox
 
 
 
