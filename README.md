@@ -132,7 +132,7 @@ Awesome-Pytorch-list
 33. [pytorch_bits](https://github.com/jpeg729/pytorch_bits): time-series prediction related examples.
 34. [skip-thoughts](https://github.com/sanyam5/skip-thoughts): An implementation of Skip-Thought Vectors in PyTorch.
 35. [video-caption-pytorch](https://github.com/xiadingZ/video-caption-pytorch): pytorch code for video captioning. 
-36. [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial
+36. [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial.
 
 
 ## Paper implementations
