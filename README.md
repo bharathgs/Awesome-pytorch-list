@@ -346,6 +346,8 @@ Awesome-Pytorch-list
 203. [ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch): PyTorch implementation of "Efficient Neural Architecture Search via Parameters Sharing". 
 204. [Neural-IMage-Assessment](https://github.com/kentsyx/Neural-IMage-Assessment): A PyTorch Implementation of Neural IMage Assessment. 
 205. [proxprop](https://github.com/tfrerix/proxprop): Proximal Backpropagation - a neural network training algorithm that takes implicit instead of explicit gradient steps.
+206. [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle): A Closed-form Solution to Photorealistic Image Stylization
+
 
 ## Blogs & Articles
 
