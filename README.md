@@ -98,7 +98,7 @@ Awesome-Pytorch-list
 41. [pytorch_cluster](https://github.com/rusty1s/pytorch_cluster): PyTorch Extension Library of Optimised Graph Cluster Algorithms.
 42. [neural-assembly-compiler](https://github.com/aditya-khant/neural-assembly-compiler): A neural assembly compiler for pyTorch based on adaptive-neural-compilation. 
 43. [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch): Convert Caffe models to PyTorch.
-
+44. [extension-cpp](https://github.com/pytorch/extension-cpp): C++ extensions in PyTorch
 
 
 ## Tutorials & examples
