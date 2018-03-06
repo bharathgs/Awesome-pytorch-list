@@ -354,6 +354,7 @@ Awesome-Pytorch-list
 208. [Person-reID_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch): PyTorch for Person re-ID. 
 209. [pt-dilate-rnn](https://github.com/zalandoresearch/pt-dilate-rnn): Dilated RNNs in pytorch. 
 210. [pytorch-i-revnet](https://github.com/jhjacobsen/pytorch-i-revnet): Pytorch implementation of i-RevNets.
+211. [OrthNet](https://github.com/Orcuslc/OrthNet): TensorFlow and PyTorch layers for generating Orthogonal Polynomials. 
 
 ## Blogs & Articles
 
