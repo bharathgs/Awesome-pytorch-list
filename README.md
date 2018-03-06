@@ -43,7 +43,6 @@ Awesome-Pytorch-list
 8. [pytorch-semantic-segmentation](https://github.com/ZijunDeng/pytorch-semantic-segmentation): PyTorch for Semantic Segmentation.
 9. [RoIAlign.pytorch](https://github.com/longcw/RoIAlign.pytorch): This is a PyTorch version of RoIAlign. This implementation is based on crop_and_resize and supports both forward and backward on CPU and GPU.
 10. [pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune): Fine-tune pretrained Convolutional Neural Networks with PyTorch.
-11. [Person-reID_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch): PyTorch for Person re-ID.
 
 ### Probabilistic/Generative Libraries:
 
@@ -350,6 +349,7 @@ Awesome-Pytorch-list
 205. [proxprop](https://github.com/tfrerix/proxprop): Proximal Backpropagation - a neural network training algorithm that takes implicit instead of explicit gradient steps.
 206. [FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle): A Closed-form Solution to Photorealistic Image Stylization
 207. [Deep-Image-Analogy-PyTorch](https://github.com/Ben-Louis/Deep-Image-Analogy-PyTorch): A python implementation of Deep-Image-Analogy based on pytorch.
+208. [Person-reID_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch): PyTorch for Person re-ID. 
 
 ## Blogs & Articles
 
