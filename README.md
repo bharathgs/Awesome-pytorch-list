@@ -50,6 +50,8 @@ Awesome-Pytorch-list
 2. [pyro](https://github.com/uber/pyro): Deep universal probabilistic programming with Python and PyTorch http://pyro.ai
 3. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
 4. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
+5. [pyvarinf](https://github.com/ctallec/pyvarinf): Python package facilitating the use of Bayesian Deep Learning methods with Variational Inference for PyTorch. 
+
 
 ### Other libraries:
 
