@@ -101,6 +101,8 @@ Awesome-Pytorch-list
 42. [neural-assembly-compiler](https://github.com/aditya-khant/neural-assembly-compiler): A neural assembly compiler for pyTorch based on adaptive-neural-compilation. 
 43. [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch): Convert Caffe models to PyTorch.
 44. [extension-cpp](https://github.com/pytorch/extension-cpp): C++ extensions in PyTorch
+45. [pytoune](https://github.com/GRAAL-Research/pytoune): A Keras-like framework and utilities for PyTorch
+
 
 
 ## Tutorials & examples
