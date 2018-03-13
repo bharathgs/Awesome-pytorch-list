@@ -387,5 +387,6 @@ Awesome-Pytorch-list
 13. [Deep-Learning-Boot-Camp](https://github.com/QuantScientist/Deep-Learning-Boot-Camp): A nonprofit community run, 5-day Deep Learning Bootcamp http://deep-ml.com. 
 14. [Amazon_Forest_Computer_Vision](https://github.com/mratsim/Amazon_Forest_Computer_Vision): Satellite Image tagging code using PyTorch / Keras with lots of PyTorch tricks. kaggle competition.
 15. [AlphaZero_Gomoku](https://github.com/junxiaosong/AlphaZero_Gomoku): An implementation of the AlphaZero algorithm for Gomoku (also called Gobang or Five in a Row)
+16. [pytorch-cv](https://github.com/youansheng/pytorch-cv): Repo for Object Detection, Segmentation & Pose Estimation.
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
