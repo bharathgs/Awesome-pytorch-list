@@ -361,7 +361,7 @@ Awesome-Pytorch-list
 211. [OrthNet](https://github.com/Orcuslc/OrthNet): TensorFlow and PyTorch layers for generating Orthogonal Polynomials.
 212. [DRRN-pytorch](https://github.com/jt827859032/DRRN-pytorch): An implementation of Deep Recursive Residual Network for Super Resolution (DRRN), CVPR 2017
 213. [shampoo.pytorch](https://github.com/moskomule/shampoo.pytorch): An implementation of shampoo.
- 
+214. [Neural-IMage-Assessment 2](https://github.com/truskovskiyk/nima.pytorch): A PyTorch Implementation of Neural IMage Assessment.
 
 ## Blogs & Articles
 
