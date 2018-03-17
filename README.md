@@ -363,7 +363,8 @@ Awesome-Pytorch-list
 213. [shampoo.pytorch](https://github.com/moskomule/shampoo.pytorch): An implementation of shampoo.
 214. [Neural-IMage-Assessment 2](https://github.com/truskovskiyk/nima.pytorch): A PyTorch Implementation of Neural IMage Assessment.
 215. [TCN](https://github.com/locuslab/TCN): Sequence modeling benchmarks and temporal convolutional networks locuslab/TCN
-216. 
+216. [DCC](https://github.com/shahsohil/DCC): This repository contains the source code and data for reproducing results of Deep Continuous Clustering paper. 
+217. 
 
 ## Blogs & Articles
 
