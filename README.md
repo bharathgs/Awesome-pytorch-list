@@ -30,6 +30,7 @@ Awesome-Pytorch-list
 13. [pytorch-wavenet](https://github.com/vincentherrmann/pytorch-wavenet): An implementation of WaveNet with fast generation
 14. [Tacotron-pytorch](https://github.com/soobinseo/Tacotron-pytorch): Tacotron: Towards End-to-End Speech Synthesis
 15. [AllenNLP](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
+16. [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP): Text utilities and datasets for PyTorch pytorchnlp.readthedocs.io
 
 ### CV:
 
