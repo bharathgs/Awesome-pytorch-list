@@ -103,7 +103,7 @@ Awesome-Pytorch-list
 43. [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch): Convert Caffe models to PyTorch.
 44. [extension-cpp](https://github.com/pytorch/extension-cpp): C++ extensions in PyTorch
 45. [pytoune](https://github.com/GRAAL-Research/pytoune): A Keras-like framework and utilities for PyTorch
-
+46. [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator..
 
 
 ## Tutorials & examples
