@@ -148,6 +148,7 @@ Awesome-Pytorch-list
 36. [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial.
 37. [code-of-learn-deep-learning-with-pytorch](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch): This is code of book "Learn Deep Learning with PyTorch" item.jd.com/17915495606.html
 38. [RL-Adventure](https://github.com/higgsfield/RL-Adventure): Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
+39. [accelerated_dl_pytorch](https://github.com/hpcgarage/accelerated_dl_pytorch): Accelerated Deep Learning with PyTorch at Jupyter Day Atlanta II. 
 
 
 ## Paper implementations
