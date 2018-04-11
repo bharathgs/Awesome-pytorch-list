@@ -13,6 +13,10 @@ Awesome-Pytorch-list
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 
+## Books 
+1. [Deep Learning With Pytorch](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) A practical guide to build neural network models in text and vision using PyTorch.
+[code](https://github.com/svishnu88/DLwithPyTorch) 
+
 ### NLP & Speech Processing:
 
 1. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.  
