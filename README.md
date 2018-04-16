@@ -46,6 +46,8 @@ Awesome-Pytorch-list
 10. [pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune): Fine-tune pretrained Convolutional Neural Networks with PyTorch.
 11. [detectorch](https://github.com/ignacio-rocco/detectorch): Detectorch - detectron for PyTorch
 12. [Augmentor](https://github.com/mdbloice/Augmentor): Image augmentation library in Python for machine learning. http://augmentor.readthedocs.io
+13. [s2cnn](https://github.com/jonas-koehler/s2cnn): 
+This library contains a PyTorch implementation of the SO(3) equivariant CNNs for spherical signals (e.g. omnidirectional cameras, signals on the globe) s
 
 
 ### Probabilistic/Generative Libraries:
