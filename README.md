@@ -13,10 +13,6 @@ Awesome-Pytorch-list
 
 1. [pytorch](http://pytorch.org ) : Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 
-## Books 
-1. [Deep Learning With Pytorch](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) A practical guide to build neural network models in text and vision using PyTorch.
-[code](https://github.com/svishnu88/DLwithPyTorch) 
-
 ### NLP & Speech Processing:
 
 1. [pytorch text](https://github.com/pytorch/text) : Torch text related contents.  
@@ -405,6 +401,7 @@ Awesome-Pytorch-list
 16. [pytorch-cv](https://github.com/youansheng/pytorch-cv): Repo for Object Detection, Segmentation & Pose Estimation.
 17. [deep-person-reid](https://github.com/KaiyangZhou/deep-person-reid): Pytorch implementation of deep person re-identification approaches.
 18. [pytorch-template](https://github.com/victoresque/pytorch-template): PyTorch template project
+19. [Deep Learning With Pytorch TextBook](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) A practical guide to build neural network models in text and vision using PyTorch. [Purchase on Amazon ](https://www.amazon.in/Deep-Learning-PyTorch-practical-approach/dp/1788624335/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1523853954&sr=8-1)     [github code repo](https://github.com/svishnu88/DLwithPyTorch) 
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
