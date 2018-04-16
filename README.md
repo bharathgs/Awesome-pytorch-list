@@ -106,6 +106,7 @@ Awesome-Pytorch-list
 45. [pytoune](https://github.com/GRAAL-Research/pytoune): A Keras-like framework and utilities for PyTorch
 46. [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
 47. [matchbox](https://github.com/salesforce/matchbox): Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
+48. [torch-two-sample](https://github.com/josipd/torch-two-sample): A PyTorch library for two-sample tests
 
 
 ## Tutorials & examples
