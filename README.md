@@ -110,6 +110,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 47. [matchbox](https://github.com/salesforce/matchbox): Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 48. [torch-two-sample](https://github.com/josipd/torch-two-sample): A PyTorch library for two-sample tests
 49. [pytorch-summary](https://github.com/sksq96/pytorch-summary): Model summary in PyTorch similar to `model.summary()` in Keras
+50. [mpl.pytorch](https://github.com/BelBES/mpl.pytorch): Pytorch implementation of MaxPoolingLoss.
 
 
 ## Tutorials & examples
