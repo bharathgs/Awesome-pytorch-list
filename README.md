@@ -109,6 +109,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 46. [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
 47. [matchbox](https://github.com/salesforce/matchbox): Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 48. [torch-two-sample](https://github.com/josipd/torch-two-sample): A PyTorch library for two-sample tests
+49. [pytorch-summary](https://github.com/sksq96/pytorch-summary): Model summary in PyTorch similar to `model.summary()` in Keras
 
 
 ## Tutorials & examples
