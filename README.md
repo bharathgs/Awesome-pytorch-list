@@ -158,6 +158,7 @@ Awesome-Pytorch-list
 101. [samplernn-pytorch](https://github.com/deepsound-project/samplernn-pytorch) : PyTorch implementation of SampleRNN: An Unconditional End-to-End Neural Audio Generation Model. 
 102. [AEGeAN](https://github.com/tymokvo/AEGeAN): Deeper DCGAN with AE stabilization
 103. [VRNN](https://github.com/emited/VariationalRecurrentNeuralNetwork): Pytorch implementation of the Variational RNN (VRNN), from A Recurrent Latent Variable Model for Sequential Data.
+104. [flow](https://github.com/emited/flow): Pytorch implementation of ICLR 2018 paper Deep Learning for Physical Processes: Integrating Prior Scientific Knowledge.
 
 
 ## Blogs & Articles
