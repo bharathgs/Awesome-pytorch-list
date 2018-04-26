@@ -112,6 +112,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 48. [torch-two-sample](https://github.com/josipd/torch-two-sample): A PyTorch library for two-sample tests
 49. [pytorch-summary](https://github.com/sksq96/pytorch-summary): Model summary in PyTorch similar to `model.summary()` in Keras
 50. [mpl.pytorch](https://github.com/BelBES/mpl.pytorch): Pytorch implementation of MaxPoolingLoss.
+51. [scVI-dev](https://github.com/YosefLab/scVI-dev): Development branch of the scVI project in PyTorch
 
 
 ## Tutorials & examples
