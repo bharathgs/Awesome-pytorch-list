@@ -32,6 +32,7 @@ Awesome-Pytorch-list
 15. [AllenNLP](https://github.com/allenai/allennlp): An open-source NLP research library, built on PyTorch.
 16. [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP): Text utilities and datasets for PyTorch pytorchnlp.readthedocs.io
 17. [quick-nlp](https://github.com/outcastofmusic/quick-nlp): Pytorch NLP library based on FastAI. 
+18. [TTS](https://github.com/mozilla/TTS): Deep learning for Text2Speech
 
 ### CV:
 
