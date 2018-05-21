@@ -116,6 +116,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 51. [scVI-dev](https://github.com/YosefLab/scVI-dev): Development branch of the scVI project in PyTorch
 52. [apex](https://github.com/NVIDIA/apex): An Experimental PyTorch Extension(will be deprecated at a later point)
 53. [ELF](https://github.com/pytorch/ELF): ELF: a platform for game research.
+54. [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
 
 
 ## Tutorials & examples
