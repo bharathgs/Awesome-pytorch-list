@@ -397,7 +397,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 230. [ConvE](https://github.com/TimDettmers/ConvE): Convolutional 2D Knowledge Graph Embeddings
 231. [Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention): 
 Implementation for the paper A Structured Self-Attentive Sentence Embedding, which is published in ICLR 2017: arxiv.org/abs/1703.03130 .
-232. [](): 
+232. [graphsage-simple](https://github.com/williamleif/graphsage-simple): Simple reference implementation of GraphSAGE.
 
 
 ## Blogs & Articles
