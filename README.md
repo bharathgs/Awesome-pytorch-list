@@ -117,6 +117,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 52. [apex](https://github.com/NVIDIA/apex): An Experimental PyTorch Extension(will be deprecated at a later point)
 53. [ELF](https://github.com/pytorch/ELF): ELF: a platform for game research.
 54. [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
+55. [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
 
 
 ## Tutorials & examples
@@ -402,7 +403,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 233. [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch): A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
 234. [R2Plus1D-PyTorch](https://github.com/irhumshafkat/R2Plus1D-PyTorch): PyTorch implementation of the R2Plus1D convolution based ResNet architecture described in the paper "A Closer Look at Spatiotemporal Convolutions for Action Recognition"
 235. [StackNN](https://github.com/viking-sudo-rm/StackNN): A PyTorch implementation of differentiable stacks for use in neural networks.
-236. []()
+
 
 ## Blogs & Articles
 
