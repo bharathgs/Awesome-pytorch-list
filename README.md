@@ -395,6 +395,9 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 228. [AccSGD](https://github.com/rahulkidambi/AccSGD): Implements pytorch code for the Accelerated SGD algorithm.
 229. [QANet-pytorch](https://github.com/hengruo/QANet-pytorch): an implementation of QANet with PyTorch (EM/F1 = 70.5/77.2 after 20 epoches for about 20 hours on one 1080Ti card.)
 230. [ConvE](https://github.com/TimDettmers/ConvE): Convolutional 2D Knowledge Graph Embeddings
+231. [Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention): 
+Implementation for the paper A Structured Self-Attentive Sentence Embedding, which is published in ICLR 2017: arxiv.org/abs/1703.03130 .
+232. [](): 
 
 
 ## Blogs & Articles
