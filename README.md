@@ -118,6 +118,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 53. [ELF](https://github.com/pytorch/ELF): ELF: a platform for game research.
 54. [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
 55. [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
+56. [SLM-Lab](https://github.com/kengz/SLM-Lab): Modular Deep Reinforcement Learning framework in PyTorch.
 
 
 ## Tutorials & examples
