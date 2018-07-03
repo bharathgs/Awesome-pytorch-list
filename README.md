@@ -120,6 +120,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 54. [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
 55. [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
 56. [SLM-Lab](https://github.com/kengz/SLM-Lab): Modular Deep Reinforcement Learning framework in PyTorch.
+57. [bindsnet](https://github.com/Hananel-Hazan/bindsnet): A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch
 
 
 ## Tutorials & examples
