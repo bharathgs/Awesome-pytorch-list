@@ -169,6 +169,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 43. [transfer learning using pytorch](https://medium.com/@vishnuvig/transfer-learning-using-pytorch-4c3475f4495)
 44. [how-to-implement-a-yolo-object-detector-in-pytorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
 45. [pytorch-for-recommenders-101](http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
+46. [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users)
 
 
 ## Paper implementations
