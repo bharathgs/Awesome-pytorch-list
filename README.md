@@ -33,6 +33,7 @@ Awesome-Pytorch-list
 16. [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP): Text utilities and datasets for PyTorch pytorchnlp.readthedocs.io
 17. [quick-nlp](https://github.com/outcastofmusic/quick-nlp): Pytorch NLP library based on FastAI. 
 18. [TTS](https://github.com/mozilla/TTS): Deep learning for Text2Speech
+19. [LASER](https://github.com/facebookresearch/LASER): Language-Agnostic SEntence Representations
 
 ### CV:
 
