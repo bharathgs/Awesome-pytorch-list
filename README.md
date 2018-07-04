@@ -34,6 +34,8 @@ Awesome-Pytorch-list
 17. [quick-nlp](https://github.com/outcastofmusic/quick-nlp): Pytorch NLP library based on FastAI. 
 18. [TTS](https://github.com/mozilla/TTS): Deep learning for Text2Speech
 19. [LASER](https://github.com/facebookresearch/LASER): Language-Agnostic SEntence Representations
+20. [pyannote-audio](https://github.com/pyannote/pyannote-audio): Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
+
 
 ### CV:
 
