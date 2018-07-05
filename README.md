@@ -123,6 +123,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 55. [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
 56. [SLM-Lab](https://github.com/kengz/SLM-Lab): Modular Deep Reinforcement Learning framework in PyTorch.
 57. [bindsnet](https://github.com/Hananel-Hazan/bindsnet): A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch
+58. [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module
+
 
 
 ## Tutorials & examples
