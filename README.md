@@ -177,6 +177,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 46. [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users)
 
 
+
 ## Paper implementations
 
 1. [google_evolution](https://github.com/neuralix/google_evolution) : This implements one of result networks from Large-scale evolution of image classifiers by Esteban Real, et. al. 
@@ -419,6 +420,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 236. [translagent](https://github.com/facebookresearch/translagent): Code for Emergent Translation in Multi-Agent Communication.
 237. [ban-vqa](https://github.com/jnhwkim/ban-vqa): Bilinear attention networks for visual question answering. 
 238. [pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm): This is a PyTorch implementation of the TensorFlow code provided with OpenAI's paper "Improving Language Understanding by Generative Pre-Training" by Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever.
+239. [T2F](https://github.com/akanimax/T2F): Text-to-Face generation using Deep Learning. This project combines two of the recent architectures StackGAN and ProGAN for synthesizing faces from textual descriptions.
 
 
 ## Pytorch elsewhere
