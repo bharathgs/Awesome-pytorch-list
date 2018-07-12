@@ -35,6 +35,7 @@ Awesome-Pytorch-list
 18. [TTS](https://github.com/mozilla/TTS): Deep learning for Text2Speech
 19. [LASER](https://github.com/facebookresearch/LASER): Language-Agnostic SEntence Representations
 20. [pyannote-audio](https://github.com/pyannote/pyannote-audio): Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
+21. [gensen](https://github.com/Maluuba/gensen): Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning.
 
 
 ### CV:
