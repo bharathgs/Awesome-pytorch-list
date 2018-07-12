@@ -36,7 +36,7 @@ Awesome-Pytorch-list
 19. [LASER](https://github.com/facebookresearch/LASER): Language-Agnostic SEntence Representations
 20. [pyannote-audio](https://github.com/pyannote/pyannote-audio): Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
 21. [gensen](https://github.com/Maluuba/gensen): Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning.
-
+22. [translate](https://github.com/pytorch/translate): Translate - a PyTorch Language Library.
 
 ### CV:
 
