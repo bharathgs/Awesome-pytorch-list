@@ -432,6 +432,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 243. [SDPoint](https://github.com/xternalz/SDPoint): Implementation of "Stochastic Downsampling for Cost-Adjustable Inference and Improved Regularization in Convolutional Networks", published in CVPR 2018. 
 244. [SRDenseNet-pytorch](https://github.com/wxywhu/SRDenseNet-pytorch): SRDenseNet-pytorch（ICCV_2017）
 245. [GAN_stability](https://github.com/LMescheder/GAN_stability): Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
+246. [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN): A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
 
 ## Pytorch elsewhere
 
