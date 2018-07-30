@@ -179,6 +179,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 45. [pytorch-for-recommenders-101](http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
 46. [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users)
 47. [PyTorch Tutorial](http://www.pytorchtutorial.com/): PyTorch Tutorials in Chinese.
+48. [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch): The Hitchiker's Guide to PyTorch
 
 
 
