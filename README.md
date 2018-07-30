@@ -37,6 +37,7 @@ Awesome-Pytorch-list
 20. [pyannote-audio](https://github.com/pyannote/pyannote-audio): Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
 21. [gensen](https://github.com/Maluuba/gensen): Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning.
 22. [translate](https://github.com/pytorch/translate): Translate - a PyTorch Language Library.
+23. [espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit espnet.github.io/espnet
 
 ### CV:
 
@@ -63,6 +64,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 3. [probtorch](https://github.com/probtorch/probtorch): Probabilistic Torch is library for deep generative models that extends PyTorch.
 4. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
 5. [pyvarinf](https://github.com/ctallec/pyvarinf): Python package facilitating the use of Bayesian Deep Learning methods with Variational Inference for PyTorch. 
+6. [pyprob](https://github.com/probprog/pyprob): A PyTorch-based library for probabilistic programming and inference compilation.
 
 
 ### Other libraries:
