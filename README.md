@@ -433,6 +433,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 244. [SRDenseNet-pytorch](https://github.com/wxywhu/SRDenseNet-pytorch): SRDenseNet-pytorch（ICCV_2017）
 245. [GAN_stability](https://github.com/LMescheder/GAN_stability): Code for paper "Which Training Methods for GANs do actually Converge? (ICML 2018)"
 246. [Mask-RCNN](https://github.com/wannabeOG/Mask-RCNN): A PyTorch implementation of the architecture of Mask RCNN, serves as an introduction to working with PyTorch
+247. [pytorch-coviar](https://github.com/chaoyuaw/pytorch-coviar): Compressed Video Action Recognition
 
 ## Pytorch elsewhere
 
