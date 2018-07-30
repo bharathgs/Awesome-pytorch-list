@@ -131,6 +131,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 60. [torchplus](https://github.com/knighton/torchplus): Implements the + operator on PyTorch modules, returning sequences.
 61. [lagom](https://github.com/zuoxingdong/lagom): lagom: A light PyTorch infrastructure to quickly prototype reinforcement learning algorithms.
 62. [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: A model training library for researchers using PyTorch.
+63. [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch. 
+
 
 ## Tutorials & examples
 
