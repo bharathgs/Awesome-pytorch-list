@@ -442,6 +442,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 247. [pytorch-coviar](https://github.com/chaoyuaw/pytorch-coviar): Compressed Video Action Recognition
 248. [PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch): PyTorch implementation of PNASNet-5 on ImageNet. 
 249. [NALU-pytorch](https://github.com/kevinzakka/NALU-pytorch): Basic pytorch implementation of NAC/NALU from Neural Arithmetic Logic Units arxiv.org/pdf/1808.00508.pdf
+250. [LOLA_DiCE](https://github.com/alexis-jacq/LOLA_DiCE): Pytorch implementation of LOLA (arxiv.org/abs/1709.04326) using DiCE (arxiv.org/abs/1802.05098)
 
 ## Pytorch elsewhere
 
