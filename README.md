@@ -38,6 +38,7 @@ Awesome-Pytorch-list
 21. [gensen](https://github.com/Maluuba/gensen): Learning General Purpose Distributed Sentence Representations via Large Scale Multi-task Learning.
 22. [translate](https://github.com/pytorch/translate): Translate - a PyTorch Language Library.
 23. [espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit espnet.github.io/espnet
+24. [pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering
 
 ### CV:
 
