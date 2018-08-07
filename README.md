@@ -187,6 +187,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 48. [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch): The Hitchiker's Guide to PyTorch
 49. [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse): Minicourse in Deep Learning with PyTorch.
 50. [pytorch-custom-dataset-examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples): Some custom dataset examples for PyTorch
+51. [Multiplicative LSTM for sequence-based Recommenders](https://florianwilhelm.info/2018/08/multiplicative_LSTM_for_sequence_based_recos/)
 
 
 ## Paper implementations
