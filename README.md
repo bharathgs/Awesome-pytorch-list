@@ -447,6 +447,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 251. [generative-query-network-pytorch](https://github.com/wohlert/generative-query-network-pytorch): Generative Query Network (GQN) in PyTorch as described in "Neural Scene Representation and Rendering"
 252. [pytorch_hmax](https://github.com/wmvanvliet/pytorch_hmax): Implementation of the HMAX model of vision in PyTorch.
 253. [FCN-pytorch-easiest](https://github.com/yunlongdong/FCN-pytorch-easiest): trying to be the most easiest and just get-to-use pytorch implementation of FCN (Fully Convolotional Networks)
+254. [transducer](https://github.com/awni/transducer): A Fast Sequence Transducer Implementation with PyTorch Bindings.
 
 ## Pytorch elsewhere
 
