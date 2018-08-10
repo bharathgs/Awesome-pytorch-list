@@ -137,57 +137,58 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 
 ## Tutorials & examples
 
-1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)** : Tutorials explaining different RNN models
-2. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
-3. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) : tutorial for researchers to learn deep learning with pytorch.
-4.  [pytorch-exercises](https://github.com/keon/pytorch-exercises) : pytorch-exercises collection. 
-5.  [pytorch tutorials](https://github.com/pytorch/tutorials) : Various pytorch tutorials. 
-6.  [pytorch examples](https://github.com/pytorch/examples) :  A repository showcasing examples of using pytorch 
-7. [pytorch practice](https://github.com/napsternxg/pytorch-practice) : Some example scripts on pytorch.  
-8.  [pytorch mini tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials) :  Minimal tutorials for PyTorch adapted from Alec Radford's Theano tutorials. 
-9.  [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification) : A simple implementation of CNN based text classification in Pytorch 
-10. [cats vs dogs](https://github.com/desimone/pytorch-cat-vs-dogs) : Example of network fine-tuning in pytorch for the kaggle competition Dogs vs. Cats Redux: Kernels Edition. Currently #27 (0.05074) on the leaderboard.  
-11. [convnet](https://github.com/eladhoffer/convNet.pytorch) : This is a complete training example for Deep Convolutional Networks on various datasets (ImageNet, Cifar10, Cifar100, MNIST).
-12. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.   
-13. [pytorch containers](https://github.com/amdegroot/pytorch-containers) : This repository aims to help former Torchies more seamlessly transition to the "Containerless" world of PyTorch by providing a list of PyTorch implementations of Torch Table Layers.  
-14. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch 
-15. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch). 
-16. [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
-17.  [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): a char-RNN based on pytorch.  
-18. [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch implementation of REINFORCE, This repo supports both continuous and discrete environments in OpenAI gym.
-19.  **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
-20. [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
-21. [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
-22. [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): Random tutorials created in NumPy and PyTorch.
-23. [pytorch_tutoria-quick](https://github.com/soravux/pytorch_tutorial): Quick PyTorch introduction and tutorial. Targets computer vision, graphics and machine learning researchers eager to try a new framework.  
-24. [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial): A short tutorial on performing fine tuning or transfer learning in PyTorch.
-25. [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises): pytorch-exercises 
-26. [traffic-sign-detection](https://github.com/soumith/traffic-sign-detection-homework): nyu-cv-fall-2017 example
-27. [mss_pytorch](https://github.com/Js-Mim/mss_pytorch): Singing Voice Separation via Recurrent Inference and Skip-Filtering Connections - PyTorch Implementation. Demo: js-mim.github.io/mss_pytorch
-28. [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ: NLP with Deep Learning)
-29. [Mila introductory tutorials](https://github.com/mila-udem/welcome_tutorials): Various tutorials given for welcoming new students at MILA.
-30. [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): for learning reinforcement learning using PyTorch.
-31. [minimal-seq2seq](https://github.com/keon/seq2seq): Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch
-32. [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
-33. [pytorch_bits](https://github.com/jpeg729/pytorch_bits): time-series prediction related examples.
-34. [skip-thoughts](https://github.com/sanyam5/skip-thoughts): An implementation of Skip-Thought Vectors in PyTorch.
-35. [video-caption-pytorch](https://github.com/xiadingZ/video-caption-pytorch): pytorch code for video captioning. 
-36. [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial.
-37. [code-of-learn-deep-learning-with-pytorch](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch): This is code of book "Learn Deep Learning with PyTorch" item.jd.com/17915495606.html
-38. [RL-Adventure](https://github.com/higgsfield/RL-Adventure): Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
-39. [accelerated_dl_pytorch](https://github.com/hpcgarage/accelerated_dl_pytorch): Accelerated Deep Learning with PyTorch at Jupyter Day Atlanta II. 
-40. [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2): PyTorch4 tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
-41. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
-42. [adversarial-autoencoders-with-pytorch](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
-43. [transfer learning using pytorch](https://medium.com/@vishnuvig/transfer-learning-using-pytorch-4c3475f4495)
-44. [how-to-implement-a-yolo-object-detector-in-pytorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
-45. [pytorch-for-recommenders-101](http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
-46. [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users)
-47. [PyTorch Tutorial](http://www.pytorchtutorial.com/): PyTorch Tutorials in Chinese.
-48. [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch): The Hitchiker's Guide to PyTorch
-49. [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse): Minicourse in Deep Learning with PyTorch.
-50. [pytorch-custom-dataset-examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples): Some custom dataset examples for PyTorch
-51. [Multiplicative LSTM for sequence-based Recommenders](https://florianwilhelm.info/2018/08/multiplicative_LSTM_for_sequence_based_recos/)
+1. **[Pytorch-Project-Template](https://github.com/moemen95/PyTorch-Project-Template)** : A scalable template for PyTorch projects, with examples in Image Segmentation, Object classification, GANs and Reinforcement Learning
+2. **[Practical Pytorch](https://github.com/spro/practical-pytorch)** : Tutorials explaining different RNN models
+3. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
+4. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) : tutorial for researchers to learn deep learning with pytorch.
+5.  [pytorch-exercises](https://github.com/keon/pytorch-exercises) : pytorch-exercises collection. 
+6.  [pytorch tutorials](https://github.com/pytorch/tutorials) : Various pytorch tutorials. 
+7.  [pytorch examples](https://github.com/pytorch/examples) :  A repository showcasing examples of using pytorch 
+8. [pytorch practice](https://github.com/napsternxg/pytorch-practice) : Some example scripts on pytorch.  
+9.  [pytorch mini tutorials](https://github.com/vinhkhuc/PyTorch-Mini-Tutorials) :  Minimal tutorials for PyTorch adapted from Alec Radford's Theano tutorials. 
+10.  [pytorch text classification](https://github.com/xiayandi/Pytorch_text_classification) : A simple implementation of CNN based text classification in Pytorch 
+11. [cats vs dogs](https://github.com/desimone/pytorch-cat-vs-dogs) : Example of network fine-tuning in pytorch for the kaggle competition Dogs vs. Cats Redux: Kernels Edition. Currently #27 (0.05074) on the leaderboard.  
+12. [convnet](https://github.com/eladhoffer/convNet.pytorch) : This is a complete training example for Deep Convolutional Networks on various datasets (ImageNet, Cifar10, Cifar100, MNIST).
+13. [pytorch-generative-adversarial-networks](https://github.com/mailmahee/pytorch-generative-adversarial-networks) : simple generative adversarial network (GAN) using PyTorch.   
+14. [pytorch containers](https://github.com/amdegroot/pytorch-containers) : This repository aims to help former Torchies more seamlessly transition to the "Containerless" world of PyTorch by providing a list of PyTorch implementations of Torch Table Layers.  
+15. [T-SNE in pytorch](https://github.com/cemoody/topicsne) : t-SNE experiments in pytorch 
+16. [AAE_pytorch](https://github.com/fducau/AAE_pytorch) : Adversarial Autoencoders (with Pytorch). 
+17. [Kind_PyTorch_Tutorial](https://github.com/GunhoChoi/Kind_PyTorch_Tutorial): Kind PyTorch Tutorial for beginners.  
+18.  [pytorch-poetry-gen](https://github.com/justdark/pytorch-poetry-gen): a char-RNN based on pytorch.  
+19. [pytorch-REINFORCE](https://github.com/JamesChuanggg/pytorch-REINFORCE): PyTorch implementation of REINFORCE, This repo supports both continuous and discrete environments in OpenAI gym.
+20.  **[PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)**: Build your neural network easy and fast  https://morvanzhou.github.io/tutorials/ 
+21. [pytorch-intro](https://github.com/joansj/pytorch-intro): A couple of scripts to illustrate how to do CNNs and RNNs in PyTorch
+22. [pytorch-classification](https://github.com/bearpaw/pytorch-classification): A unified framework for the image classification task on CIFAR-10/100 and ImageNet.
+23. [pytorch_notebooks - hardmaru](https://github.com/hardmaru/pytorch_notebooks): Random tutorials created in NumPy and PyTorch.
+24. [pytorch_tutoria-quick](https://github.com/soravux/pytorch_tutorial): Quick PyTorch introduction and tutorial. Targets computer vision, graphics and machine learning researchers eager to try a new framework.  
+25. [Pytorch_fine_tuning_Tutorial](https://github.com/Spandan-Madan/Pytorch_fine_tuning_Tutorial): A short tutorial on performing fine tuning or transfer learning in PyTorch.
+26. [pytorch_exercises](https://github.com/Kyubyong/pytorch_exercises): pytorch-exercises 
+27. [traffic-sign-detection](https://github.com/soumith/traffic-sign-detection-homework): nyu-cv-fall-2017 example
+28. [mss_pytorch](https://github.com/Js-Mim/mss_pytorch): Singing Voice Separation via Recurrent Inference and Skip-Filtering Connections - PyTorch Implementation. Demo: js-mim.github.io/mss_pytorch
+29. [DeepNLP-models-Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch) Pytorch implementations of various Deep NLP models in cs-224n(Stanford Univ: NLP with Deep Learning)
+30. [Mila introductory tutorials](https://github.com/mila-udem/welcome_tutorials): Various tutorials given for welcoming new students at MILA.
+31. [pytorch.rl.learning](https://github.com/moskomule/pytorch.rl.learning): for learning reinforcement learning using PyTorch.
+32. [minimal-seq2seq](https://github.com/keon/seq2seq): Minimal Seq2Seq model with Attention for Neural Machine Translation in PyTorch
+33. [tensorly-notebooks](https://github.com/JeanKossaifi/tensorly-notebooks): Tensor methods in Python with TensorLy tensorly.github.io/dev
+34. [pytorch_bits](https://github.com/jpeg729/pytorch_bits): time-series prediction related examples.
+35. [skip-thoughts](https://github.com/sanyam5/skip-thoughts): An implementation of Skip-Thought Vectors in PyTorch.
+36. [video-caption-pytorch](https://github.com/xiadingZ/video-caption-pytorch): pytorch code for video captioning. 
+37. [Capsule-Network-Tutorial](https://github.com/higgsfield/Capsule-Network-Tutorial): Pytorch easy-to-follow Capsule Network tutorial.
+38. [code-of-learn-deep-learning-with-pytorch](https://github.com/SherlockLiao/code-of-learn-deep-learning-with-pytorch): This is code of book "Learn Deep Learning with PyTorch" item.jd.com/17915495606.html
+39. [RL-Adventure](https://github.com/higgsfield/RL-Adventure): Pytorch easy-to-follow step-by-step Deep Q Learning tutorial with clean readable code.
+40. [accelerated_dl_pytorch](https://github.com/hpcgarage/accelerated_dl_pytorch): Accelerated Deep Learning with PyTorch at Jupyter Day Atlanta II. 
+41. [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2): PyTorch4 tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
+42. [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+43. [adversarial-autoencoders-with-pytorch](https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/)
+44. [transfer learning using pytorch](https://medium.com/@vishnuvig/transfer-learning-using-pytorch-4c3475f4495)
+45. [how-to-implement-a-yolo-object-detector-in-pytorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+46. [pytorch-for-recommenders-101](http://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html)
+47. [pytorch-for-numpy-users](https://github.com/wkentaro/pytorch-for-numpy-users)
+48. [PyTorch Tutorial](http://www.pytorchtutorial.com/): PyTorch Tutorials in Chinese.
+49. [grokking-pytorch](https://github.com/Kaixhin/grokking-pytorch): The Hitchiker's Guide to PyTorch
+50. [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse): Minicourse in Deep Learning with PyTorch.
+51. [pytorch-custom-dataset-examples](https://github.com/utkuozbulak/pytorch-custom-dataset-examples): Some custom dataset examples for PyTorch
+52. [Multiplicative LSTM for sequence-based Recommenders](https://florianwilhelm.info/2018/08/multiplicative_LSTM_for_sequence_based_recos/)
 
 
 ## Paper implementations
