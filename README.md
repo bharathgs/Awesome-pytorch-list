@@ -135,6 +135,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 62. [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: A model training library for researchers using PyTorch.
 63. [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch. 
 64. [NALU](https://github.com/bharathgs/NALU): Basic pytorch implementation of NAC/NALU from Neural Arithmetic Logic Units paper by trask et.al arxiv.org/pdf/1808.00508.pdf
+66. [QuCumber](https://github.com/PIQuIL/QuCumber): Neural Network Many-Body Wavefunction Reconstruction
+
 
 ## Tutorials & examples
 
