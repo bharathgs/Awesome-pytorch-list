@@ -476,6 +476,6 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 19. [Deep Learning With Pytorch TextBook](https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch) A practical guide to build neural network models in text and vision using PyTorch. [Purchase on Amazon ](https://www.amazon.in/Deep-Learning-PyTorch-practical-approach/dp/1788624335/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1523853954&sr=8-1)     [github code repo](https://github.com/svishnu88/DLwithPyTorch) 
 20. [compare-tensorflow-pytorch](https://github.com/jalola/compare-tensorflow-pytorch): Compare outputs between layers written in Tensorflow and layers written in Pytorch.
 21. [hasktorch](https://github.com/hasktorch/hasktorch): Tensors and neural networks in Haskell
-
+22. [Deep Learning With Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
