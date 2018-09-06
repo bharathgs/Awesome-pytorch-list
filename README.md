@@ -462,6 +462,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 262. [attn2d](https://github.com/elbayadm/attn2d): Pervasive Attention: 2D Convolutional Networks for Sequence-to-Sequence Prediction
 263. [yolov3](https://github.com/ultralytics/yolov3): YOLOv3: Training and inference in PyTorch pjreddie.com/darknet/yolo
 264. [deep-dream-in-pytorch](https://github.com/duc0/deep-dream-in-pytorch): Pytorch implementation of the DeepDream computer vision algorithm. 
+265. [pytorch-flows](https://github.com/ikostrikov/pytorch-flows): PyTorch implementations of algorithms for density estimation
 
 
 ## Pytorch elsewhere
