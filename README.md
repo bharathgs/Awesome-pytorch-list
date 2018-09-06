@@ -490,5 +490,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 20. [compare-tensorflow-pytorch](https://github.com/jalola/compare-tensorflow-pytorch): Compare outputs between layers written in Tensorflow and layers written in Pytorch.
 21. [hasktorch](https://github.com/hasktorch/hasktorch): Tensors and neural networks in Haskell
 22. [Deep Learning With Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. 
+23. [nimtorch](https://github.com/fragcolor-xyz/nimtorch): PyTorch - Python + Nim
+
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
