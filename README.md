@@ -138,6 +138,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 66. [QuCumber](https://github.com/PIQuIL/QuCumber): Neural Network Many-Body Wavefunction Reconstruction
 67. [magnet](https://github.com/MagNet-DL/magnet): Deep Learning Projects that Build Themselves http://magnet-dl.readthedocs.io/
 68. [opencv_transforms](https://github.com/jbohnslav/opencv_transforms): OpenCV implementation of Torchvision's image augmentations
+69. [fastai](https://github.com/fastai/fastai): The fast.ai deep learning library, lessons, and tutorials
 
 
 
