@@ -471,6 +471,8 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 267. [relational-rnn-pytorch](https://github.com/L0SG/relational-rnn-pytorch): An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch.
 268. [DEXTR-PyTorch](https://github.com/scaelles/DEXTR-PyTorch): Deep Extreme Cut http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr
 269. [PyTorch_GBW_LM](https://github.com/rdspring1/PyTorch_GBW_LM): PyTorch Language Model for Google Billion Word Dataset.
+270. [Pytorch-NCE](https://github.com/Stonesjtu/Pytorch-NCE): The Noise Contrastive Estimation for softmax output written in Pytorch
+
 
 ## Pytorch elsewhere
 
