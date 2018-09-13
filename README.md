@@ -141,7 +141,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 68. [opencv_transforms](https://github.com/jbohnslav/opencv_transforms): OpenCV implementation of Torchvision's image augmentations
 69. [fastai](https://github.com/fastai/fastai): The fast.ai deep learning library, lessons, and tutorials
 70. [pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence): Code for "Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation" arxiv.org/pdf/1806.08756.pdf
-
+71. [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization richzhang.github.io/ideepcolor
 
 ## Tutorials & examples
 
