@@ -142,6 +142,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 69. [fastai](https://github.com/fastai/fastai): The fast.ai deep learning library, lessons, and tutorials
 70. [pytorch-dense-correspondence](https://github.com/RobotLocomotion/pytorch-dense-correspondence): Code for "Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation" arxiv.org/pdf/1806.08756.pdf
 71. [colorization-pytorch](https://github.com/richzhang/colorization-pytorch): PyTorch reimplementation of Interactive Deep Colorization richzhang.github.io/ideepcolor
+72. [beauty-net](https://github.com/cms-flash/beauty-net): A simple, flexible, and extensible template for PyTorch. It's beautiful.
 
 ## Tutorials & examples
 
