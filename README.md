@@ -68,6 +68,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 4. [paysage](https://github.com/drckf/paysage): Unsupervised learning and generative models in python/pytorch.
 5. [pyvarinf](https://github.com/ctallec/pyvarinf): Python package facilitating the use of Bayesian Deep Learning methods with Variational Inference for PyTorch. 
 6. [pyprob](https://github.com/probprog/pyprob): A PyTorch-based library for probabilistic programming and inference compilation.
+7. [mia](https://github.com/spring-epfl/mia): A library for running membership inference attacks against ML models. 
 
 
 ### Other libraries:
