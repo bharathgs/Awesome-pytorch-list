@@ -41,6 +41,7 @@ Awesome-Pytorch-list
 23. [espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit espnet.github.io/espnet
 24. [pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering
 25. [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT): Phrase-Based & Neural Unsupervised Machine Translation.
+26. [jiant](https://github.com/jsalt18-sentence-repl/jiant): The jiant sentence representation learning toolkit. 
 
 ### CV:
 
