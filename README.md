@@ -149,7 +149,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 74. [torchani](https://github.com/aiqm/torchani): Accurate Neural Network Potential on PyTorch aiqm.github.io/torchani
 75. [PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS): A PyTorch implementation of L-BFGS.
 76. [gpytorch](https://github.com/cornellius-gp/gpytorch): A highly efficient and modular implementation of Gaussian Processes in PyTorch.
-
+77. [hessian](https://github.com/mariogeiger/hessian): hessian in pytorch. 
 
 ## Tutorials & examples
 
