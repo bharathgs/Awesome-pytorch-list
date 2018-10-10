@@ -150,6 +150,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 75. [PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS): A PyTorch implementation of L-BFGS.
 76. [gpytorch](https://github.com/cornellius-gp/gpytorch): A highly efficient and modular implementation of Gaussian Processes in PyTorch.
 77. [hessian](https://github.com/mariogeiger/hessian): hessian in pytorch. 
+78. [vel](https://github.com/MillionIntegrals/vel): Velocity in deep-learning research.
 
 ## Tutorials & examples
 
