@@ -135,7 +135,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 
 
 ## Tutorials & examples
-
+0. **[Fastai DL v1](http://course.fast.ai/start.html)** : Tutorials for getting started in Deep Learning
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)** : Tutorials explaining different RNN models
 2. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch) : An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
 3. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial) : tutorial for researchers to learn deep learning with pytorch.
