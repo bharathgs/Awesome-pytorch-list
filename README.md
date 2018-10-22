@@ -58,7 +58,8 @@ Awesome-Pytorch-list
 11. [detectorch](https://github.com/ignacio-rocco/detectorch): Detectorch - detectron for PyTorch
 12. [Augmentor](https://github.com/mdbloice/Augmentor): Image augmentation library in Python for machine learning. http://augmentor.readthedocs.io
 13. [s2cnn](https://github.com/jonas-koehler/s2cnn): 
-This library contains a PyTorch implementation of the SO(3) equivariant CNNs for spherical signals (e.g. omnidirectional cameras, signals on the globe) s
+This library contains a PyTorch implementation of the SO(3) equivariant CNNs for spherical signals (e.g. omnidirectional cameras, signals on the globe)
+14. [PyTorchCV](https://github.com/CVBox/PyTorchCV): A PyTorch-Based Framework for Deep Learning in Computer Vision. 
 
 
 ### Probabilistic/Generative Libraries:
