@@ -42,6 +42,7 @@ Awesome-Pytorch-list
 24. [pythia](https://github.com/facebookresearch/pythia): A software suite for Visual Question Answering
 25. [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT): Phrase-Based & Neural Unsupervised Machine Translation.
 26. [jiant](https://github.com/jsalt18-sentence-repl/jiant): The jiant sentence representation learning toolkit. 
+27. [InferSent](https://github.com/facebookresearch/InferSent): Sentence embeddings (InferSent) and training code for NLI. 
 
 ### CV:
 
