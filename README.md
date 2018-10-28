@@ -11,10 +11,10 @@ Awesome-Pytorch-list
 
 ## Contents
 - [Pytorch & related libraries](#pytorch--related-libraries)
-- [NLP & Speech Processing](#nlp--Speech-Processing)
-- [Computer Vision](#cv)
-- [Probabilistic/Generative Libraries](#probabilisticgenerative-libraries)
-- [Other libraries](#other-libraries)
+  - [NLP & Speech Processing](#nlp--Speech-Processing)
+  - [Computer Vision](#cv)
+  - [Probabilistic/Generative Libraries](#probabilisticgenerative-libraries)
+  - [Other libraries](#other-libraries)
 - [Tutorials & examples](#tutorials--examples)
 - [Paper implementations](#paper-implementations)
 - [Pytorch elsewhere](#pytorch-elsewhere)
