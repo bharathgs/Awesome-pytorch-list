@@ -318,7 +318,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 92. [attention-is-all-you-need-pytorch](https://github.com/jadore801120/attention-is-all-you-need-pytorch): A PyTorch implementation of the Transformer model in "Attention is All You Need".https://github.com/thnkim/OpenFacePytorch
 93. [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch): PyTorch module to use OpenFace's nn4.small2.v1.t7 model 
 94. [neural-combinatorial-rl-pytorch](https://github.com/pemami4911/neural-combinatorial-rl-pytorch):  PyTorch implementation of Neural Combinatorial Optimization with Reinforcement Learning.
-95.[pytorch-nec](https://github.com/mjacar/pytorch-nec): PyTorch Implementation of Neural Episodic Control (NEC)
+95. [pytorch-nec](https://github.com/mjacar/pytorch-nec): PyTorch Implementation of Neural Episodic Control (NEC)
 96. [seq2seq.pytorch](https://github.com/eladhoffer/seq2seq.pytorch): Sequence-to-Sequence learning using PyTorch
 97. [Pytorch-Sketch-RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN): a pytorch implementation of arxiv.org/abs/1704.03477
 98. [pytorch-pruning](https://github.com/jacobgil/pytorch-pruning): PyTorch Implementation of [1611.06440] Pruning Convolutional Neural Networks for Resource Efficient Inference
@@ -351,8 +351,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 125. [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch): 3D ResNets for Action Recognition.
 126. [bandit-nmt](https://github.com/khanhptnk/bandit-nmt): This is code repo for our EMNLP 2017 paper "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback", which implements the A2C algorithm on top of a neural encoder-decoder model and benchmarks the combination under simulated noisy rewards.
 127. [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr): PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).
-128. [zalando-pytorch](https://github.com/baldassarreFe/zalando-pytorch): Various experiments on the 
-[Fashion-MNIST](zalandoresearch/fashion-mnist) dataset from Zalando.
+128. [zalando-pytorch](https://github.com/baldassarreFe/zalando-pytorch): Various experiments on the [Fashion-MNIST](zalandoresearch/fashion-mnist) dataset from Zalando.
 129. [sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch): A PyTorch Implementation of SphereFace.
 130. [Categorical DQN](https://github.com/floringogianu/categorical-dqn): A PyTorch Implementation of Categorical DQN from [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887).
 131. [pytorch-ntm](https://github.com/loudinthecloud/pytorch-ntm): pytorch ntm implementation. 
@@ -455,8 +454,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 228. [AccSGD](https://github.com/rahulkidambi/AccSGD): Implements pytorch code for the Accelerated SGD algorithm.
 229. [QANet-pytorch](https://github.com/hengruo/QANet-pytorch): an implementation of QANet with PyTorch (EM/F1 = 70.5/77.2 after 20 epoches for about 20 hours on one 1080Ti card.)
 230. [ConvE](https://github.com/TimDettmers/ConvE): Convolutional 2D Knowledge Graph Embeddings
-231. [Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention): 
-Implementation for the paper A Structured Self-Attentive Sentence Embedding, which is published in ICLR 2017: arxiv.org/abs/1703.03130 .
+231. [Structured-Self-Attention](https://github.com/kaushalshetty/Structured-Self-Attention): Implementation for the paper A Structured Self-Attentive Sentence Embedding, which is published in ICLR 2017: arxiv.org/abs/1703.03130 .
 232. [graphsage-simple](https://github.com/williamleif/graphsage-simple): Simple reference implementation of GraphSAGE.
 233. [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch): A pytorch implementation of Detectron. Both training from scratch and inferring directly from pretrained Detectron weights are available.
 234. [R2Plus1D-PyTorch](https://github.com/irhumshafkat/R2Plus1D-PyTorch): PyTorch implementation of the R2Plus1D convolution based ResNet architecture described in the paper "A Closer Look at Spatiotemporal Convolutions for Action Recognition"
@@ -500,7 +498,7 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 272. [convnet-aig](https://github.com/andreasveit/convnet-aig): PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs.
 273. [integrated-gradient-pytorch](https://github.com/TianhongDai/integrated-gradient-pytorch): This is the pytorch implementation of the paper - Axiomatic Attribution for Deep Networks.
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
-275, [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
+275. [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
 
 
 ## Pytorch elsewhere
