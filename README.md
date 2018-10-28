@@ -4,8 +4,8 @@ Awesome-Pytorch-list
 ![pytorch-logo-dark](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-2800+-brightgreen.svg?style=flat"/>
-	<img src="https://img.shields.io/badge/forks-600%2B-brightgreen.svg">
+	<img src="https://img.shields.io/badge/stars-3700+-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/forks-700%2B-brightgreen.svg">
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
@@ -43,6 +43,7 @@ Awesome-Pytorch-list
 25. [UnsupervisedMT](https://github.com/facebookresearch/UnsupervisedMT): Phrase-Based & Neural Unsupervised Machine Translation.
 26. [jiant](https://github.com/jsalt18-sentence-repl/jiant): The jiant sentence representation learning toolkit. 
 27. [BERT-PyTorch](https://github.com/codertimo/BERT-pytorch): Pytorch implementation of Google AI's 2018 BERT, with simple annotation
+28. [InferSent](https://github.com/facebookresearch/InferSent): Sentence embeddings (InferSent) and training code for NLI.
 
 ### CV:
 
@@ -210,6 +211,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 51. [Multiplicative LSTM for sequence-based Recommenders](https://florianwilhelm.info/2018/08/multiplicative_LSTM_for_sequence_based_recos/)
 52. [deeplearning.ai-pytorch](https://github.com/furkanu/deeplearning.ai-pytorch): PyTorch Implementations of Coursera's Deep Learning(deeplearning.ai) Specialization. 
 53. [MNIST_Pytorch_python_and_capi](https://github.com/tobiascz/MNIST_Pytorch_python_and_capi): This is an example of how to train a MNIST network in Python and run it in c++ with pytorch 1.0
+54. [torch_light](https://github.com/ne7ermore/torch_light): Tutorials and examples include Reinforcement Training, NLP, CV
 
 ## Paper implementations
 
