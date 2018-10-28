@@ -9,6 +9,15 @@ Awesome-Pytorch-list
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
+## Contents
+- [Pytorch & related libraries](#pytorch-&-related-libraries)
+- [NLP & Speech Processing](#nlp-&-Speech-Processing)
+- [Computer Vision](#cv)
+- [Probabilistic/Generative Libraries](#probabilistic/generative-libraries)
+- [Other libraries](#other-libraries)
+- [Tutorials & examples](#tutorials-&-examples)
+- [Paper implementations](#paper-implementations)
+- [Pytorch elsewhere](#pytorch-elsewhere)
 
 ## Pytorch & related libraries
 
