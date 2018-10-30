@@ -504,6 +504,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 275. [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
 276. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://github.com/minqi/learning-to-communicate-pytorch): pytorch implementation of  Learning to Communicate with Deep Multi-Agent Reinforcement Learning paper.
 278. [pnn.pytorch](https://github.com/michaelklachko/pnn.pytorch): PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html.
+279. [Face_Attention_Network](https://github.com/rainofmine/Face_Attention_Network): Pytorch implementation of face attention network as described in Face Attention Network: An Effective Face Detector for the Occluded Faces.
 
 ## Pytorch elsewhere
 
