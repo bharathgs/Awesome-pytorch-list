@@ -168,7 +168,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 ## Tutorials & examples
 
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
-2. [DeepLearningForNLPInPytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
+2. [DeepLearningForNLPInPytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
 3. [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial): tutorial for researchers to learn deep learning with pytorch.
 4.  [pytorch-exercises](https://github.com/keon/pytorch-exercises): pytorch-exercises collection. 
 5.  [pytorch tutorials](https://github.com/pytorch/tutorials): Various pytorch tutorials. 
