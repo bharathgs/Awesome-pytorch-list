@@ -499,7 +499,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 273. [integrated-gradient-pytorch](https://github.com/TianhongDai/integrated-gradient-pytorch): This is the pytorch implementation of the paper - Axiomatic Attribution for Deep Networks.
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
 275. [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
-
+276. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://github.com/minqi/learning-to-communicate-pytorch): pytorch implementation of  Learning to Communicate with Deep Multi-Agent Reinforcement Learning paper.
 
 ## Pytorch elsewhere
 
