@@ -164,6 +164,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 77. [hessian](https://github.com/mariogeiger/hessian): hessian in pytorch. 
 78. [vel](https://github.com/MillionIntegrals/vel): Velocity in deep-learning research.
 79. [nonechucks](https://github.com/msamogh/nonechucks): Skip bad items in your PyTorch DataLoader, use Transforms as Filters, and more!
+80. [torchstat](https://github.com/Swall0w/torchstat): Model analyzer in PyTorch.
 
 ## Tutorials & examples
 
