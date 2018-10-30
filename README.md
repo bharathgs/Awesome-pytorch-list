@@ -224,6 +224,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 54. [torch_light](https://github.com/ne7ermore/torch_light): Tutorials and examples include Reinforcement Training, NLP, CV
 55. [portrain-gan](https://github.com/dribnet/portrain-gan): torch code to decode (and almost encode) latents from art-DCGAN's Portrait GAN.
 56. [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject): An end to end tutorial of a machine learning pipeline.
+57. [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): MRI analysis using PyTorch and MedicalTorch
 
 ## Paper implementations
 
