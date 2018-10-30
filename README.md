@@ -4,8 +4,8 @@ Awesome-Pytorch-list
 ![pytorch-logo-dark](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-3700+-brightgreen.svg?style=flat"/>
-	<img src="https://img.shields.io/badge/forks-700%2B-brightgreen.svg">
+	<img src="https://img.shields.io/badge/stars-4000+-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/forks-800%2B-brightgreen.svg">
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
@@ -223,8 +223,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 53. [MNIST_Pytorch_python_and_capi](https://github.com/tobiascz/MNIST_Pytorch_python_and_capi): This is an example of how to train a MNIST network in Python and run it in c++ with pytorch 1.0
 54. [torch_light](https://github.com/ne7ermore/torch_light): Tutorials and examples include Reinforcement Training, NLP, CV
 55. [portrain-gan](https://github.com/dribnet/portrain-gan): torch code to decode (and almost encode) latents from art-DCGAN's Portrait GAN.
-56. [DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject): An end to end tutorial of a machine learning pipeline.
-57. [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): MRI analysis using PyTorch and MedicalTorch
+56. [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): MRI analysis using PyTorch and MedicalTorch
 
 ## Paper implementations
 
