@@ -503,6 +503,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
 275. [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
 276. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://github.com/minqi/learning-to-communicate-pytorch): pytorch implementation of  Learning to Communicate with Deep Multi-Agent Reinforcement Learning paper.
+278. [pnn.pytorch](https://github.com/michaelklachko/pnn.pytorch): PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html.
 
 ## Pytorch elsewhere
 
