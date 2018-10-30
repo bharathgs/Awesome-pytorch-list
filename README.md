@@ -503,8 +503,9 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
 275. [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
 276. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://github.com/minqi/learning-to-communicate-pytorch): pytorch implementation of  Learning to Communicate with Deep Multi-Agent Reinforcement Learning paper.
-278. [pnn.pytorch](https://github.com/michaelklachko/pnn.pytorch): PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html.
-279. [Face_Attention_Network](https://github.com/rainofmine/Face_Attention_Network): Pytorch implementation of face attention network as described in Face Attention Network: An Effective Face Detector for the Occluded Faces.
+277. [pnn.pytorch](https://github.com/michaelklachko/pnn.pytorch): PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html.
+278. [Face_Attention_Network](https://github.com/rainofmine/Face_Attention_Network): Pytorch implementation of face attention network as described in Face Attention Network: An Effective Face Detector for the Occluded Faces.
+
 
 ## Pytorch elsewhere
 
@@ -532,6 +533,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 22. [Deep Learning With Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. 
 23. [nimtorch](https://github.com/fragcolor-xyz/nimtorch): PyTorch - Python + Nim
 24. [derplearning](https://github.com/John-Ellis/derplearning): Self Driving RC Car Code. 
+25. [pytorch-saltnet](https://github.com/tugstugi/pytorch-saltnet): Kaggle | 9th place single model solution for TGS Salt Identification Challenge
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
