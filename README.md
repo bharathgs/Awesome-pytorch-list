@@ -165,6 +165,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 78. [vel](https://github.com/MillionIntegrals/vel): Velocity in deep-learning research.
 79. [nonechucks](https://github.com/msamogh/nonechucks): Skip bad items in your PyTorch DataLoader, use Transforms as Filters, and more!
 80. [torchstat](https://github.com/Swall0w/torchstat): Model analyzer in PyTorch.
+81. [QNNPACK](https://github.com/pytorch/QNNPACK): Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators.
 
 ## Tutorials & examples
 
