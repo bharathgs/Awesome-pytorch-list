@@ -508,7 +508,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 276. [Learning to Communicate with Deep Multi-Agent Reinforcement Learning](https://github.com/minqi/learning-to-communicate-pytorch): pytorch implementation of  Learning to Communicate with Deep Multi-Agent Reinforcement Learning paper.
 277. [pnn.pytorch](https://github.com/michaelklachko/pnn.pytorch): PyTorch implementation of CVPR'18 - Perturbative Neural Networks http://xujuefei.com/pnn.html.
 278. [Face_Attention_Network](https://github.com/rainofmine/Face_Attention_Network): Pytorch implementation of face attention network as described in Face Attention Network: An Effective Face Detector for the Occluded Faces.
-
+279. [waveglow](https://github.com/NVIDIA/waveglow): A Flow-based Generative Network for Speech Synthesis
 
 ## Pytorch elsewhere
 
