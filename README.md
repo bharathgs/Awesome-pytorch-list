@@ -225,6 +225,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 54. [torch_light](https://github.com/ne7ermore/torch_light): Tutorials and examples include Reinforcement Training, NLP, CV
 55. [portrain-gan](https://github.com/dribnet/portrain-gan): torch code to decode (and almost encode) latents from art-DCGAN's Portrait GAN.
 56. [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): MRI analysis using PyTorch and MedicalTorch
+57. [cifar10-fast](https://github.com/davidcpage/cifar10-fast): 
+Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 seconds as described in this [blog series](https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/).
 
 ## Paper implementations
 
