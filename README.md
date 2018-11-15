@@ -166,6 +166,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 79. [nonechucks](https://github.com/msamogh/nonechucks): Skip bad items in your PyTorch DataLoader, use Transforms as Filters, and more!
 80. [torchstat](https://github.com/Swall0w/torchstat): Model analyzer in PyTorch.
 81. [QNNPACK](https://github.com/pytorch/QNNPACK): Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators.
+82. [torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
+
 
 ## Tutorials & examples
 
