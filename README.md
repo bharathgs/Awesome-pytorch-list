@@ -53,6 +53,7 @@ Awesome-Pytorch-list
 26. [jiant](https://github.com/jsalt18-sentence-repl/jiant): The jiant sentence representation learning toolkit. 
 27. [BERT-PyTorch](https://github.com/codertimo/BERT-pytorch): Pytorch implementation of Google AI's 2018 BERT, with simple annotation
 28. [InferSent](https://github.com/facebookresearch/InferSent): Sentence embeddings (InferSent) and training code for NLI.
+29. [uis-rnn](https://github.com/google/uis-rnn):This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. arxiv.org/abs/1810.04719 
 
 ### CV:
 
@@ -167,6 +168,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 80. [torchstat](https://github.com/Swall0w/torchstat): Model analyzer in PyTorch.
 81. [QNNPACK](https://github.com/pytorch/QNNPACK): Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators.
 82. [torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
+83. [redner](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
 
 
 ## Tutorials & examples
