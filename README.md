@@ -545,8 +545,9 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 22. [Deep Learning With Pytorch](https://www.manning.com/books/deep-learning-with-pytorch) Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch. 
 23. [nimtorch](https://github.com/fragcolor-xyz/nimtorch): PyTorch - Python + Nim
 24. [derplearning](https://github.com/John-Ellis/derplearning): Self Driving RC Car Code. 
-25. [pytorch-saltnet](https://github.com/tugstugi/pytorch-saltnet): Kaggle | 9th place single model solution for TGS Salt Identification Challenge
-26. [pytorch-scripts](https://github.com/peterjc123/pytorch-scripts): A few Windows specific scripts for PyTorch
+25. [pytorch-saltnet](https://github.com/tugstugi/pytorch-saltnet): Kaggle | 9th place single model solution for TGS Salt Identification Challenge.
+26. [pytorch-scripts](https://github.com/peterjc123/pytorch-scripts): A few Windows specific scripts for PyTorch.
+27. [pytorch_misc](https://github.com/ptrblck/pytorch_misc): Code snippets created for the PyTorch discussion board.
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
