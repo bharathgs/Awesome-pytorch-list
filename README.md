@@ -518,6 +518,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 281. [EPSR](https://github.com/subeeshvasu/2018_subeesh_epsr_eccvw): Pytorch implementation of [Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network](https://arxiv.org/pdf/1811.00344.pdf). This work has won the first place in PIRM2018-SR competition (region 1) held as part of the ECCV 2018.
 282. [ClariNet](https://github.com/ksw0306/ClariNet): A Pytorch Implementation of ClariNet arxiv.org/abs/1807.07281
 283. [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT): PyTorch version of Google AI's BERT model with script to load Google's pre-trained models
+284. [torch_waveglow](https://github.com/npuichigo/waveglow): A PyTorch implementation of the WaveGlow: A Flow-based Generative Network for Speech Synthesis. 
 
 
 ## Pytorch elsewhere
