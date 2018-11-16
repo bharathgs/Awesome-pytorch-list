@@ -169,6 +169,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 81. [QNNPACK](https://github.com/pytorch/QNNPACK): Quantized Neural Network PACKage - mobile-optimized implementation of quantized neural network operators.
 82. [torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 83. [redner](https://github.com/BachiLi/redner): A differentiable Monte Carlo path tracer
+84. [pixyz](https://github.com/masa-su/pixyz): a library for developing deep generative models in a more concise, intuitive and extendable way. 
 
 
 ## Tutorials & examples
