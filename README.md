@@ -552,6 +552,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 27. [pytorch_misc](https://github.com/ptrblck/pytorch_misc): Code snippets created for the PyTorch discussion board.
 28. [awesome-pytorch-scholarship](https://github.com/arnas/awesome-pytorch-scholarship): A list of awesome PyTorch scholarship articles, guides, blogs, courses and other resources.
 29. [MentisOculi](https://github.com/mmirman/MentisOculi): A raytracer written in PyTorch (raynet?)
+30. [DoodleMaster](https://github.com/karanchahal/DoodleMaster): "Don't code your UI, Draw it !"
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
