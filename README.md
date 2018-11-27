@@ -74,6 +74,7 @@ Awesome-Pytorch-list
 This library contains a PyTorch implementation of the SO(3) equivariant CNNs for spherical signals (e.g. omnidirectional cameras, signals on the globe)
 14. [PyTorchCV](https://github.com/CVBox/PyTorchCV): A PyTorch-Based Framework for Deep Learning in Computer Vision. 
 15. [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark): Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
+16. [image-classification-mobile](https://github.com/osmr/imgclsmob): Collection of classification models pretrained on the ImageNet-1K.
 
 ### Probabilistic/Generative Libraries:
 
