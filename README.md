@@ -174,6 +174,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 84. [pixyz](https://github.com/masa-su/pixyz): a library for developing deep generative models in a more concise, intuitive and extendable way. 
 85. [euclidesdb](https://github.com/perone/euclidesdb): A multi-model machine learning feature embedding database http://euclidesdb.readthedocs.io 
 86. [pytorch2keras](https://github.com/nerox8664/pytorch2keras): Convert PyTorch dynamic graph to Keras model.
+87. [salad](https://github.com/domainadaptation/salad): Semi-Supervised Learning and Domain Adaptation.
 
 
 ## Tutorials & examples
