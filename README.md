@@ -177,6 +177,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 86. [pytorch2keras](https://github.com/nerox8664/pytorch2keras): Convert PyTorch dynamic graph to Keras model.
 87. [salad](https://github.com/domainadaptation/salad): Semi-Supervised Learning and Domain Adaptation.
 88. [netharn](https://github.com/Erotemic/netharn): Parameterized fit and prediction harnesses for pytorch.
+89. [dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks. http://dgl.ai. 
 
 ## Tutorials & examples
 
