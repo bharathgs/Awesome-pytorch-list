@@ -55,6 +55,7 @@ Awesome-Pytorch-list
 28. [InferSent](https://github.com/facebookresearch/InferSent): Sentence embeddings (InferSent) and training code for NLI.
 29. [uis-rnn](https://github.com/google/uis-rnn):This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization. arxiv.org/abs/1810.04719 
 30. [flair](https://github.com/zalandoresearch/flair): A very simple framework for state-of-the-art Natural Language Processing (NLP)
+31. [pytext](https://github.com/facebookresearch/pytext): A natural language modeling framework based on PyTorch fb.me/pytextdocs
 
 ### CV:
 
