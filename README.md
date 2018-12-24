@@ -175,7 +175,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 85. [euclidesdb](https://github.com/perone/euclidesdb): A multi-model machine learning feature embedding database http://euclidesdb.readthedocs.io 
 86. [pytorch2keras](https://github.com/nerox8664/pytorch2keras): Convert PyTorch dynamic graph to Keras model.
 87. [salad](https://github.com/domainadaptation/salad): Semi-Supervised Learning and Domain Adaptation.
-
+88. [netharn](https://github.com/Erotemic/netharn): Parameterized fit and prediction harnesses for pytorch.
 
 ## Tutorials & examples
 
