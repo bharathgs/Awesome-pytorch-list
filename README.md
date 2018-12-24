@@ -531,6 +531,8 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 286. [loss-landscape](https://github.com/tomgoldstein/loss-landscape): loss-landscape Code for visualizing the loss landscape of neural nets.
 287. [famos](https://github.com/zalandoresearch/famos): 
 Pytorch implementation of the paper "Copy the Old or Paint Anew? An Adversarial Framework for (non-) Parametric Image Stylization" available at http://arxiv.org/abs/1811.09236.
+288. [back2future.pytorch](https://github.com/anuragranj/back2future.pytorch): This is a Pytorch implementation of
+Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learning of Multi-Frame Optical Flow with Occlusions. ECCV 2018.
 
 ## Pytorch elsewhere
 
