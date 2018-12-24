@@ -179,6 +179,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 87. [salad](https://github.com/domainadaptation/salad): Semi-Supervised Learning and Domain Adaptation.
 88. [netharn](https://github.com/Erotemic/netharn): Parameterized fit and prediction harnesses for pytorch.
 89. [dgl](https://github.com/dmlc/dgl): Python package built to ease deep learning on graph, on top of existing DL frameworks. http://dgl.ai. 
+90. [gandissect](https://github.com/CSAILVision/gandissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN. gandissect.csail.mit.edu 
 
 ## Tutorials & examples
 
