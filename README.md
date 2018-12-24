@@ -534,6 +534,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 Pytorch implementation of the paper "Copy the Old or Paint Anew? An Adversarial Framework for (non-) Parametric Image Stylization" available at http://arxiv.org/abs/1811.09236.
 288. [back2future.pytorch](https://github.com/anuragranj/back2future.pytorch): This is a Pytorch implementation of
 Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learning of Multi-Frame Optical Flow with Occlusions. ECCV 2018.
+289. [FFTNet](https://github.com/mozilla/FFTNet): Unofficial Implementation of FFTNet vocode paper.
 
 ## Pytorch elsewhere
 
