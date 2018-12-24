@@ -562,5 +562,6 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 29. [MentisOculi](https://github.com/mmirman/MentisOculi): A raytracer written in PyTorch (raynet?)
 30. [DoodleMaster](https://github.com/karanchahal/DoodleMaster): "Don't code your UI, Draw it !"
 31. [ocaml-torch](https://github.com/LaurentMazare/ocaml-torch): OCaml bindings for PyTorch.
+32. [extension-script](https://github.com/pytorch/extension-script): Example repository for custom C++/CUDA operators for TorchScript.
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
