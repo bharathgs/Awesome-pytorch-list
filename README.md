@@ -87,7 +87,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 5. [pyvarinf](https://github.com/ctallec/pyvarinf): Python package facilitating the use of Bayesian Deep Learning methods with Variational Inference for PyTorch. 
 6. [pyprob](https://github.com/probprog/pyprob): A PyTorch-based library for probabilistic programming and inference compilation.
 7. [mia](https://github.com/spring-epfl/mia): A library for running membership inference attacks against ML models. 
-
+8. [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module.
 
 ### Other libraries:
 
