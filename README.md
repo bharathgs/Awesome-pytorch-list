@@ -538,7 +538,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 290. [FaceBoxes.PyTorch](https://github.com/zisianw/FaceBoxes.PyTorch): A PyTorch Implementation of FaceBoxes.
 291. [Transformer-XL](https://github.com/kimiyoung/transformer-xl): Transformer-XL: Attentive Language Models Beyond a Fixed-Length Contexthttps://github.com/kimiyoung/transformer-xl
 292. [associative_compression_networks](https://github.com/jalexvig/associative_compression_networks): Associative Compression Networks for Representation Learning. 
-293. 
+293. [fluidnet_cxx](https://github.com/jolibrain/fluidnet_cxx): FluidNet re-written with ATen tensor lib. 
 
 ## Pytorch elsewhere
 
