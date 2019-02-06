@@ -182,6 +182,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 90. [gandissect](https://github.com/CSAILVision/gandissect): Pytorch-based tools for visualizing and understanding the neurons of a GAN. gandissect.csail.mit.edu 
 91. [delira](https://github.com/justusschock/delira): Lightweight framework for fast prototyping and training deep neural networks in medical imaging delira.rtfd.io
 92. [mushroom](https://github.com/AIRLab-POLIMI/mushroom): Python library for Reinforcement Learning experiments.
+93. [Xlearn](https://github.com/thuml/Xlearn): Transfer Learning Library
 
 ## Tutorials & examples
 
