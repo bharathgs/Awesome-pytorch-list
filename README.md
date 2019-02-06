@@ -184,8 +184,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 92. [mushroom](https://github.com/AIRLab-POLIMI/mushroom): Python library for Reinforcement Learning experiments.
 93. [Xlearn](https://github.com/thuml/Xlearn): Transfer Learning Library
 94. [geoopt](https://github.com/ferrine/geoopt): Riemannian Adaptive Optimization Methods with pytorch optim
-95. [TuckER](https://github.com/ibalazevic/TuckER): TuckER: Tensor Factorization for Knowledge Graph Completion.
-96. [vegans](https://github.com/unit8co/vegans): A library providing various existing GANs in PyTorch.
+95. [vegans](https://github.com/unit8co/vegans): A library providing various existing GANs in PyTorch.
 
 ## Tutorials & examples
 
@@ -554,7 +553,8 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 299. [SINE](https://github.com/benedekrozemberczki/SINE): This is a Pytorch implementation of SINE: Scalable Incomplete Network Embedding. ICDM 2018.
 300. [GAM](https://github.com/benedekrozemberczki/GAM): This is a Pytorch implementation of Graph Classification using Structural Attention. KDD 2018.
 301. [neural-style-pt](https://github.com/ProGamerGov/neural-style-pt): A PyTorch implementation of Justin Johnson's Neural-style.
-
+302. [TuckER](https://github.com/ibalazevic/TuckER): TuckER: Tensor Factorization for Knowledge Graph Completion.
+303. 
 ## Pytorch elsewhere
 
 1. **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)**: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
