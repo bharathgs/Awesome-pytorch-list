@@ -184,6 +184,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 92. [mushroom](https://github.com/AIRLab-POLIMI/mushroom): Python library for Reinforcement Learning experiments.
 93. [Xlearn](https://github.com/thuml/Xlearn): Transfer Learning Library
 94. [geoopt](https://github.com/ferrine/geoopt): Riemannian Adaptive Optimization Methods with pytorch optim
+95. [TuckER](https://github.com/ibalazevic/TuckER): TuckER: Tensor Factorization for Knowledge Graph Completion.
 
 
 ## Tutorials & examples
