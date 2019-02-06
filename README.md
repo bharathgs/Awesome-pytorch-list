@@ -183,6 +183,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 91. [delira](https://github.com/justusschock/delira): Lightweight framework for fast prototyping and training deep neural networks in medical imaging delira.rtfd.io
 92. [mushroom](https://github.com/AIRLab-POLIMI/mushroom): Python library for Reinforcement Learning experiments.
 93. [Xlearn](https://github.com/thuml/Xlearn): Transfer Learning Library
+94. [geoopt](https://github.com/ferrine/geoopt): Riemannian Adaptive Optimization Methods with pytorch optim
+
 
 ## Tutorials & examples
 
