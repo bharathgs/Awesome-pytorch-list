@@ -557,6 +557,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 303. [pytorch-prunes](https://github.com/BayesWatch/pytorch-prunes): Pruning neural networks: is it time to nip it in the bud?
 304. [SimGNN](https://github.com/benedekrozemberczki/SimGNN): SimGNN: A Neural Network Approach to Fast Graph Similarity Computation.
 305. [Character CNN](https://github.com/ahmedbesbes/character-based-cnn): PyTorch implementation of the Character-level Convolutional Networks for Text Classification paper. 
+306. [XLM](https://github.com/facebookresearch/XLM): PyTorch original implementation of Cross-lingual Language Model Pretraining.
 
 ## Pytorch elsewhere
 
