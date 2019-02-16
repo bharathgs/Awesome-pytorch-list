@@ -185,7 +185,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 93. [Xlearn](https://github.com/thuml/Xlearn): Transfer Learning Library
 94. [geoopt](https://github.com/ferrine/geoopt): Riemannian Adaptive Optimization Methods with pytorch optim
 95. [vegans](https://github.com/unit8co/vegans): A library providing various existing GANs in PyTorch.
-
+96. [torchgeometry](https://github.com/arraiyopensource/torchgeometry): TGM: PyTorch Geometry
 ## Tutorials & examples
 
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
