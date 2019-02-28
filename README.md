@@ -562,6 +562,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 306. [XLM](https://github.com/facebookresearch/XLM): PyTorch original implementation of Cross-lingual Language Model Pretraining.
 307. [DiffAI](https://github.com/eth-sri/diffai): A provable defense against adversarial examples and library for building compatible PyTorch models.
 308. [APPNP](https://github.com/benedekrozemberczki/APPNP): Combining Neural Networks with Personalized PageRank for Classification on Graphs. ICLR 2019.
+309. [NGCN](https://github.com/benedekrozemberczki/NGCN): A Higher-Order Graph Convolutional Layer. NeurIPS 2018.
 
 ## Pytorch elsewhere
 
