@@ -187,6 +187,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 95. [vegans](https://github.com/unit8co/vegans): A library providing various existing GANs in PyTorch.
 96. [torchgeometry](https://github.com/arraiyopensource/torchgeometry): TGM: PyTorch Geometry
 97. [AdverTorch](https://github.com/BorealisAI/advertorch): A Toolbox for Adversarial Robustness (attack/defense/training) Research
+98. [AdaBound](https://github.com/Luolc/AdaBound): An optimizer that trains as fast as Adam and as good as SGD.a
+
 
 ## Tutorials & examples
 
