@@ -602,6 +602,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 31. [ocaml-torch](https://github.com/LaurentMazare/ocaml-torch): OCaml bindings for PyTorch.
 32. [extension-script](https://github.com/pytorch/extension-script): Example repository for custom C++/CUDA operators for TorchScript.
 33. [pytorch-inference](https://github.com/zccyman/pytorch-inference): PyTorch 1.0 inference in C++ on Windows10 platforms. 
-34. [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): Serving PyTorch 1.0 Models as a Web Server in C++. 
+34. [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): Serving PyTorch 1.0 Models as a Web Server in C++.
+35. [tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for PyTorch.
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
