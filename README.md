@@ -488,7 +488,8 @@ Implementation for the paper A Structured Self-Attentive Sentence Embedding, whi
 272. [convnet-aig](https://github.com/andreasveit/convnet-aig): PyTorch implementation for Convolutional Networks with Adaptive Inference Graphs.
 273. [integrated-gradient-pytorch](https://github.com/TianhongDai/integrated-gradient-pytorch): This is the pytorch implementation of the paper - Axiomatic Attribution for Deep Networks.
 274. [MalConv-Pytorch](https://github.com/Alexander-H-Liu/MalConv-Pytorch): Pytorch implementation of MalConv. 
-275, [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling
+275. [trellisnet](https://github.com/locuslab/trellisnet): Trellis Networks for Sequence Modeling. 
+276. [DnCNN-PyTorch](https://github.com/SaoYan/DnCNN-PyTorch) "Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising.", TIP 2017
 
 
 ## Pytorch elsewhere
