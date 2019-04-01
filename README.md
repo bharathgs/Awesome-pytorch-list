@@ -569,6 +569,8 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 310. [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch): Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 311. [Splitter](https://github.com/benedekrozemberczki/Splitter): Splitter: Learning Node Representations that Capture Multiple Social Contexts. (WWW 2019).
 312. [CapsGNN](https://github.com/benedekrozemberczki/CapsGNN): Capsule Graph Neural Network. (ICLR 2019).
+313. [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch): The author's officially unofficial PyTorch BigGAN implementation.
+314. 
 
 ## Pytorch elsewhere
 
