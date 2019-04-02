@@ -80,6 +80,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 15. [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark): Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.
 16. [image-classification-mobile](https://github.com/osmr/imgclsmob): Collection of classification models pretrained on the ImageNet-1K.
 17. [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
+18. [albumentations](https://github.com/albu/albumentations): Fast image augmentation library.
 
 ### Probabilistic/Generative Libraries:
 
