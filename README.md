@@ -259,6 +259,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 57. [cifar10-fast](https://github.com/davidcpage/cifar10-fast): 
 Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 seconds as described in this [blog series](https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/).
 58. [Intro to Deep Learning with PyTorch](https://in.udacity.com/course/deep-learning-pytorch--ud188): A free course by Udacity and facebook, with a good intro to PyTorch, and an interview with Soumith Chintala, one of the original authors of PyTorch.
+59. [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis): Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
+
 
 ## Paper implementations
 
