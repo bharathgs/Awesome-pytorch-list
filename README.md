@@ -582,6 +582,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 314. [ppo_pytorch_cpp](https://github.com/mhubii/ppo_pytorch_cpp): This is an implementation of the proximal policy optimization algorithm for the C++ API of Pytorch.
 315. [RandWireNN](https://github.com/seungwonpark/RandWireNN): Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition".
 316. [Zero-shot Intent CapsNet](https://github.com/joel-huang/zeroshot-capsnet-pytorch): GPU-accelerated PyTorch implementation of "Zero-shot User Intent Detection via Capsule Neural Networks".
+317. [SEAL-CI](https://github.com/benedekrozemberczki/SEAL-CI) Semi-Supervised Graph Classification: A Hierarchical Graph Perspective. (WWW 2019).
 
 ## Pytorch elsewhere
 
