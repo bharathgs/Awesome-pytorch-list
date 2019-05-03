@@ -92,6 +92,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 6. [pyprob](https://github.com/probprog/pyprob): A PyTorch-based library for probabilistic programming and inference compilation.
 7. [mia](https://github.com/spring-epfl/mia): A library for running membership inference attacks against ML models. 
 8. [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module.
+9. [botorch](https://github.com/pytorch/botorch): Bayesian optimization in PyTorch
 
 ### Other libraries:
 
