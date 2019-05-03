@@ -197,6 +197,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 100. [pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter): Count the FLOPs of your PyTorch model.
 101. [Tor10](https://github.com/kaihsin/Tor10): A Generic Tensor-Network library that is designed for quantum simulation, base on the pytorch.
 102. [Catalyst](https://github.com/catalyst-team/catalyst): High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
+103. [Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform
 
 
 ## Tutorials & examples
