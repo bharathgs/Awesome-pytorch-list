@@ -576,7 +576,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 306. [XLM](https://github.com/facebookresearch/XLM): PyTorch original implementation of Cross-lingual Language Model Pretraining.
 307. [DiffAI](https://github.com/eth-sri/diffai): A provable defense against adversarial examples and library for building compatible PyTorch models.
 308. [APPNP](https://github.com/benedekrozemberczki/APPNP): Combining Neural Networks with Personalized PageRank for Classification on Graphs. ICLR 2019.
-309. [NGCN](https://github.com/benedekrozemberczki/NGCN): A Higher-Order Graph Convolutional Layer. NeurIPS 2018.
+309. [NGCN](https://github.com/benedekrozemberczki/MixHop-and-N-GCN): A Higher-Order Graph Convolutional Layer. NeurIPS 2018.
 310. [gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch): Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 311. [Splitter](https://github.com/benedekrozemberczki/Splitter): Splitter: Learning Node Representations that Capture Multiple Social Contexts. (WWW 2019).
 312. [CapsGNN](https://github.com/benedekrozemberczki/CapsGNN): Capsule Graph Neural Network. (ICLR 2019).
@@ -585,6 +585,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 315. [RandWireNN](https://github.com/seungwonpark/RandWireNN): Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition".
 316. [Zero-shot Intent CapsNet](https://github.com/joel-huang/zeroshot-capsnet-pytorch): GPU-accelerated PyTorch implementation of "Zero-shot User Intent Detection via Capsule Neural Networks".
 317. [SEAL-CI](https://github.com/benedekrozemberczki/SEAL-CI) Semi-Supervised Graph Classification: A Hierarchical Graph Perspective. (WWW 2019).
+318. [MixHop](https://github.com/benedekrozemberczki/MixHop-and-N-GCN): MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing. ICML 2019.
 
 ## Pytorch elsewhere
 
