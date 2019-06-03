@@ -199,6 +199,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 102. [Catalyst](https://github.com/catalyst-team/catalyst): High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing. Being able to research/develop something new, rather than write another regular train loop.
 103. [Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform
 104. [pywick](https://github.com/achaiah/pywick): High-level batteries-included neural network training library for Pytorch
+105. [torchgpipe](https://github.com/kakaobrain/torchgpipe): A GPipe implementation in PyTorch torchgpipe.readthedocs.io
 
 
 ## Tutorials & examples
