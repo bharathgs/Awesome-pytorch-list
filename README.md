@@ -58,6 +58,8 @@ Awesome-Pytorch-list
 31. [pytext](https://github.com/facebookresearch/pytext): A natural language modeling framework based on PyTorch fb.me/pytextdocs
 32. [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter
 33. [BERT-NER](https://github.com/kamalkraj/BERT-NER): Pytorch-Named-Entity-Recognition-with-BERT. 
+34. [transfer-nlp](https://github.com/feedly/transfer-nlp): NLP library designed for flexible research and development
+
 
 
 ### CV:
