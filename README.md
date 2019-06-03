@@ -202,7 +202,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 103. [Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform
 104. [pywick](https://github.com/achaiah/pywick): High-level batteries-included neural network training library for Pytorch
 105. [torchgpipe](https://github.com/kakaobrain/torchgpipe): A GPipe implementation in PyTorch torchgpipe.readthedocs.io
-
+106. [hub](https://github.com/pytorch/hub): Pytorch Hub is a pre-trained model repository designed to facilitate research reproducibility.
 
 ## Tutorials & examples
 
