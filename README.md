@@ -594,6 +594,8 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 317. [SEAL-CI](https://github.com/benedekrozemberczki/SEAL-CI) Semi-Supervised Graph Classification: A Hierarchical Graph Perspective. (WWW 2019).
 318. [MixHop](https://github.com/benedekrozemberczki/MixHop-and-N-GCN): MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing. ICML 2019.
 319. [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody.
+320. [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter. 
+
 
 
 ## Pytorch elsewhere
