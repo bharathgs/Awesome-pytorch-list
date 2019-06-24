@@ -83,6 +83,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 16. [image-classification-mobile](https://github.com/osmr/imgclsmob): Collection of classification models pretrained on the ImageNet-1K.
 17. [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
 18. [albumentations](https://github.com/albu/albumentations): Fast image augmentation library.
+19. [kornia](https://github.com/arraiyopensource/kornia): Differentiable computer vision library.
 
 ### Probabilistic/Generative Libraries:
 
@@ -596,6 +597,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 319. [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody.
 320. [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter. 
 321. [NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation): A PyTorch Implementation of [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593), In CVPR2019. 
+322. [ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN): A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).
 
 
 
