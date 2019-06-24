@@ -83,6 +83,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 16. [image-classification-mobile](https://github.com/osmr/imgclsmob): Collection of classification models pretrained on the ImageNet-1K.
 17. [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
 18. [albumentations](https://github.com/albu/albumentations): Fast image augmentation library.
+19. [kornia](https://github.com/arraiyopensource/kornia): Differentiable computer vision library.
 
 ### Probabilistic/Generative Libraries:
 
