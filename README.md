@@ -5,7 +5,6 @@ Awesome-Pytorch-list
 
 <p align="center">
 	<img src="https://img.shields.io/badge/stars-7500+-brightgreen.svg?style=flat"/>
-	<img src="https://img.shields.io/badge/forks-1500%2B-brightgreen.svg">
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
