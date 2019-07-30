@@ -15,8 +15,8 @@ Awesome-Pytorch-list
   - [Probabilistic/Generative Libraries](#probabilisticgenerative-libraries)
   - [Other libraries](#other-libraries)
 - [Tutorials & examples](#tutorials--examples)
-- [Talks & Conferences](#talks--conferences)
 - [Paper implementations](#paper-implementations)
+- [Talks & Conferences](#talks--conferences)
 - [Pytorch elsewhere](#pytorch-elsewhere)
 
 ## Pytorch & related libraries
@@ -271,11 +271,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 58. [Intro to Deep Learning with PyTorch](https://in.udacity.com/course/deep-learning-pytorch--ud188): A free course by Udacity and facebook, with a good intro to PyTorch, and an interview with Soumith Chintala, one of the original authors of PyTorch.
 59. [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis): Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 60. [pytorch-image-models](https://github.com/rwightman/pytorch-image-models): PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more.
-61. [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO): Pytorch implementation for multiple CNN architectures and improve methods with state-of-the-art results.
-
-## Talks & conferences
-
-18. [PyTorch Conference 2018](https://developers.facebook.com/videos/2018/pytorch-developer-conference/): First PyTorch developer conference at 2018. 
+61. [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO): Pytorch implementation for multiple CNN architectures and improve methods with state-of-the-art results. 
 
 
 ## Paper implementations
@@ -606,7 +602,9 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 322. [ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN): A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).
 323. [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net): A PyTorch implementation of "Joint Discriminative and Generative Learning for Person Re-identification" (CVPR19 Oral).
 
+## Talks & conferences
 
+1. [PyTorch Conference 2018](https://developers.facebook.com/videos/2018/pytorch-developer-conference/): First PyTorch developer conference at 2018.
 
 ## Pytorch elsewhere
 
