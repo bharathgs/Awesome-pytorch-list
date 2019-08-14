@@ -658,6 +658,8 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 33. [pytorch-inference](https://github.com/zccyman/pytorch-inference): PyTorch 1.0 inference in C++ on Windows10 platforms. 
 34. [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): Serving PyTorch 1.0 Models as a Web Server in C++.
 35. [tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for PyTorch.
+36. [TorchSharp](https://github.com/interesaaat/TorchSharp): .NET bindings for the Pytorch engine
+
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
