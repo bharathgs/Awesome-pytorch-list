@@ -217,6 +217,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 117. [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl): PyTorch C++ Reinforcement Learning
 118. [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt): PyTorch extensions for fast R&D prototyping and Kaggle farming
 119. [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
+120. [macarico](https://github.com/hal3/macarico): learning to search in pytorch
+
 
 
 
