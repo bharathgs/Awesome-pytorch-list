@@ -212,6 +212,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 112. [torchprof](https://github.com/awwong1/torchprof): A minimal dependency library for layer-by-layer profiling of Pytorch models.
 113. [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
 114. [mctorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning. 
+115. [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings): Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration. 
+
 
 ## Tutorials & examples
 
