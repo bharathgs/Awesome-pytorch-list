@@ -60,6 +60,7 @@ Awesome-Pytorch-list
 33. [BERT-NER](https://github.com/kamalkraj/BERT-NER): Pytorch-Named-Entity-Recognition-with-BERT. 
 34. [transfer-nlp](https://github.com/feedly/transfer-nlp): NLP library designed for flexible research and development
 35. [texar-pytorch](https://github.com/asyml/texar-pytorch): Toolkit for Machine Learning and Text Generation, in PyTorch texar.io
+36. [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi): pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 
 ### CV:
 
