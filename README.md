@@ -209,6 +209,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 109. [tensorwatch](https://github.com/microsoft/tensorwatch): Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning from Microsoft Research.
 110. [wavetorch](https://github.com/fancompute/wavetorch): Numerically solving and backpropagating through the wave equation arxiv.org/abs/1904.12831
 111. [diffdist](https://github.com/ag14774/diffdist): diffdist is a python library for pytorch. It extends the default functionality of torch.autograd and adds support for differentiable communication between processes. 
+112. [torchprof](https://github.com/awwong1/torchprof): A minimal dependency library for layer-by-layer profiling of Pytorch models.
 
 
 ## Tutorials & examples
