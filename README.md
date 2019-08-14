@@ -275,6 +275,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 60. [pytorch-image-models](https://github.com/rwightman/pytorch-image-models): PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more.
 61. [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO): Pytorch implementation for multiple CNN architectures and improve methods with state-of-the-art results. 
 62. [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch): This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch.
+63. [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch): Thinking in tensors, writing in PyTorch (a hands-on deep learning intro)
 
 
 ## Paper implementations
