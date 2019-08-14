@@ -272,6 +272,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 59. [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis): Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 60. [pytorch-image-models](https://github.com/rwightman/pytorch-image-models): PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more.
 61. [CIFAR-ZOO](https://github.com/BIGBALLON/CIFAR-ZOO): Pytorch implementation for multiple CNN architectures and improve methods with state-of-the-art results. 
+62. [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch): This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch.
 
 
 ## Paper implementations
@@ -600,7 +601,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 320. [voicefilter](https://github.com/mindslab-ai/voicefilter): Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter. 
 321. [NVIDIA/semantic-segmentation](https://github.com/NVIDIA/semantic-segmentation): A PyTorch Implementation of [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593), In CVPR2019. 
 322. [ClusterGCN](https://github.com/benedekrozemberczki/ClusterGCN): A PyTorch implementation of "Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks" (KDD 2019).
-323. [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net): A PyTorch implementation of "Joint Discriminative and Generative Learning for Person Re-identification" (CVPR19 Oral).
+323. [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net): A PyTorch implementation of "Joint Discriminative and Generative Learning for Person Re-identification" (CVPR19 Oral). 
 
 ## Talks & conferences
 
