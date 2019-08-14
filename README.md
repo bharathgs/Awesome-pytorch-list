@@ -213,6 +213,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 113. [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
 114. [mctorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning. 
 115. [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings): Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration. 
+116. [MinkowskiEngine](https://github.com/StanfordVL/MinkowskiEngine): Minkowski Engine is an auto-diff library for generalized sparse convolutions and high-dimensional sparse tensors.
 
 
 ## Tutorials & examples
