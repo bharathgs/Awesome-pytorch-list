@@ -211,7 +211,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 111. [diffdist](https://github.com/ag14774/diffdist): diffdist is a python library for pytorch. It extends the default functionality of torch.autograd and adds support for differentiable communication between processes. 
 112. [torchprof](https://github.com/awwong1/torchprof): A minimal dependency library for layer-by-layer profiling of Pytorch models.
 113. [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
-
+114. [mctorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning. 
 
 ## Tutorials & examples
 
