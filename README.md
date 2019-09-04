@@ -84,6 +84,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 17. [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
 18. [albumentations](https://github.com/albu/albumentations): Fast image augmentation library.
 19. [kornia](https://github.com/arraiyopensource/kornia): Differentiable computer vision library.
+20. [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition): Text recognition combo - CRAFT + CRNN. 
 
 ### Probabilistic/Generative Libraries:
 
