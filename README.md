@@ -676,7 +676,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 34. [pytorch-cpp-inference](https://github.com/Wizaron/pytorch-cpp-inference): Serving PyTorch 1.0 Models as a Web Server in C++.
 35. [tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for PyTorch.
 36. [TorchSharp](https://github.com/interesaaat/TorchSharp): .NET bindings for the Pytorch engine
-
+37. [ML Workspace](https://github.com/ml-tooling/ml-workspace): All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, PyTorch, and many other tools/libraries into one Docker image.
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
