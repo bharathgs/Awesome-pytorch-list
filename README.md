@@ -62,6 +62,7 @@ Awesome-Pytorch-list
 35. [texar-pytorch](https://github.com/asyml/texar-pytorch): Toolkit for Machine Learning and Text Generation, in PyTorch texar.io
 36. [pytorch-kaldi](https://github.com/mravanelli/pytorch-kaldi): pytorch-kaldi is a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit.
 37. [NeMo](https://github.com/NVIDIA/NeMo): Neural Modules: a toolkit for conversational AI nvidia.github.io/NeMo
+38 . [pytorch-struct](https://github.com/harvardnlp/pytorch-struct): A library of vectorized implementations of core structured prediction algorithms (HMM, Dep Trees, CKY, ..,)
 
 ### CV:
 
@@ -223,10 +224,6 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 121. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
 122. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
 123. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
-124. [](): 
-
-
-
 
 ## Tutorials & examples
 
