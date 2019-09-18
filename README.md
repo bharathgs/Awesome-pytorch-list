@@ -222,8 +222,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 120. [macarico](https://github.com/hal3/macarico): learning to search in pytorch
 121. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
 122. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
-
-
+123. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
+124. [](): 
 
 
 
