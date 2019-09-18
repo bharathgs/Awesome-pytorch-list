@@ -221,6 +221,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 119. [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
 120. [macarico](https://github.com/hal3/macarico): learning to search in pytorch
 121. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
+122. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
+
 
 
 
