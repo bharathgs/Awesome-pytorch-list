@@ -86,7 +86,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 17. [medicaltorch](https://github.com/perone/medicaltorch): A medical imaging framework for Pytorch http://medicaltorch.readthedocs.io
 18. [albumentations](https://github.com/albu/albumentations): Fast image augmentation library.
 19. [kornia](https://github.com/arraiyopensource/kornia): Differentiable computer vision library.
-20. [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition): Text recognition combo - CRAFT + CRNN. 
+20. [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition): Text recognition combo - CRAFT + CRNN.
+21. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
 
 ### Probabilistic/Generative Libraries:
 
@@ -223,7 +224,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 120. [macarico](https://github.com/hal3/macarico): learning to search in pytorch
 121. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
 122. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
-123. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
+123. [learn2learn](https://github.com/learnables/learn2learn): PyTorch Meta-learning Framework for Researchers http://learn2learn.net
+
 
 ## Tutorials & examples
 
