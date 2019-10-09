@@ -225,6 +225,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 121. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
 122. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
 123. [learn2learn](https://github.com/learnables/learn2learn): PyTorch Meta-learning Framework for Researchers http://learn2learn.net
+124. [torchbeast](https://github.com/facebookresearch/torchbeast): A PyTorch Platform for Distributed RL
+
 
 
 ## Tutorials & examples
