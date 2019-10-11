@@ -90,6 +90,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 19. [kornia](https://github.com/arraiyopensource/kornia): Differentiable computer vision library.
 20. [pytorch-text-recognition](https://github.com/s3nh/pytorch-text-recognition): Text recognition combo - CRAFT + CRNN.
 21. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
+22. [detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
+
 
 ### Probabilistic/Generative Libraries:
 
