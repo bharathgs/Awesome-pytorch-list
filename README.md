@@ -307,6 +307,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 63. [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch): Thinking in tensors, writing in PyTorch (a hands-on deep learning intro).
 64. [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): PyTorch solution of named entity recognition task Using Google AI's pre-trained BERT model.
 65. [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): How to use Cross Replica / Synchronized Batchnorm in Pytorch. 
+66. [Mixed Precision Training in PyTorch](https://github.com/suvojit-0x55aa/mixed-precision-pytorch): How to implement mixed precision training in pytorch.  
 
 
 ## Paper implementations
