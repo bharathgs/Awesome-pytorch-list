@@ -311,6 +311,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 63. [thinking-in-tensors-writing-in-pytorch](https://github.com/stared/thinking-in-tensors-writing-in-pytorch): Thinking in tensors, writing in PyTorch (a hands-on deep learning intro).
 64. [NER-BERT-pytorch](https://github.com/lemonhu/NER-BERT-pytorch): PyTorch solution of named entity recognition task Using Google AI's pre-trained BERT model.
 65. [pytorch-sync-batchnorm-example](https://github.com/dougsouza/pytorch-sync-batchnorm-example): How to use Cross Replica / Synchronized Batchnorm in Pytorch. 
+66. [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis): Sentiment analysis neural network trained by fine tuning BERT on the Stanford Sentiment Treebank, thanks to [Hugging Face](https://huggingface.co/transformers/)'s Transformers library.
 
 
 ## Paper implementations
