@@ -4,7 +4,7 @@ Awesome-Pytorch-list
 ![pytorch-logo-dark](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 <p align="center">
-	<img src="https://img.shields.io/badge/stars-8800+-brightgreen.svg?style=flat"/>
+	<img src="https://img.shields.io/badge/stars-8900+-brightgreen.svg?style=flat"/>
 	<img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat">
 </p>
 
