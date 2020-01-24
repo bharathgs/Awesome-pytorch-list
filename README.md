@@ -93,6 +93,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 21. [facenet-pytorch](https://github.com/timesler/facenet-pytorch): Pretrained Pytorch face detection and recognition models ported from davidsandberg/facenet.
 22. [detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 23. [vedaseg](https://github.com/Media-Smart/vedaseg): A semantic segmentation framework by pyotrch
+24. [ClassyVision](https://github.com/facebookresearch/ClassyVision): An end-to-end PyTorch framework for image and video classification.
 
 
 
