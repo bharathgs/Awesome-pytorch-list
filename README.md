@@ -95,6 +95,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 22. [detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is FAIR's next-generation research platform for object detection and segmentation.
 23. [vedaseg](https://github.com/Media-Smart/vedaseg): A semantic segmentation framework by pyotrch
 24. [ClassyVision](https://github.com/facebookresearch/ClassyVision): An end-to-end PyTorch framework for image and video classification.
+25. [detecto](https://github.com/alankbi/detecto):Computer vision in Python with less than 10 lines of code
 
 
 
