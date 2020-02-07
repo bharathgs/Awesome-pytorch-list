@@ -96,7 +96,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 23. [vedaseg](https://github.com/Media-Smart/vedaseg): A semantic segmentation framework by pyotrch
 24. [ClassyVision](https://github.com/facebookresearch/ClassyVision): An end-to-end PyTorch framework for image and video classification.
 25. [detecto](https://github.com/alankbi/detecto):Computer vision in Python with less than 10 lines of code
-
+26. [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3D is FAIR's library of reusable components for deep learning with 3D data pytorch3d.org
 
 
 ### Probabilistic/Generative Libraries:
