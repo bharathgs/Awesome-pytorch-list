@@ -98,6 +98,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 25. [detecto](https://github.com/alankbi/detecto):Computer vision in Python with less than 10 lines of code
 26. [pytorch3d](https://github.com/facebookresearch/pytorch3d): PyTorch3D is FAIR's library of reusable components for deep learning with 3D data pytorch3d.org
 27. [MMDetection](https://github.com/open-mmlab/mmdetection): MMDetection is an open source object detection toolbox, a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http://mmlab.ie.cuhk.edu.hk/).
+28. [neural-dream](https://github.com/ProGamerGov/neural-dream): A PyTorch implementation of the DeepDream algorithm. Creates dream-like hallucinogenic visuals.
 
 
 ### Probabilistic/Generative Libraries:
