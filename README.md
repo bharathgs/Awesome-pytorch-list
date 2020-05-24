@@ -14,7 +14,7 @@ Awesome-Pytorch-list
   - [Computer Vision](#cv)
   - [Probabilistic/Generative Libraries](#probabilisticgenerative-libraries)
   - [Other libraries](#other-libraries)
-- [Tutorials & examples](#tutorials--examples)
+- [Tutorials, books & examples](#tutorials--examples)
 - [Paper implementations](#paper-implementations)
 - [Talks & Conferences](#talks--conferences)
 - [Pytorch elsewhere](#pytorch-elsewhere)
@@ -253,7 +253,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 137. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
 138. [ray](https://github.com/ray-project/ray): A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
 
-## Tutorials & examples
+## Tutorials, books, & examples
 
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
 2. [DeepLearningForNLPInPytorch](https://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html): An IPython Notebook tutorial on deep learning, with an emphasis on Natural Language Processing. 
@@ -324,6 +324,8 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 66. [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis): Sentiment analysis neural network trained by fine tuning BERT on the Stanford Sentiment Treebank, thanks to [Hugging Face](https://huggingface.co/transformers/)'s Transformers library.
 67. [pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp): C++ implementations of PyTorch tutorials for deep learning researchers (based on the Python tutorials from [pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)). 
 68. [Deep Learning with PyTorch: Zero to GANs](https://jovian.ml/aakashns/collections/deep-learning-with-pytorch): Interactive and coding-focused tutorial series on introduction to Deep Learning with PyTorch ([video](https://www.youtube.com/watch?v=GIsg-ZUy0MY)).
+69. [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch): Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch, the book includes a case study: building an algorithm capable of detecting malignant lung tumors using CT scans.
+70. [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
 
 ## Paper implementations
 
