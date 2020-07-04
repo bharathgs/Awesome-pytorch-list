@@ -14,7 +14,7 @@ Awesome-Pytorch-list
   - [Computer Vision](#cv)
   - [Probabilistic/Generative Libraries](#probabilisticgenerative-libraries)
   - [Other libraries](#other-libraries)
-- [Tutorials, books & examples](#tutorials--examples)
+- [Tutorials, books & examples](#tutorials-books--examples)
 - [Paper implementations](#paper-implementations)
 - [Talks & Conferences](#talks--conferences)
 - [Pytorch elsewhere](#pytorch-elsewhere)
