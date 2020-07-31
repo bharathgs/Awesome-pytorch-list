@@ -689,7 +689,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 1. **[the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)**: The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch. 
 2. [generative models](https://github.com/wiseodd/generative-models): Collection of generative models, e.g. GAN, VAE in Tensorflow, Keras, and Pytorch. http://wiseodd.github.io  
 3. [pytorch vs tensorflow](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/): an informative thread on reddit. 
-4. [Pytorch discussion forum](https://discuss.pytorch.org/)  
+4. [Pytorch discussion forum](https://discuss.pytorch.org/); [Pytorch's version of d2l-book discussion forum](https://discuss.d2l.ai/c/d2l-en/pytorch/7)
 5. [pytorch notebook: docker-stack](https://hub.docker.com/r/escong/pytorch-notebook/): A project similar to [Jupyter Notebook Scientific Python Stack](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook)
 6. [drawlikebobross](https://github.com/kendricktan/drawlikebobross): Draw like Bob Ross using the power of Neural Networks (With PyTorch)!
 7. [pytorch-tvmisc](https://github.com/t-vi/pytorch-tvmisc): Totally Versatile Miscellanea for Pytorch
