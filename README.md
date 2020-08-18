@@ -106,6 +106,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 33. [MMEditing](https://github.com/open-mmlab/mmediting): MMEditing is a image and video editing toolbox, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 34. [MMAction2](https://github.com/open-mmlab/mmaction2): MMAction2 is OpenMMLab's next generation action understanding toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 35. [MMPose](https://github.com/open-mmlab/mmpose): MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
+36. [dream-creator](https://github.com/ProGamerGov/dream-creator): A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models for DeepDream with custom datasets.
 
 ### Probabilistic/Generative Libraries:
 
