@@ -66,7 +66,7 @@ Awesome-Pytorch-list
 39. [espresso](https://github.com/freewym/espresso): Espresso: A Fast End-to-End Neural Speech Recognition Toolkit
 40. [transformers](https://github.com/huggingface/transformers): huggingface Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. huggingface.co/transformers
 41. [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch): Reformer, the efficient Transformer, in Pytorch
-
+42. [torch-metrics](https://github.com/enochkan/torch-metrics): Metrics for model evaluation in pytorch
 
 ### CV:
 
