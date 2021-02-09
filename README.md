@@ -688,6 +688,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 338. [Seg-Uncertainty](https://github.com/layumi/Seg-Uncertainty): Unsupervised Scene Adaptation with Memory Regularization in vivo, In IJCAI 2020.
 339. [pulse](https://github.com/adamian98/pulse): Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 340. [distance-encoding](https://github.com/snap-stanford/distance-encoding): Distance-Encoding - Design Provably More PowerfulGNNs for Structural Representation Learning.
+341. [Pathfinder Discovery Networks](https://github.com/benedekrozemberczki/PDN): Pathfinder Discovery Networks for Neural Message Passing.
 
 ## Talks & conferences
 
