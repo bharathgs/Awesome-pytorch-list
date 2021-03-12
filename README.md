@@ -107,6 +107,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 34. [MMAction2](https://github.com/open-mmlab/mmaction2): MMAction2 is OpenMMLab's next generation action understanding toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 35. [MMPose](https://github.com/open-mmlab/mmpose): MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 36. [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
+37. [Distribuuuu](https://github.com/BIGBALLON/distribuuuu): Distribuuuu is a pure and clear a Distributed Classification Training Framework powered by native PyTorch (with the clear distributed training [tutorials](https://github.com/BIGBALLON/distribuuuu/tree/master/tutorial)).
 
 ### Probabilistic/Generative Libraries:
 
