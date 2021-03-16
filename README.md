@@ -67,6 +67,7 @@ Awesome-Pytorch-list
 40. [transformers](https://github.com/huggingface/transformers): huggingface Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. huggingface.co/transformers
 41. [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch): Reformer, the efficient Transformer, in Pytorch
 42. [torch-metrics](https://github.com/enochkan/torch-metrics): Metrics for model evaluation in pytorch
+43. [speechbrain](https://github.com/speechbrain/speechbrain): SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
 
 ### CV:
 
