@@ -68,6 +68,7 @@ Awesome-Pytorch-list
 41. [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch): Reformer, the efficient Transformer, in Pytorch
 42. [torch-metrics](https://github.com/enochkan/torch-metrics): Metrics for model evaluation in pytorch
 43. [speechbrain](https://github.com/speechbrain/speechbrain): SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
+44. [Backprop](https://github.com/backprop-ai/backprop): Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
 
 ### CV:
 
