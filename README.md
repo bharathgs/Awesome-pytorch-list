@@ -272,6 +272,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 147. [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN): StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea.
 148. [torchdrift](https://github.com/torchdrift/torchdrift/): drift detection library
 149. [accelerate](https://github.com/huggingface/accelerate) : A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision 
+150. [lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers):  Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra. 
 
 ## Tutorials, books, & examples
 
