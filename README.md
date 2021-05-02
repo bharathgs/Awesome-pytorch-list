@@ -348,6 +348,9 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 69. [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch): Deep Learning with PyTorch teaches you how to implement deep learning algorithms with Python and PyTorch, the book includes a case study: building an algorithm capable of detecting malignant lung tumors using CT scans.
 70. [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
 71. [LabML NN](https://github.com/lab-ml/nn): A collection of PyTorch implementations of neural networks architectures and algorithms with side-by-side notes.
+72. [Show, Attend, and Tell](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning): A PyTorch Tutorial to Image Captioning.
+73. [Empower Sequence Labeling with Task-Aware Neural Language Model](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling): A PyTorch Tutorial to Sequence Labeling.
+74. [SSD: Single Shot MultiBox Detector](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection): A PyTorch Tutorial to Object Detection.
 
 ## Paper implementations
 
@@ -695,7 +698,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 339. [pulse](https://github.com/adamian98/pulse): Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 340. [distance-encoding](https://github.com/snap-stanford/distance-encoding): Distance-Encoding - Design Provably More PowerfulGNNs for Structural Representation Learning.
 341. [Pathfinder Discovery Networks](https://github.com/benedekrozemberczki/PDN): Pathfinder Discovery Networks for Neural Message Passing.
-342. [PyKEEN](https://github.com/pykeen/pykeen): A Python library for learning and evaluating knowledge graph embeddings 
+342. [PyKEEN](https://github.com/pykeen/pykeen): A Python library for learning and evaluating knowledge graph embeddings
 
 ## Talks & conferences
 
