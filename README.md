@@ -22,6 +22,7 @@ Awesome-Pytorch-list
 ## Pytorch & related libraries
 
 1. [pytorch](http://pytorch.org): Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+2. [Captum](https://github.com/pytorch/captum): Model interpretability and understanding for PyTorch.
 
 ### NLP & Speech Processing:
 
