@@ -273,6 +273,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 148. [torchdrift](https://github.com/torchdrift/torchdrift/): drift detection library
 149. [accelerate](https://github.com/huggingface/accelerate) : A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision 
 150. [lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers):  Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra. 
+151. [ChemicalX](https://github.com/AstraZeneca/chemicalx) A PyTorch based deep learning library for drug pair scoring.
 
 ## Tutorials, books, & examples
 
