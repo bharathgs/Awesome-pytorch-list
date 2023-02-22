@@ -201,7 +201,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 73. [OpenChem](https://github.com/Mariewelt/OpenChem): OpenChem: Deep Learning toolkit for Computational Chemistry and Drug Design Research mariewelt.github.io/OpenChem 
 74. [torchani](https://github.com/aiqm/torchani): Accurate Neural Network Potential on PyTorch aiqm.github.io/torchani
 75. [PyTorch-LBFGS](https://github.com/hjmshi/PyTorch-LBFGS): A PyTorch implementation of L-BFGS.
-76. [gpytorch](https://github.com/cornellius-gp/gpytorch): A highly efficient and modular implementation of Gaussian Processes in PyTorch.
+76. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 77. [hessian](https://github.com/mariogeiger/hessian): hessian in pytorch. 
 78. [vel](https://github.com/MillionIntegrals/vel): Velocity in deep-learning research.
 79. [nonechucks](https://github.com/msamogh/nonechucks): Skip bad items in your PyTorch DataLoader, use Transforms as Filters, and more!
@@ -280,7 +280,6 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 152. [lightning-flash](https://github.com/PyTorchLightning/lightning-flash): Flash is a collection of tasks for fast prototyping, baselining and fine-tuning scalable Deep Learning models, built on PyTorch Lightning.
 153. [Pytorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed): A signed and directed extension library for PyTorch Geometric. 
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
-155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 
 ## Tutorials, books, & examples
 
