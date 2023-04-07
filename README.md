@@ -708,6 +708,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 343. [SSSNET](https://github.com/SherylHYX/SSSNET_Signed_Clustering): Official implementation of the SDM2022 paper "SSSNET: Semi-Supervised Signed Network Clustering".
 344. [MagNet](https://github.com/matthew-hirn/magnet): Official implementation of the NeurIPS2021 paper "MagNet: A Neural Network for Directed Graphs".
 345. [Semantic Search](https://github.com/kuutsav/information-retrieval): Latest in the field of neural information retrieval / semantic search.
+346. [GaNDLF](https://mlcommons.github.io/GaNDLF/): The Generally Nuanced Deep Learning Framework (GaNDLF) for diverse tasks using healthcare data, such as segmentation, classification, and regression.
 
 ## Talks & conferences
 
