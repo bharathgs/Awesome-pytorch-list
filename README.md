@@ -111,6 +111,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 35. [MMPose](https://github.com/open-mmlab/mmpose): MMPose is a pose estimation toolbox and benchmark, a part of the [OpenMMLab project](https://open-mmlab.github.io/).
 36. [lightly](https://github.com/lightly-ai/lightly) - Lightly is a computer vision framework for self-supervised learning.
 37. [RoMa](https://naver.github.io/roma/): a lightweight and efficient library to deal with 3D rotations.
+38. [cifar100-classification](https://github.com/Amirali-SoltaniRad/cifar100-classification) - A state-of-the-art CIFAR-100 image classifier built with PyTorch."
 
 
 ### Probabilistic/Generative Libraries:
