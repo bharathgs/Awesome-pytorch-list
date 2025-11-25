@@ -281,6 +281,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 153. [Pytorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed): A signed and directed extension library for PyTorch Geometric. 
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
+156. [FreeGrad](https://github.com/tbox98/FreeGrad) - PyTorch library for custom backward passes, straight-through estimators and gradient transforms.
+
 
 ## Tutorials, books, & examples
 
