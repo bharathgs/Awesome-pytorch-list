@@ -357,6 +357,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 70. [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
 71. [LabML NN](https://github.com/lab-ml/nn): A collection of PyTorch implementations of neural networks architectures and algorithms with side-by-side notes.
 72. [Run your PyTorch Example Fedarated with Flower](https://github.com/adap/flower/tree/main/examples/pytorch_from_centralized_to_federated): This example demonstrates how an already existing centralized PyTorch machine learning project can be federated with Flower. A Cifar-10 dataset is used together with a convolutional neural network (CNN).
+73. [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book): A free FreeCodeCamp book teaching the math behind AI in plain English from an engineering point of view. It covers linear algebra, calculus, probability & statistics, and optimization theory with analogies, real-life applications, and Python code examples.
 
 ## Paper implementations
 
