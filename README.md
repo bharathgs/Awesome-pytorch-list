@@ -238,50 +238,51 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 110. [wavetorch](https://github.com/fancompute/wavetorch): Numerically solving and backpropagating through the wave equation arxiv.org/abs/1904.12831
 111. [diffdist](https://github.com/ag14774/diffdist): diffdist is a python library for pytorch. It extends the default functionality of torch.autograd and adds support for differentiable communication between processes. 
 112. [torchprof](https://github.com/awwong1/torchprof): A minimal dependency library for layer-by-layer profiling of Pytorch models.
-113. [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
-114. [mctorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning. 
-115. [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings): Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration. 
-116. [MinkowskiEngine](https://github.com/StanfordVL/MinkowskiEngine): Minkowski Engine is an auto-diff library for generalized sparse convolutions and high-dimensional sparse tensors.
-117. [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl): PyTorch C++ Reinforcement Learning
-118. [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt): PyTorch extensions for fast R&D prototyping and Kaggle farming
-119. [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
-120. [macarico](https://github.com/hal3/macarico): learning to search in pytorch
-121. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
-122. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
-123. [learn2learn](https://github.com/learnables/learn2learn): PyTorch Meta-learning Framework for Researchers http://learn2learn.net
-124. [torchbeast](https://github.com/facebookresearch/torchbeast): A PyTorch Platform for Distributed RL
-125. [higher](https://github.com/facebookresearch/higher): higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
-126. [Torchelie](https://github.com/Vermeille/Torchelie/): Torchélie is a set of utility functions, layers, losses, models, trainers and other things for PyTorch. torchelie.readthedocs.org 
-127. [CrypTen](https://github.com/facebookresearch/CrypTen): CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch that allows researchers and developers to train models using encrypted data. CrypTen currently supports Secure multi-party computation as its encryption mechanism.
-128. [cvxpylayers](https://github.com/cvxgrp/cvxpylayers): cvxpylayers is a Python library for constructing differentiable convex optimization layers in PyTorch
-129. [RepDistiller](https://github.com/HobbitLong/RepDistiller): Contrastive Representation Distillation (CRD), and benchmark of recent knowledge distillation methods
-130. [kaolin](https://github.com/NVIDIAGameWorks/kaolin): PyTorch library aimed at accelerating 3D deep learning research
-131. [PySNN](https://github.com/BasBuller/PySNN): Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
-132. [sparktorch](https://github.com/dmmiller612/sparktorch): Train and run Pytorch models on Apache Spark.
-133. [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): The easiest way to use metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
-134. [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library): A PyTorch library for building deep reinforcement learning agents.
-135. [flambe](https://github.com/asappresearch/flambe): An ML framework to accelerate research and its path to production. flambe.ai
-136. [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer): Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
-137. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
-138. [ray](https://github.com/ray-project/ray): A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
-139. [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal): A temporal extension library for PyTorch Geometric 
-140. [Poutyne](https://github.com/GRAAL-Research/poutyne): A Keras-like framework for PyTorch that handles much of the boilerplating code needed to train neural networks.
-141. [Pytorch-Toolbox](https://github.com/PistonY/torch-toolbox): This is toolbox project for Pytorch. Aiming to make you write Pytorch code more easier, readable and concise.
-142. [Pytorch-contrib](https://github.com/pytorch/contrib): It contains reviewed implementations of ideas from recent machine learning papers.
-143. [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch): It contains an op-for-op PyTorch reimplementation of EfficientNet, along with pre-trained models and examples.
-144. [PyTorch/XLA](https://github.com/pytorch/xla): PyTorch/XLA is a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework and Cloud TPUs.
-145. [webdataset](https://github.com/tmbdev/webdataset): WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
-146. [volksdep](https://github.com/Media-Smart/volksdep): volksdep is an open-source toolbox for deploying and accelerating PyTorch, Onnx and Tensorflow models with TensorRT.
-147. [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN): StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea.
-148. [torchdrift](https://github.com/torchdrift/torchdrift/): drift detection library
-149. [accelerate](https://github.com/huggingface/accelerate) : A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision 
-150. [lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers):  Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra. 
-151. [Flower](https://flower.dev/) A unified approach to federated learning, analytics, and evaluation. It allows to federated any machine learning workload.
-152. [lightning-flash](https://github.com/PyTorchLightning/lightning-flash): Flash is a collection of tasks for fast prototyping, baselining and fine-tuning scalable Deep Learning models, built on PyTorch Lightning.
-153. [Pytorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed): A signed and directed extension library for PyTorch Geometric. 
-154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
-155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
-156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+113. [TraceML](https://github.com/traceopt-ai/traceml): PyTorch DDP training observability with per-rank step timing, skew detection, and step breakdown (dataloader, forward, backward).
+114. [osqpth](https://github.com/oxfordcontrol/osqpth): The differentiable OSQP solver layer for PyTorch. 
+115. [mctorch](https://github.com/mctorch/mctorch): A manifold optimization library for deep learning. 
+116. [pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings): Efficient PyTorch Hessian eigendecomposition using the Hessian-vector product and stochastic power iteration. 
+117. [MinkowskiEngine](https://github.com/StanfordVL/MinkowskiEngine): Minkowski Engine is an auto-diff library for generalized sparse convolutions and high-dimensional sparse tensors.
+118. [pytorch-cpp-rl](https://github.com/Omegastick/pytorch-cpp-rl): PyTorch C++ Reinforcement Learning
+119. [pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt): PyTorch extensions for fast R&D prototyping and Kaggle farming
+120. [argus-tensor-stream](https://github.com/Fonbet/argus-tensor-stream): A library for real-time video stream decoding to CUDA memory tensorstream.argus-ai.com
+121. [macarico](https://github.com/hal3/macarico): learning to search in pytorch
+122. [rlpyt](https://github.com/astooke/rlpyt): Reinforcement Learning in PyTorch
+123. [pywarm](https://github.com/blue-season/pywarm): A cleaner way to build neural networks for PyTorch. blue-season.github.io/pywarm
+124. [learn2learn](https://github.com/learnables/learn2learn): PyTorch Meta-learning Framework for Researchers http://learn2learn.net
+125. [torchbeast](https://github.com/facebookresearch/torchbeast): A PyTorch Platform for Distributed RL
+126. [higher](https://github.com/facebookresearch/higher): higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
+127. [Torchelie](https://github.com/Vermeille/Torchelie/): Torchélie is a set of utility functions, layers, losses, models, trainers and other things for PyTorch. torchelie.readthedocs.org 
+128. [CrypTen](https://github.com/facebookresearch/CrypTen): CrypTen is a Privacy Preserving Machine Learning framework written using PyTorch that allows researchers and developers to train models using encrypted data. CrypTen currently supports Secure multi-party computation as its encryption mechanism.
+129. [cvxpylayers](https://github.com/cvxgrp/cvxpylayers): cvxpylayers is a Python library for constructing differentiable convex optimization layers in PyTorch
+130. [RepDistiller](https://github.com/HobbitLong/RepDistiller): Contrastive Representation Distillation (CRD), and benchmark of recent knowledge distillation methods
+131. [kaolin](https://github.com/NVIDIAGameWorks/kaolin): PyTorch library aimed at accelerating 3D deep learning research
+132. [PySNN](https://github.com/BasBuller/PySNN): Efficient Spiking Neural Network framework, built on top of PyTorch for GPU acceleration.
+133. [sparktorch](https://github.com/dmmiller612/sparktorch): Train and run Pytorch models on Apache Spark.
+134. [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning): The easiest way to use metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+135. [autonomous-learning-library](https://github.com/cpnota/autonomous-learning-library): A PyTorch library for building deep reinforcement learning agents.
+136. [flambe](https://github.com/asappresearch/flambe): An ML framework to accelerate research and its path to production. flambe.ai
+137. [pytorch-optimizer](https://github.com/jettify/pytorch-optimizer): Collections of modern optimization algorithms for PyTorch, includes: AccSGD, AdaBound, AdaMod, DiffGrad, Lamb, RAdam, RAdam, Yogi.
+138. [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE): A Collection of Variational Autoencoders (VAE) in PyTorch.
+139. [ray](https://github.com/ray-project/ray): A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library. ray.io
+140. [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal): A temporal extension library for PyTorch Geometric 
+141. [Poutyne](https://github.com/GRAAL-Research/poutyne): A Keras-like framework for PyTorch that handles much of the boilerplating code needed to train neural networks.
+142. [Pytorch-Toolbox](https://github.com/PistonY/torch-toolbox): This is toolbox project for Pytorch. Aiming to make you write Pytorch code more easier, readable and concise.
+143. [Pytorch-contrib](https://github.com/pytorch/contrib): It contains reviewed implementations of ideas from recent machine learning papers.
+144. [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch): It contains an op-for-op PyTorch reimplementation of EfficientNet, along with pre-trained models and examples.
+145. [PyTorch/XLA](https://github.com/pytorch/xla): PyTorch/XLA is a Python package that uses the XLA deep learning compiler to connect the PyTorch deep learning framework and Cloud TPUs.
+146. [webdataset](https://github.com/tmbdev/webdataset): WebDataset is a PyTorch Dataset (IterableDataset) implementation providing efficient access to datasets stored in POSIX tar archives.
+147. [volksdep](https://github.com/Media-Smart/volksdep): volksdep is an open-source toolbox for deploying and accelerating PyTorch, Onnx and Tensorflow models with TensorRT.
+148. [PyTorch-StudioGAN](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN): StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation. StudioGAN aims to offer an identical playground for modern GANs so that machine learning researchers can readily compare and analyze a new idea.
+149. [torchdrift](https://github.com/torchdrift/torchdrift/): drift detection library
+150. [accelerate](https://github.com/huggingface/accelerate) : A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision 
+151. [lightning-transformers](https://github.com/PyTorchLightning/lightning-transformers):  Flexible interface for high-performance research using SOTA Transformers leveraging Pytorch Lightning, Transformers, and Hydra. 
+152. [Flower](https://flower.dev/) A unified approach to federated learning, analytics, and evaluation. It allows to federated any machine learning workload.
+153. [lightning-flash](https://github.com/PyTorchLightning/lightning-flash): Flash is a collection of tasks for fast prototyping, baselining and fine-tuning scalable Deep Learning models, built on PyTorch Lightning.
+154. [Pytorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed): A signed and directed extension library for PyTorch Geometric. 
+155. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
+156. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
+157. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
 
 
 ## Tutorials, books, & examples
