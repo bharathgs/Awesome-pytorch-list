@@ -70,6 +70,7 @@ Awesome-Pytorch-list
 42. [torch-metrics](https://github.com/enochkan/torch-metrics): Metrics for model evaluation in pytorch
 43. [speechbrain](https://github.com/speechbrain/speechbrain): SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
 44. [Backprop](https://github.com/backprop-ai/backprop): Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+45. [Anima](https://github.com/need-singularity/anima): Conversational consciousness agent with PureField Engine, GRU memory, voice (TTS/STT), and real-time PH overfitting detection.
 
 ### CV:
 
@@ -758,6 +759,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 36. [TorchSharp](https://github.com/interesaaat/TorchSharp): .NET bindings for the Pytorch engine
 37. [ML Workspace](https://github.com/ml-tooling/ml-workspace): All-in-one web IDE for machine learning and data science. Combines Jupyter, VS Code, PyTorch, and many other tools/libraries into one Docker image.
 38. [PyTorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide) Style guide for PyTorch code. Consistent and good code style helps collaboration and prevents errors!
+39. [PH Training](https://github.com/need-singularity/ph-training): Automatic model training pipeline powered by Persistent Homology. Epoch-1 difficulty prediction, automatic LR search, and real-time overfitting detection.
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
