@@ -13,6 +13,8 @@ Awesome-Pytorch-list
   - [NLP & Speech Processing](#nlp--Speech-Processing)
   - [Computer Vision](#cv)
   - [Probabilistic/Generative Libraries](#probabilisticgenerative-libraries)
+
+- [TabGAN](https://github.com/Diyago/Tabular-data-generation): Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.
   - [Other libraries](#other-libraries)
 - [Tutorials, books & examples](#tutorials-books--examples)
 - [Paper implementations](#paper-implementations)
