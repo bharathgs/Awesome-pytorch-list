@@ -24,6 +24,7 @@ Awesome-Pytorch-list
 1. [pytorch](http://pytorch.org): Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 2. [Captum](https://github.com/pytorch/captum): Model interpretability and understanding for PyTorch.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for PyTorch development workflow orchestration, automated model management, and multi-agent coordination. MIT licensed.
 ### NLP & Speech Processing:
 
 1. [pytorch text](https://github.com/pytorch/text): Torch text related contents.  
