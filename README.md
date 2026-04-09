@@ -342,7 +342,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 54. [torch_light](https://github.com/ne7ermore/torch_light): Tutorials and examples include Reinforcement Training, NLP, CV
 55. [portrain-gan](https://github.com/dribnet/portrain-gan): torch code to decode (and almost encode) latents from art-DCGAN's Portrait GAN.
 56. [mri-analysis-pytorch](https://github.com/omarsar/mri-analysis-pytorch): MRI analysis using PyTorch and MedicalTorch
-57. [cifar10-fast](https://github.com/davidcpage/cifar10-fast): 
+57. [CortexLab](https://github.com/siddhant-rajhans/cortexlab): Multimodal fMRI brain encoding toolkit extending Meta's TRIBE v2. Brain-alignment benchmark (RSA, CKA, Procrustes), streaming inference, 3D brain visualization, and interactive dashboard.
+58. [cifar10-fast](https://github.com/davidcpage/cifar10-fast): 
 Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 seconds as described in this [blog series](https://www.myrtle.ai/2018/09/24/how_to_train_your_resnet/).
 58. [Intro to Deep Learning with PyTorch](https://in.udacity.com/course/deep-learning-pytorch--ud188): A free course by Udacity and facebook, with a good intro to PyTorch, and an interview with Soumith Chintala, one of the original authors of PyTorch.
 59. [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis): Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
