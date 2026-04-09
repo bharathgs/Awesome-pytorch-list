@@ -284,6 +284,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
 
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=bharathgs_Awesome-pytorch-list) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ## Tutorials, books, & examples
 
 1. **[Practical Pytorch](https://github.com/spro/practical-pytorch)**: Tutorials explaining different RNN models
