@@ -26,6 +26,8 @@ Awesome-Pytorch-list
 
 ### NLP & Speech Processing:
 
+- [OneComp](https://github.com/FujitsuResearch/OneCompression): Fujitsu Research's PyTorch-based post-training quantization pipeline for LLMs with QEP, mixed-precision (AutoBit), and vLLM plugin.
+
 1. [pytorch text](https://github.com/pytorch/text): Torch text related contents.  
 2. [pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq): A framework for sequence-to-sequence (seq2seq) models implemented in PyTorch.  
 3. [anuvada](https://github.com/Sandeep42/anuvada): Interpretable Models for NLP using PyTorch.
