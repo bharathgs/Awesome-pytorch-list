@@ -712,6 +712,7 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 344. [MagNet](https://github.com/matthew-hirn/magnet): Official implementation of the NeurIPS2021 paper "MagNet: A Neural Network for Directed Graphs".
 345. [Semantic Search](https://github.com/kuutsav/information-retrieval): Latest in the field of neural information retrieval / semantic search.
 346. [FreeGrad](https://github.com/tbox98/FreeGrad) - PyTorch library for custom backward passes, straight-through estimators and gradient transforms.
+347. [ml-quant-trading](https://github.com/initial-d/ml-quant-trading): PyTorch research implementation of [Machine Learning Enhanced Multi-Factor Quantitative Trading](https://arxiv.org/abs/2507.07107), covering 213 factors, bias correction, portfolio optimization, and vectorized backtesting.
 
 
 ## Talks & conferences
