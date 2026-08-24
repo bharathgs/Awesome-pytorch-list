@@ -761,3 +761,6 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 
 
 ##### Feedback: If you have any ideas or you want any other content to be added to this list, feel free to contribute.
+
+
+- [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal AI video forensics and deepfake detection engine built with PyTorch, Vision Transformers, and Bayesian Evidentiary Fusion.
