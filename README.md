@@ -281,7 +281,8 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 153. [Pytorch Geometric Signed Directed](https://github.com/SherylHYX/pytorch_geometric_signed_directed): A signed and directed extension library for PyTorch Geometric. 
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
-156. [TorchDR](https://github.com/TorchDR/TorchDR): GPU-accelerated dimensionality reduction library for PyTorch with scikit-learn-compatible API. Includes implementations of UMAP, t-SNE, PCA, and more.
+156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+157. [TorchDR](https://github.com/TorchDR/TorchDR): GPU and multi-GPU dimensionality reduction for PyTorch with a scikit-learn-compatible API, including UMAP, t-SNE, PACMAP, PHATE, and PCA.
 
 ## Tutorials, books, & examples
 
@@ -358,6 +359,7 @@ Demonstration of training a small ResNet on CIFAR10 to 94% test accuracy in 79 s
 70. [Serverless Machine Learning in Action with PyTorch and AWS](https://www.manning.com/books/serverless-machine-learning-in-action): Serverless Machine Learning in Action is a guide to bringing your experimental PyTorch machine learning code to production using serverless capabilities from major cloud providers like AWS, Azure, or GCP.
 71. [LabML NN](https://github.com/lab-ml/nn): A collection of PyTorch implementations of neural networks architectures and algorithms with side-by-side notes.
 72. [Run your PyTorch Example Fedarated with Flower](https://github.com/adap/flower/tree/main/examples/pytorch_from_centralized_to_federated): This example demonstrates how an already existing centralized PyTorch machine learning project can be federated with Flower. A Cifar-10 dataset is used together with a convolutional neural network (CNN).
+73. [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book): A free FreeCodeCamp book teaching the math behind AI in plain English from an engineering point of view. It covers linear algebra, calculus, probability & statistics, and optimization theory with analogies, real-life applications, and Python code examples.
 
 ## Paper implementations
 
@@ -709,6 +711,8 @@ Janai, J., Güney, F., Ranjan, A., Black, M. and Geiger, A., Unsupervised Learni
 343. [SSSNET](https://github.com/SherylHYX/SSSNET_Signed_Clustering): Official implementation of the SDM2022 paper "SSSNET: Semi-Supervised Signed Network Clustering".
 344. [MagNet](https://github.com/matthew-hirn/magnet): Official implementation of the NeurIPS2021 paper "MagNet: A Neural Network for Directed Graphs".
 345. [Semantic Search](https://github.com/kuutsav/information-retrieval): Latest in the field of neural information retrieval / semantic search.
+346. [FreeGrad](https://github.com/tbox98/FreeGrad) - PyTorch library for custom backward passes, straight-through estimators and gradient transforms.
+
 
 ## Talks & conferences
 
