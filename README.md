@@ -282,7 +282,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
-
+157. [TorchDR](https://github.com/TorchDR/TorchDR): GPU and multi-GPU dimensionality reduction for PyTorch with a scikit-learn-compatible API, including UMAP, t-SNE, PACMAP, PHATE, and PCA.
 
 ## Tutorials, books, & examples
 
