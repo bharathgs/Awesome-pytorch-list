@@ -126,6 +126,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 9. [botorch](https://github.com/pytorch/botorch): Bayesian optimization in PyTorch
 
 ### Other libraries:
+- [SuperL8](https://github.com/jajmangold/superl8) - INT8 DP4A FlashAttention-2 and GEMM kernels for Volta GPUs. PyTorch extension with custom .superl8 weight format.
 
 1. [pytorch extras](https://github.com/mrdrozdov/pytorch-extras): Some extra features for pytorch.    
 2. [functional zoo](https://github.com/szagoruyko/functional-zoo): PyTorch, unlike lua torch, has autograd in it's core, so using modular structure of torch.nn modules is not necessary, one can easily allocate needed Variables and write a function that utilizes them, which is sometimes more convenient. This repo contains model definitions in this functional way, with pretrained weights for some models. 
