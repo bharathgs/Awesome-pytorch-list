@@ -70,6 +70,7 @@ Awesome-Pytorch-list
 42. [torch-metrics](https://github.com/enochkan/torch-metrics): Metrics for model evaluation in pytorch
 43. [speechbrain](https://github.com/speechbrain/speechbrain): SpeechBrain is an open-source and all-in-one speech toolkit based on PyTorch.
 44. [Backprop](https://github.com/backprop-ai/backprop): Backprop makes it simple to use, finetune, and deploy state-of-the-art ML models.
+45. [tiny-audio](https://github.com/alexkroman/tiny-audio): A minimal, hackable codebase for training LLM-based speech recognition by connecting a frozen pretrained speech encoder to a pretrained LLM through a small trained projector.
 
 ### CV:
 
