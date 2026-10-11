@@ -282,6 +282,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+157. [space-ml-sim](https://github.com/orbital-sim-lab/space-ml-sim): Simulate AI inference on orbital satellite constellations under space radiation. Radiation-derived Poisson bit-flip injection into PyTorch weights/activations, transformer-aware targeting (attention/LayerNorm/embeddings), full and selective Triple Modular Redundancy, checkpoint rollback, ONNX import, and 7 space-hardened chip profiles.
 
 
 ## Tutorials, books, & examples
