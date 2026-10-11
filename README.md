@@ -282,6 +282,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+157. [FlashAttention](https://github.com/Dao-AILab/flash-attention): Fast and memory-efficient exact attention with IO-awareness. Provides a CUDA implementation that is 2-4x faster than standard PyTorch attention and uses up to 10x less memory.
 
 
 ## Tutorials, books, & examples
