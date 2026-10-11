@@ -282,6 +282,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+157. [stageload](https://github.com/nefayran/stageload): Runs multi-stage PyTorch pipelines with only the current stage's weights in memory. It loads a model when a stage first asks for it and frees it when the pipeline moves on, which matters on Apple Silicon, where models parked on the CPU still take the same RAM.
 
 
 ## Tutorials, books, & examples
