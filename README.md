@@ -282,6 +282,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+157. [tensorViz](https://marketplace.visualstudio.com/items?itemName=tensorviz.tensorviz-vscode): Free VS Code extension for exploring PyTorch model graphs, inspecting captured tensor shapes, and navigating to Python source, with [public examples](https://github.com/tensorviz-org/tensorviz-examples).
 
 
 ## Tutorials, books, & examples
