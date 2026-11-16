@@ -282,6 +282,7 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 154. [Koila](https://github.com/rentruewang/koila): A simple wrapper around pytorch that prevents CUDA out of memory issues.
 155. [Renate](https://github.com/awslabs/renate): A library for real-world continual learning.
 156. [ANEE](https://github.com/abkmystery/ANEE) – Adaptive Neural Execution Engine for PyTorch transformers. Provides per-token dynamic layer skipping, profiler-based gating, and KV-cache-safe sparse inference.
+157. [early-stopping-is-self-care](https://github.com/sooverfit/early-stopping-is-self-care): A joke PyTorch Lightning (and Keras) callback that prints a short ML roast when EarlyStopping fires. Read-only: it changes no training behaviour, with tests proving identical results.
 
 
 ## Tutorials, books, & examples
