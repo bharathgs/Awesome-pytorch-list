@@ -154,43 +154,44 @@ This library contains a PyTorch implementation of the SO(3) equivariant CNNs for
 25. [torch2coreml](https://github.com/prisma-ai/torch2coreml): Torch7 -> CoreML
 26. [PyTorch-Encoding](https://github.com/zhanghang1989/PyTorch-Encoding): PyTorch Deep Texture Encoding Network http://hangzh.com/PyTorch-Encoding
 27. [pytorch-ctc](https://github.com/ryanleary/pytorch-ctc): PyTorch-CTC is an implementation of CTC (Connectionist Temporal Classification) beam search decoding for PyTorch. C++ code borrowed liberally from TensorFlow with some improvements to increase flexibility.
-28. [candlegp](https://github.com/t-vi/candlegp): Gaussian Processes in Pytorch. 
-29. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging. 
-30. [dni-pytorch](https://github.com/koz4k/dni-pytorch): Decoupled Neural Interfaces using Synthetic Gradients for PyTorch.
-31. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
-32. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
-33. [Arnold](https://github.com/glample/Arnold): Arnold - DOOM Agent
-34. [pytorch-mcn](https://github.com/albanie/pytorch-mcn): Convert models from MatConvNet to PyTorch
-35. [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch): A simplified implemention of Faster R-CNN with competitive performance.
-36. [generative_zoo](https://github.com/DL-IT/generative_zoo): generative_zoo is a repository that provides working implementations of some generative models in PyTorch.
-37. [pytorchviz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs. 
-38. [cogitare](https://github.com/cogitare-ai/cogitare): Cogitare - A Modern, Fast, and Modular Deep Learning and Machine Learning framework in Python. 
-39. [pydlt](https://github.com/dmarnerides/pydlt): PyTorch based Deep Learning Toolbox
-40. [semi-supervised-pytorch](https://github.com/wohlert/semi-supervised-pytorch): Implementations of different VAE-based semi-supervised and generative models in PyTorch. 
-41. [pytorch_cluster](https://github.com/rusty1s/pytorch_cluster): PyTorch Extension Library of Optimised Graph Cluster Algorithms.
-42. [neural-assembly-compiler](https://github.com/aditya-khant/neural-assembly-compiler): A neural assembly compiler for pyTorch based on adaptive-neural-compilation. 
-43. [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch): Convert Caffe models to PyTorch.
-44. [extension-cpp](https://github.com/pytorch/extension-cpp): C++ extensions in PyTorch
-45. [pytoune](https://github.com/GRAAL-Research/pytoune): A Keras-like framework and utilities for PyTorch
-46. [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
-47. [matchbox](https://github.com/salesforce/matchbox): Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
-48. [torch-two-sample](https://github.com/josipd/torch-two-sample): A PyTorch library for two-sample tests
-49. [pytorch-summary](https://github.com/sksq96/pytorch-summary): Model summary in PyTorch similar to `model.summary()` in Keras
-50. [mpl.pytorch](https://github.com/BelBES/mpl.pytorch): Pytorch implementation of MaxPoolingLoss.
-51. [scVI-dev](https://github.com/YosefLab/scVI-dev): Development branch of the scVI project in PyTorch
-52. [apex](https://github.com/NVIDIA/apex): An Experimental PyTorch Extension(will be deprecated at a later point)
-53. [ELF](https://github.com/pytorch/ELF): ELF: a platform for game research.
-54. [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
-55. [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
-56. [SLM-Lab](https://github.com/kengz/SLM-Lab): Modular Deep Reinforcement Learning framework in PyTorch.
-57. [bindsnet](https://github.com/Hananel-Hazan/bindsnet): A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch
-58. [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module
-59. [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric): Geometric Deep Learning Extension Library for PyTorch
-60. [torchplus](https://github.com/knighton/torchplus): Implements the + operator on PyTorch modules, returning sequences.
-61. [lagom](https://github.com/zuoxingdong/lagom): lagom: A light PyTorch infrastructure to quickly prototype reinforcement learning algorithms.
-62. [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: A model training library for researchers using PyTorch.
-63. [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch. 
-64. [NALU](https://github.com/bharathgs/NALU): Basic pytorch implementation of NAC/NALU from Neural Arithmetic Logic Units paper by trask et.al arxiv.org/pdf/1808.00508.pdf
+28. [candlegp](https://github.com/t-vi/candlegp): Gaussian Processes in Pytorch.
+29. 29. [MicroTorch](https://github.com/YashrajMiyatra/microtorch): A lightweight, zero-dependency Tensor Autograd and Neural Network framework built from scratch in pure Python with reverse-mode automatic differentiation.
+30. [dpwa](https://github.com/loudinthecloud/dpwa): Distributed Learning by Pair-Wise Averaging. 
+31. [dni-pytorch](https://github.com/koz4k/dni-pytorch): Decoupled Neural Interfaces using Synthetic Gradients for PyTorch.
+32. [skorch](https://github.com/dnouri/skorch): A scikit-learn compatible neural network library that wraps pytorch
+33. [ignite](https://github.com/pytorch/ignite): Ignite is a high-level library to help with training neural networks in PyTorch.
+34. [Arnold](https://github.com/glample/Arnold): Arnold - DOOM Agent
+35. [pytorch-mcn](https://github.com/albanie/pytorch-mcn): Convert models from MatConvNet to PyTorch
+36. [simple-faster-rcnn-pytorch](https://github.com/chenyuntc/simple-faster-rcnn-pytorch): A simplified implemention of Faster R-CNN with competitive performance.
+37. [generative_zoo](https://github.com/DL-IT/generative_zoo): generative_zoo is a repository that provides working implementations of some generative models in PyTorch.
+38. [pytorchviz](https://github.com/szagoruyko/pytorchviz): A small package to create visualizations of PyTorch execution graphs. 
+39. [cogitare](https://github.com/cogitare-ai/cogitare): Cogitare - A Modern, Fast, and Modular Deep Learning and Machine Learning framework in Python. 
+40. [pydlt](https://github.com/dmarnerides/pydlt): PyTorch based Deep Learning Toolbox
+41. [semi-supervised-pytorch](https://github.com/wohlert/semi-supervised-pytorch): Implementations of different VAE-based semi-supervised and generative models in PyTorch. 
+42. [pytorch_cluster](https://github.com/rusty1s/pytorch_cluster): PyTorch Extension Library of Optimised Graph Cluster Algorithms.
+43. [neural-assembly-compiler](https://github.com/aditya-khant/neural-assembly-compiler): A neural assembly compiler for pyTorch based on adaptive-neural-compilation. 
+44. [caffemodel2pytorch](https://github.com/vadimkantorov/caffemodel2pytorch): Convert Caffe models to PyTorch.
+45. [extension-cpp](https://github.com/pytorch/extension-cpp): C++ extensions in PyTorch
+46. [pytoune](https://github.com/GRAAL-Research/pytoune): A Keras-like framework and utilities for PyTorch
+47. [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement): Deep reinforcement learning libraries for NVIDIA Jetson TX1/TX2 with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
+48. [matchbox](https://github.com/salesforce/matchbox): Write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
+49. [torch-two-sample](https://github.com/josipd/torch-two-sample): A PyTorch library for two-sample tests
+50. [pytorch-summary](https://github.com/sksq96/pytorch-summary): Model summary in PyTorch similar to `model.summary()` in Keras
+51. [mpl.pytorch](https://github.com/BelBES/mpl.pytorch): Pytorch implementation of MaxPoolingLoss.
+52. [scVI-dev](https://github.com/YosefLab/scVI-dev): Development branch of the scVI project in PyTorch
+53. [apex](https://github.com/NVIDIA/apex): An Experimental PyTorch Extension(will be deprecated at a later point)
+54. [ELF](https://github.com/pytorch/ELF): ELF: a platform for game research.
+55. [Torchlite](https://github.com/EKami/Torchlite): A high level library on top of(not only) Pytorch
+56. [joint-vae](https://github.com/Schlumberger/joint-vae): Pytorch implementation of JointVAE, a framework for disentangling continuous and discrete factors of variation star2
+57. [SLM-Lab](https://github.com/kengz/SLM-Lab): Modular Deep Reinforcement Learning framework in PyTorch.
+58. [bindsnet](https://github.com/Hananel-Hazan/bindsnet): A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch
+59. [pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch): ProGAN package implemented as an extension of PyTorch nn.Module
+60. [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric): Geometric Deep Learning Extension Library for PyTorch
+61. [torchplus](https://github.com/knighton/torchplus): Implements the + operator on PyTorch modules, returning sequences.
+62. [lagom](https://github.com/zuoxingdong/lagom): lagom: A light PyTorch infrastructure to quickly prototype reinforcement learning algorithms.
+63. [torchbearer](https://github.com/ecs-vlc/torchbearer): torchbearer: A model training library for researchers using PyTorch.
+64. [pytorch-maml-rl](https://github.com/tristandeleu/pytorch-maml-rl): Reinforcement Learning with Model-Agnostic Meta-Learning in Pytorch. 
+65. [NALU](https://github.com/bharathgs/NALU): Basic pytorch implementation of NAC/NALU from Neural Arithmetic Logic Units paper by trask et.al arxiv.org/pdf/1808.00508.pdf
 66. [QuCumber](https://github.com/PIQuIL/QuCumber): Neural Network Many-Body Wavefunction Reconstruction
 67. [magnet](https://github.com/MagNet-DL/magnet): Deep Learning Projects that Build Themselves http://magnet-dl.readthedocs.io/
 68. [opencv_transforms](https://github.com/jbohnslav/opencv_transforms): OpenCV implementation of Torchvision's image augmentations
